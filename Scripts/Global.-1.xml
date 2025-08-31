@@ -1,0 +1,478 @@
+<Panel
+   id="main_menu_panel"
+   visibility="Host"
+   active="false"
+   rectAlignment="MiddleCenter"
+   width="500"
+   height="500"
+   image="main_menu_bg"
+   allowDragging="false">
+
+<Text
+   id="news_text"
+   offsetXY="0 160"
+   fontSize="32"
+   fontStyle="Bold"
+   color="#00edf5ff"
+   outline="#000000ff"
+   outlineSize="1 1"
+>Star Wars Destiny: A Renewed Hope</Text>
+
+<Button
+   offsetXY="-100 -30"
+   width="180"
+   height="180"
+   onClick="2a325b/setupStandard"
+   image="main_menu_button_2"
+   fontSize="26"
+   textColor="#30b8b8ff"
+>Standard</Button>
+
+<Button
+   offsetXY="100 -30"
+   width="180"
+   height="180"
+   onClick="enableLimitedMenu"
+   image="main_menu_button_2"
+   fontSize="26"
+   textColor="#00D8D8"
+>Draft</Button></Panel>
+
+<Panel
+   id="blue_panel"
+   visibility="Blue"
+   active="false"
+   rectAlignment="LowerRight"
+   width="265"
+   height="318"
+   image="ingame_gui_background"
+   allowDragging="true"
+   returnToOriginalPositionWhenReleased="false"
+>
+<Image
+   offsetXY="0 115"
+   width="265"
+   height="80"
+   image="ingame_blue_panel_overlay"
+   raycastTarget="false"
+></Image>
+
+<Text
+   id="blue_panel_red_cards"
+   offsetXY="-20 133"
+   fontStyle="Bold"
+   fontSize="36"
+   color="#FFFFFF"
+>0</Text>
+
+<Text
+   id="blue_panel_blue_cards"
+   offsetXY="-20 98"
+   fontStyle="Bold"
+   fontSize="36"
+   color="#FFFFFF"
+>0</Text>
+
+<Text
+   id="blue_panel_red_resources"
+   offsetXY="80 133"
+   fontStyle="Bold"
+   fontSize="36"
+   color="#FFFFFF"
+>0</Text>
+
+<Text
+   id="blue_panel_blue_resources"
+   offsetXY="80 98"
+   fontStyle="Bold"
+   fontSize="36"
+   color="#FFFFFF"
+>0</Text>
+
+<Button
+   offsetXY="110 140"
+   width="15"
+   height="15"
+   onClick="guiToggle"
+   image="ingame_gui_minimize"
+></Button>
+
+<Button
+   offsetXY="-60 23"
+   width="92"
+   height="92"
+   toolTip="Left click for resource, right click to remove a resource."
+   onClick="guiResource"
+   image="ingame_gui_resource"
+   tooltipPosition="Above"
+   tooltipBackgroundColor="rgba(0,0,0,1)"
+></Button>
+
+<Button
+   offsetXY="60 23"
+   width="92"
+   height="92"
+   toolTip="Pass (do nothing) for your turn."
+   onClick="guiPass"
+   image="ingame_gui_pass"
+   tooltipPosition="Above"
+   tooltipBackgroundColor="rgba(0,0,0,1)"
+></Button>
+
+<Button
+   offsetXY="-60 -92"
+   width="92"
+   height="92"
+   toolTip="Randomly shuffle cards in your hand."
+   onClick="guiShuffle"
+   image="ingame_gui_shuffle"
+   tooltipPosition="Above"
+   tooltipBackgroundColor="rgba(0,0,0,1)"
+></Button>
+
+<Button
+   offsetXY="60 -92"
+   width="92"
+   height="92"
+   toolTip="Discard a random card in your hand."
+   onClick="guiDiscard"
+   image="ingame_gui_discard"
+   tooltipPosition="Above"
+   tooltipBackgroundColor="rgba(0,0,0,1)"
+   fontSize="32"
+   textColor="#000000"
+></Button> </Panel>
+
+<Panel
+   id="red_panel"
+   visibility="Red"
+   active="false"
+   rectAlignment="LowerRight"
+   width="265"
+   height="318"
+   image="ingame_gui_background"
+   allowDragging="true"
+   returnToOriginalPositionWhenReleased="false"
+>
+<Image
+   offsetXY="0 115"
+   width="265"
+   height="80"
+   image="ingame_red_panel_overlay"
+   raycastTarget="false"
+></Image>
+
+<Text
+   id="red_panel_blue_cards"
+   offsetXY="-20 133"
+   fontStyle="Bold"
+   fontSize="36"
+   color="#FFFFFF"
+>0</Text>
+
+<Text
+   id="red_panel_red_cards"
+   offsetXY="-20 98"
+   fontStyle="Bold"
+   fontSize="36"
+   color="#FFFFFF"
+>0</Text>
+
+<Text
+   id="red_panel_blue_resources"
+   offsetXY="80 133"
+   fontStyle="Bold"
+   fontSize="36"
+   color="#FFFFFF"
+>0</Text>
+
+<Text
+   id="red_panel_red_resources"
+   offsetXY="80 98"
+   fontStyle="Bold"
+   fontSize="36"
+   color="#FFFFFF"
+>0</Text>
+
+<Button
+   offsetXY="110 140"
+   width="15"
+   height="15"
+   onClick="guiToggle"
+   image="ingame_gui_minimize"
+></Button>
+
+<Button
+   offsetXY="-60 23"
+   width="92"
+   height="92"
+   toolTip="Get a resource"
+   onClick="guiResource"
+   image="ingame_gui_resource"
+   tooltipPosition="Above"
+   tooltipBackgroundColor="rgba(0,0,0,1)"
+></Button>
+
+<Button
+   offsetXY="60 23"
+   width="92"
+   height="92"
+   toolTip="Pass"
+   onClick="guiPass"
+   image="ingame_gui_pass"
+   tooltipPosition="Above"
+   tooltipBackgroundColor="rgba(0,0,0,1)"
+></Button>
+
+<Button
+   offsetXY="-60 -92"
+   width="92"
+   height="92"
+   toolTip="Shuffle your hand"
+   onClick="guiShuffle"
+   image="ingame_gui_shuffle"
+   tooltipPosition="Above"
+   tooltipBackgroundColor="rgba(0,0,0,1)"
+></Button>
+
+<Button
+   offsetXY="60 -92"
+   width="92"
+   height="92"
+   toolTip="Discard a random card"
+   onClick="guiDiscard"
+   image="ingame_gui_discard"
+   tooltipPosition="Above"
+   tooltipBackgroundColor="rgba(0,0,0,1)"
+   fontSize="32"
+   textColor="#000000"
+></Button> </Panel>
+
+<Panel
+   id="limited_panel"
+   visibility="Host"
+   active="false"
+   offsetXY="0 0"
+   width="500"
+   height="500"
+   rectAlignment="MiddleCenter"
+   image="main_menu_bg"
+   allowDragging="false"
+>
+
+<Button
+   id="normal_draft"
+   offsetXY="-160 150"
+   width="150"
+   height="150"
+   onClick="2a325b/setupDraftNormal"
+   image="main_menu_button_2"
+   fontSize="26"
+   textColor="#00D8D8"
+>Normal Draft</Button>
+
+<Button
+   id="winchester_draft"
+   offsetXY="0 150"
+   width="150"
+   height="150"
+   onClick="2a325b/setupDraftWinchester"
+   image="main_menu_button_2"
+   fontSize="27"
+   textColor="#00D8D8"
+>Winchester Draft</Button>
+
+<Button
+   id="cube_draft"
+   offsetXY="160 150"
+   width="150"
+   height="150"
+   onClick="2a325b/setupDraftCube"
+   image="main_menu_button_2"
+   fontSize="26"
+   textColor="#00D8D8"
+>Cube Draft</Button>
+
+<Button
+   id="sealed_mode"
+   offsetXY="0 -10"
+   width="150"
+   height="150"
+   onClick="2a325b/setupSealed"
+   image="main_menu_button_2"
+   fontSize="26"
+   textColor="#00D8D8"
+>Sealed</Button>
+
+<Button
+   offsetXY="-160 -10"
+   width="150"
+   height="150"
+   onClick="enableBuildBoxMenu"
+   image="main_menu_button_2"
+   fontSize="26"
+   textColor="#00D8D8"
+>Build A Box</Button>
+
+<Button
+   offsetXY="-400 30"
+   width="128"
+   height="128"
+   onClick="enableMainMenu"
+   image="menu_back"
+></Button> </Panel>
+
+<Panel
+   id="build_box_panel"
+   visibility="Host"
+   active="false"
+   offsetXY="0 0"
+   width="1200"
+   height="1200"
+   rectAlignment="MiddleCenter"
+   image="menu_bg_dim"
+   allowDragging="false"
+>
+
+<Button
+   id="box_aw"
+   offsetXY="-260 330"
+   width="256"
+   height="256"
+   onClick="2a325b/buildBox"
+   image="box_aw"
+></Button>
+
+<Text
+   offsetXY="-260 190"
+   fontSize="40"
+   color="#00D8D8"
+>AWK</Text>
+
+<Button
+   id="box_sor"
+   offsetXY="-10 330"
+   width="256"
+   height="256"
+   onClick="2a325b/buildBox"
+   image="box_sor"
+></Button>
+
+<Text
+   offsetXY="-10 190"
+   fontSize="40"
+   color="#00D8D8"
+>SoR</Text>
+
+<Button
+   id="box_eaw"
+   offsetXY="-160 330"
+   width="256"
+   height="256"
+   onClick="2a325b/buildBox"
+   image="box_eaw"
+></Button>
+
+<Text
+   offsetXY="-160 190"
+   fontSize="40"
+   color="#00D8D8"
+>EaW</Text>
+
+<Button
+   id="box_leg"
+   offsetXY="-460 30"
+   width="256"
+   height="256"
+   onClick="2a325b/buildBox"
+   image="box_leg"
+></Button>
+
+<Text
+   offsetXY="-460 -110"
+   fontSize="40"
+   color="#00D8D8"
+>LEG</Text>
+
+<Button
+   id="box_wotf"
+   offsetXY="-210 30"
+   width="256"
+   height="256"
+   onClick="2a325b/buildBox"
+   image="box_wotf"
+></Button>
+
+<Text
+   offsetXY="-210 -110"
+   fontSize="40"
+   color="#00D8D8"
+>WoTF</Text>
+
+<Button
+   id="box_atg"
+   offsetXY="40 30"
+   width="256"
+   height="256"
+   onClick="2a325b/buildBox"
+   image="box_atg"
+></Button>
+
+<Text
+   offsetXY="40 -110"
+   fontSize="40"
+   color="#00D8D8"
+>AtG</Text>
+
+<Button
+   id="box_conv"
+   offsetXY="-460 -270"
+   width="256"
+   height="256"
+   onClick="2a325b/buildBox"
+   image="box_conv"
+></Button>
+
+<Text
+   offsetXY="-460 -410"
+   fontSize="40"
+   color="#00D8D8"
+>CONV</Text>
+
+<Button
+   id="box_soh"
+   offsetXY="-210 -270"
+   width="256"
+   height="256"
+   onClick="2a325b/buildBox"
+   image="box_soh"
+></Button>
+
+<Text
+   offsetXY="-210 -410"
+   fontSize="40"
+   color="#00D8D8"
+>SoH</Text>
+
+<Button
+   id="box_cm"
+   offsetXY="40 -270"
+   width="256"
+   height="256"
+   onClick="2a325b/buildBox"
+   image="box_cm"
+></Button>
+
+<Text
+   offsetXY="40 -410"
+   fontSize="40"
+   color="#00D8D8"
+>CM</Text>
+
+<Button
+   offsetXY="-650 30"
+   width="128"
+   height="128"
+   onClick="enableLimitedMenu"
+   image="menu_back"
+></Button> </Panel>
