@@ -218,7 +218,7 @@ function spawnLoadedDeck(deckName, deckSlots)
 
   spawnParams.json = JSON.encode(bagTemplateJSON)
 
-  spawnParams.position = { 5, 0, 10 }
+  spawnParams.position = { -5, 0, -10 }
 
   spawnParams.rotation = { 0, 0, 0 }
   spawnObjectJSON(spawnParams)
