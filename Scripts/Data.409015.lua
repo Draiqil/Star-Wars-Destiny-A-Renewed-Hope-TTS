@@ -2870,9 +2870,6 @@ SWDARHISTHEBEST = nil
 
 ttsDeckInfo = { -- Poor name, need to change.
 
--- Two Player Starter
-  { ttsdeckid = "1",   deckimage = "https://steamusercontent-a.akamaihd.net/ugc/858354911724386771/892B79793EE86A4BAB29B487F313BA2F1D86E16B/", deckwidth = 10, deckheight = 7 },
-  
 -- Awakenings
   { ttsdeckid = "13",  deckimage = "https://steamusercontent-a.akamaihd.net/ugc/9400446189831889522/E18103B98F57E43A3A6CEAA57C3A7FA7F3B45CB5/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "14",  deckimage = "https://steamusercontent-a.akamaihd.net/ugc/9604039691169887594/07BEB209703ACB84518075ABBAEB54EDE8D42FC5/",                                           deckwidth = 10, deckheight = 7 },
@@ -2890,54 +2887,97 @@ ttsDeckInfo = { -- Poor name, need to change.
   { ttsdeckid = "27",  deckimage = "https://steamusercontent-a.akamaihd.net/ugc/869614971446951260/8A3BDCF34E9D60A070ED753C9E15EF10A99D55BD/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "34",  deckimage = "https://steamusercontent-a.akamaihd.net/ugc/869614883116985366/B76F8D906AC5AD7D6EC45811FC0F88535894BCAA/", deckwidth = 10, deckheight = 7 },
   
-  -- Rivals
-  { ttsdeckid = "470", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/910156163256816647/860DB84FFE43F9A965DB40F976607C9F49396FCD/", deckwidth = 10, deckheight = 7 },
+  -- Two Player Game
+  { ttsdeckid = "1",   deckimage = "https://steamusercontent-a.akamaihd.net/ugc/858354911724386771/892B79793EE86A4BAB29B487F313BA2F1D86E16B/", deckwidth = 10, deckheight = 7 },
   
+  -- Legacies
   { ttsdeckid = "471", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/910157197471550653/076BC0D620476AEDF1A7EE10CEE97A03F3E06C72/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "472", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/910157197471554206/D637CBE0377923200B602507BDC45653FE06B264/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "473", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/910157197472506127/6038134EFC06C9B338C589EA58F3638B38B47AAF/", deckwidth = 10, deckheight = 7 },
-  { ttsdeckid = "493", deckimage = "http://drive.google.com/uc?id=1u4B0psw6EKBhPIDPxzCPV5Bn8ruaVUAK",                                      deckwidth = 10, deckheight = 7 },
-  { ttsdeckid = "496", deckimage = "http://drive.google.com/uc?id=1atAK0sRjX9ZxFIrdzoyPIAHm1K9mupaI",                                      deckwidth = 10, deckheight = 3 },
-  { ttsdeckid = "498", deckimage = "http://drive.google.com/uc?id=1w0iTR9-Y_SNVX8LgUk40GxAE5LhEm1n8",                                      deckwidth = 10, deckheight = 7 },
+   
+  -- Rivals
+  { ttsdeckid = "470", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/910156163256816647/860DB84FFE43F9A965DB40F976607C9F49396FCD/", deckwidth = 10, deckheight = 7 },
+  
+  -- Way of the Force
   { ttsdeckid = "485", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/948454029951666175/ABBDBADA750754C76D0A3910B252350CBB3F61F7/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "486", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/948454029951663166/D7690081A763E82D91EA87C86D6A08CF7F4177FC/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "487", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/948454029951660614/BE1C3291FB80F1B91F4A4FF4AAB34FD1188948E4/", deckwidth = 10, deckheight = 7 },
+  
+  -- Across the Galaxy
+  { ttsdeckid = "493", deckimage = "http://drive.google.com/uc?id=1u4B0psw6EKBhPIDPxzCPV5Bn8ruaVUAK",                                      deckwidth = 10, deckheight = 7 },
+  { ttsdeckid = "496", deckimage = "http://drive.google.com/uc?id=1atAK0sRjX9ZxFIrdzoyPIAHm1K9mupaI",                                      deckwidth = 10, deckheight = 3 },
+  { ttsdeckid = "498", deckimage = "http://drive.google.com/uc?id=1w0iTR9-Y_SNVX8LgUk40GxAE5LhEm1n8",                                      deckwidth = 10, deckheight = 7 },
+
+  -- Convergence
   { ttsdeckid = "499", deckimage = "http://drive.google.com/uc?id=1lyMH8Pz5_je2JF8x2DpZWvduiePSVCCM",                                      deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "500", deckimage = "http://drive.google.com/uc?id=1yDIf6jd9samenWa8ENw-7lSaNaRgKjwA",                                      deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "501", deckimage = "http://drive.google.com/uc?id=1ZE2LhMX9z-rF8d09UmLla9k2gGaZxyeM",                                      deckwidth = 10, deckheight = 4 },
+  
+  -- Allies of Necessity
   { ttsdeckid = "502", deckimage = "http://drive.google.com/uc?id=1cFN82Fp_lzneul60dKj0D98sDkPj6qEl",                                      deckwidth = 5,  deckheight = 4 },
+  
+  -- Spark of Hope
   { ttsdeckid = "528", deckimage = "http://drive.google.com/uc?id=1o6O0boYzQBsNDjyHDpO3vGDkz1ZrBXTR",                                      deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "529", deckimage = "http://drive.google.com/uc?id=1hmccI2qMvGUdkk4CUioiw_oGqdOTLYiQ",                                      deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "530", deckimage = "http://drive.google.com/uc?id=1Tzleo05mEe3P-9XgJrDgwPGqYsVg0L0V",                                      deckwidth = 10, deckheight = 7 },
+  
+  -- Covert Missions
   { ttsdeckid = "535", deckimage = "http://drive.google.com/uc?id=1-ErZgLeThVoPXon62qXrQuixdfzHT1k4",                                      deckwidth = 8, deckheight = 5 },
   { ttsdeckid = "536", deckimage = "http://drive.google.com/uc?id=1gmhlzNGgGKIQMx3Vr0uwZux8rcIefuDM",                                      deckwidth = 8, deckheight = 5 },
   { ttsdeckid = "537", deckimage = "http://drive.google.com/uc?id=1a28ktOr6kAhKn-YLg1SnmqqC0vc7wAlk",                                      deckwidth = 8, deckheight = 5 },
   { ttsdeckid = "538", deckimage = "http://drive.google.com/uc?id=1WL-W-3nD7e7xzhjcRtBFfUvgOiOsmLXg",                                      deckwidth = 8, deckheight = 5 },
+  
+  -- Transformations
   { ttsdeckid = "539", deckimage = "https://drive.google.com/uc?id=1eJVMq2HjirpCF_sCIsTAN7KdLUulrEBq",                                     deckwidth = 6, deckheight = 4 },
   { ttsdeckid = "540", deckimage = "https://drive.google.com/uc?id=1JCWMndgx91f0l2lGyT58v9uABtgVGLXR",                                     deckwidth = 6, deckheight = 4 },
+  
+ -- END OF FANTASY FLIGHT SETS
+
+ -- BEGINNING OF A RENEWED HOPE SETS
+
+ -- Faltering Allegiences
   { ttsdeckid = "550", deckimage = "https://drive.google.com/uc?id=1tYcnNwWU36Muhs4diBHQRgsxyySx92G7",                                     deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "551", deckimage = "https://drive.google.com/uc?id=1B6REcTd3L2S7ewXsJLroRnU6MEswrrtj",                                     deckwidth = 5, deckheight = 4 },
+  
+  -- Redemption
   { ttsdeckid = "552", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1750180226665197280/D6289764682F3D15D2311173C0B90E988D46F9C6/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "553", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1750180226665206816/3A0C5AC6D65B527FCF6E3A747AD052C829B0295E/", deckwidth = 10, deckheight = 4 },
   { ttsdeckid = "571", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1750180226665425194/E94C2B673EF70BF8A099641ADF82507852B8247C/", deckwidth = 4, deckheight = 2 },
   { ttsdeckid = "573", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1750180226665425501/C226AE9B94ACCD622FAA2E9F59EBF8BFE84DF756/", deckwidth = 4, deckheight = 2 },
   { ttsdeckid = "573", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1750180226665425501/C226AE9B94ACCD622FAA2E9F59EBF8BFE84DF756/", deckwidth = 4, deckheight = 2 },
+  
+  -- x4 CT-4040 Plots???
   { ttsdeckid = "574", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1759189848243249004/9B2489F3BEABCF37D9BD6AEF3313DF4610215D2C/", deckwidth = 2, deckheight = 2 },
+  
+  -- High Stakes
   { ttsdeckid = "575", deckimage = "https://drive.google.com/uc?id=1j1PP4segZS0z891NV8rhzlkHkwQislla",                                      deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "576", deckimage = "https://drive.google.com/uc?id=1a-6fViFzgQDuyJBuC45s7zuklgooIcna",                                      deckwidth = 10, deckheight = 4 },
-  { ttsdeckid = "577", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1822281124435075710/7070505505ACFA497349B65608F6E49E228B3201/", deckwidth = 10, deckheight = 7 },
+  
+  -- Unlikely Heroes
+  { ttsdeckid = "577", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1822281124435075710/7070505505ACFA497349B65608F6E49E228B3201/", deckwidth = 10, deckheight = 7 },  
   { ttsdeckid = "578", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1822281124435078953/B3CE89D6C7548C3AF7E75DDCAA96A225705A2B2C/", deckwidth = 10, deckheight = 5 },
+  
+  -- Galactic Struggles
   { ttsdeckid = "581", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/11307560061075361601/7E65B3FD27957EEBC942895E0EB0556608F8ED4C/", deckwidth = 10, deckheight = 7 },
+  
+  -- Seeking Answers
   { ttsdeckid = "584", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1831286890488309851/075011F0489C4B99E09D4B36BA3147F2DB935F4E/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "585", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1831286890488312443/3E1EDB2739F775B90CEC95AD8CBD481DBFDD37D2/", deckwidth = 10, deckheight = 5 },
   { ttsdeckid = "594", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1822279124471200877/95C00F3D6EB643EC9CA01DB36DBA57756FC27534/", backimage = "https://steamusercontent-a.akamaihd.net/ugc/1822279124471201147/787B8606595FF9BA4C7918148778A6338D9D0925/", deckwidth = 2, deckheight = 2 },
+  
+  -- Display of Power
   { ttsdeckid = "595", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1967539065021095755/1B36B0AF14E7D151D0369F8F8D0AE84FBFE252D0/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "596", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/1967539065021101165/749FB6DED249F106A718ADF33841D87C21A0DA70/", deckwidth = 10, deckheight = 5 },
+  
+  -- Resurgence
   { ttsdeckid = "597", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/2050875404455867263/97198D6FCBE926295BE1DD2D5BD38960CFE42226/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "598", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/2050875404455870515/ACD1B7990026FAD4EC718370C9D934AD2674798B/", deckwidth = 10, deckheight = 5 },
+  
+  -- Awaiting Fate
   { ttsdeckid = "599", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/2508018112031691243/6C7A3B28E54743B4A168C8B65E513A3EEB3C0EF9/", deckwidth = 10, deckheight = 7 },
   { ttsdeckid = "600", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/2508018112031695297/AB7EDA5F24F9B3FD23F9EA64142F7A72ABFD96BA/", deckwidth = 10, deckheight = 5 },
-
+  
+  -- END OF RENEWED HOPE SETS
 }
 Global.setTable("ttsDeckInfo", ttsDeckInfo)
 ttsDeckInfo = nil
