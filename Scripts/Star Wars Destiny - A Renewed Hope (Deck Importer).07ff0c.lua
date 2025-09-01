@@ -1,7 +1,6 @@
 --[[ SWD ARH DB Deck Importer by Draiqil --]]
 
 deckID = nil
-deckIsLoading = false
 defaultCardBack = "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/"
 
 function onLoad()
@@ -101,10 +100,10 @@ function tdeckID(_, _, value, _)
 end
 
 function loadDeck()
-	if deckID and deckIsLoading == false then deckIsLoading = true
+	if deckID then 
      WebRequest.get("http://db.swdrenewedhope.com/api/public/decklist/" .. deckID .. ".json",
                     function(webRequestInfo) loadDeckCallback(webRequestInfo) end)
-	elseif deckID and deckIsLoading == true then print("Deck is loading...") end
+	end
   end
 
   function loadTutorial()
@@ -160,7 +159,6 @@ function loadDeckCallback(webRequestInfo)
       if deckInfo then
         spawnSuccessful = spawnLoadedDeck(deckInfo["name"], deckInfo["slots"])
         if spawnSuccessful == true then
-		  deckIsLoading = false
           printToAll("", {1,1,1})
           printToAll("[b]===================================[/b]", {1,1,1})
           printToAll("    Deck loaded. Remember to shuffle!", {1,1,1})
@@ -170,7 +168,6 @@ function loadDeckCallback(webRequestInfo)
       end
 	end 
 elseif webRequestInfo.is_error == true then print("Error loading deck.", {1,0,0}) end
-deckIsLoading = false
 end
 
 function spawnLoadedDeck(deckName, deckSlots)

@@ -2888,7 +2888,7 @@ ttsDeckInfo = { -- Poor name, need to change.
   { ttsdeckid = "34",  deckimage = "https://steamusercontent-a.akamaihd.net/ugc/869614883116985366/B76F8D906AC5AD7D6EC45811FC0F88535894BCAA/", deckwidth = 10, deckheight = 7 },
   
   -- Two Player Game
-  { ttsdeckid = "1",   deckimage = "https://steamusercontent-a.akamaihd.net/ugc/858354911724386771/892B79793EE86A4BAB29B487F313BA2F1D86E16B/", deckwidth = 10, deckheight = 7 },
+  { ttsdeckid = "200",   deckimage = "https://steamusercontent-a.akamaihd.net/ugc/858354911724386771/892B79793EE86A4BAB29B487F313BA2F1D86E16B/", deckwidth = 10, deckheight = 7 },
   
   -- Legacies
   { ttsdeckid = "471", deckimage = "https://steamusercontent-a.akamaihd.net/ugc/910157197471550653/076BC0D620476AEDF1A7EE10CEE97A03F3E06C72/", deckwidth = 10, deckheight = 7 },

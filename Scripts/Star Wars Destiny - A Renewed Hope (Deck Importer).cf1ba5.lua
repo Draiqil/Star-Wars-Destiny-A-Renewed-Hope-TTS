@@ -1,7 +1,6 @@
 --[[ SWD ARH DB Deck Importer by Draiqil --]]
 
 deckID = nil
-deckIsLoading = false
 defaultCardBack = "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/"
 
 function onLoad()
@@ -101,11 +100,11 @@ function tdeckID(_, _, value, _)
 end
 
 function loadDeck()
-	if deckID and deckIsLoading == false then deckIsLoading = true
+	if deckID then
      WebRequest.get("http://db.swdrenewedhope.com/api/public/decklist/" .. deckID .. ".json",
                     function(webRequestInfo) loadDeckCallback(webRequestInfo) end)
-	elseif deckID and deckIsLoading == true then print("Deck is loading...") end
-  end
+	end
+end
 
   function loadTutorial()
 
@@ -160,7 +159,6 @@ function loadDeckCallback(webRequestInfo)
       if deckInfo then
         spawnSuccessful = spawnLoadedDeck(deckInfo["name"], deckInfo["slots"])
         if spawnSuccessful == true then
-		  deckIsLoading = false
           printToAll("", {1,1,1})
           printToAll("[b]===================================[/b]", {1,1,1})
           printToAll("    Deck loaded. Remember to shuffle!", {1,1,1})
@@ -170,7 +168,6 @@ function loadDeckCallback(webRequestInfo)
       end
 	end 
 elseif webRequestInfo.is_error == true then print("Error loading deck.", {1,0,0}) end
-deckIsLoading = false
 end
 
 function spawnLoadedDeck(deckName, deckSlots)
@@ -249,10 +246,12 @@ function addNonDeckCardsToBagJSON(playerColor, nonDeckCardInfo)
   for cardIndex,curCard in pairs(nonDeckCardInfo) do
     cardName = curCard.Info.cardname
 
-    if ((curCard.Data.dice == 2)) then -- Need to improve this to account for >2 dice characters.
+    if ((curCard.Data.dice >= 2) and curCard.Data.quantity == 1) then -- Need to improve this to account for >2 dice characters.
       cardDescription = "elite " .. curCard.Info.set .. " " .. curCard.Info.number
     else
-      cardDescription = curCard.Info.set .. " " .. curCard.Info.number
+      for x=1, curCard.Data.quantity do
+		cardDescription = curCard.Info.set .. " " .. curCard.Info.number
+	  end
     end
 
     cardID = curCard.Info.ttscardid
@@ -312,6 +311,10 @@ function addNonDeckCardsToBagJSON(playerColor, nonDeckCardInfo)
         break
       end
     end
+
+	if not ttsDeckImage then
+  	printToAll("Missing ttsDeckInfo for deckID "..cardDeckID.." (from card "..tostring(curCard.Code or cardID)..")", {1,0,0})
+	end
 
     if ttsDeckImage and ttsBackImage then
       cardJSON.CustomDeck[tostring(cardDeckID)] = {
