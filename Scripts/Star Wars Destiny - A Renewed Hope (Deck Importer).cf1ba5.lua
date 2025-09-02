@@ -246,12 +246,10 @@ function addNonDeckCardsToBagJSON(playerColor, nonDeckCardInfo)
   for cardIndex,curCard in pairs(nonDeckCardInfo) do
     cardName = curCard.Info.cardname
 
-    if ((curCard.Data.dice >= 2) and curCard.Data.quantity == 1) then -- Need to improve this to account for >2 dice characters.
+    if ((curCard.Data.dice == 2)) then -- Need to improve this to account for >2 dice characters.
       cardDescription = "elite " .. curCard.Info.set .. " " .. curCard.Info.number
     else
-      for x=1, curCard.Data.quantity do
-		cardDescription = curCard.Info.set .. " " .. curCard.Info.number
-	  end
+      cardDescription = curCard.Info.set .. " " .. curCard.Info.number
     end
 
     cardID = curCard.Info.ttscardid
