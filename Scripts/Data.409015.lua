@@ -2083,7 +2083,7 @@ function onLoad()
     { code = "18099", ttscardid = "57828", number = "99", cardname = "Security Droid", set = "UH", type = "Support", rarity = "Rare", color = "red", diceimage = "https://steamusercontent-a.akamaihd.net/ugc/13280714938657864136/2EED4E38DB3E3A00207DCD8AC013D0A2161137AD/"  },
     { code = "18100", ttscardid = "57829", number = "100", cardname = "Deflector Shield", set = "UH", type = "Upgrade", rarity = "Common", color = "red" },
     { code = "18101", ttscardid = "57830", number = "101", cardname = "Utility Belt", set = "UH", type = "Upgrade", rarity = "Rare", color = "red", diceimage = "https://steamusercontent-a.akamaihd.net/ugc/15890361447847647263/C6A5808EB51D75C5B1E23DB779FCEBEC016EA4BF/"  },
-    { code = "18102", ttscardid = "57831", number = "102", cardname = "Tipoca City", set = "UH", type = "Event", rarity = "Uncommon", color = "red" },
+    { code = "18102", ttscardid = "57831", number = "102", cardname = "Tipoca City", set = "UH", type = "Battlefield", rarity = "Uncommon", color = "red" },
     { code = "18103", ttscardid = "57832", number = "103", cardname = "Fennec Shand", set = "UH", type = "Character", rarity = "Rare", color = "yellow", diceimage = "https://drive.google.com/uc?id=1h2-XeIsnBPCcx3o19eROZBRBboiNz3_M"  },
     { code = "18104", ttscardid = "57833", number = "104", cardname = "Tracked Target", set = "UH", type = "Downgrade", rarity = "Uncommon", color = "yellow" },
     { code = "18105", ttscardid = "57834", number = "105", cardname = "Black Market Connection", set = "UH", type = "Event", rarity = "Uncommon", color = "yellow"},
