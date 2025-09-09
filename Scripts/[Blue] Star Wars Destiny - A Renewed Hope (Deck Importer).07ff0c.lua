@@ -105,9 +105,15 @@ end
 
 function loadDeck()
 	if deckID then
-     WebRequest.get("http://db.swdrenewedhope.com/api/public/decklist/" .. deckID .. ".json",
+		if #deckID < 5 then -- This is an invalid number or a public deck.
+			WebRequest.get("http://db.swdrenewedhope.com/api/public/decklist/" .. deckID .. ".json",
                     function(webRequestInfo) loadDeckCallback(webRequestInfo) end)
-	end
+		else
+			WebRequest.get("http://db.swdrenewedhope.com/api/public/deck/" .. deckID .. ".json",
+                    function(webRequestInfo) loadDeckCallback(webRequestInfo) end)
+		end
+
+	else end
 end
 
 function loadDeckCallback(webRequestInfo)
@@ -186,33 +192,26 @@ function spawnLoadedDeck(deckName, deckSlots, onDone)
   end
 end
 
-  function loadTutorial()
+  function loadTutorial() -- Add private deck example
 
 	for _,button in ipairs(self.getButtons()) do
 		if button.label == "Tutorial" then self.removeButton(button.index) end
 	end
 
   self.addDecal({
-    name     = "tutorialExample",
+    name     = "tutorialExamplePublic",
     url      = "https://steamusercontent-a.akamaihd.net/ugc/9767813159518328322/868E21CF14E37FFEDF0799CB4143EC1A1064063B/",
-    position = {0, 0.5, -3.4},   -- local position on the object
-    rotation = {150, 0, 180},     -- face it down onto the top surface
-    scale    = {8, 1, 2}       -- width/height (try values and adjust)
+    position = {0, 0.5, -3.4}, 
+    rotation = {150, 0, 180}, 
+    scale    = {8, 1, 2}  
   })
 
-    self.createButton({
-    function_owner = self,
-    click_function = "doNothing",
-    label = "Deck must be public!",
-    tooltip = "",
-    position = {-1.75, 0.1, 0.1}, 
-    scale = {0.4, 0.6, 0.6},
-    color = {0, 0, 1, 1},
-    font_size = 75*2,
-    font_color = {1, 1, 1, 1},
-    width = 2100,
-    height = 300,
-	raycastTarget="false"
+  self.addDecal({
+    name     = "tutorialExamplePrivate",
+    url      = "https://steamusercontent-a.akamaihd.net/ugc/11670559983945343364/C185EF961BFB2C7DC574468209741AE997528B27/",
+    position = {0, 1.5, -3.6},  
+    rotation = {150, 0, 180},  
+    scale    = {4, 0.8, 2}
   })
 
   end
