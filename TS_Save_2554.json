@@ -1,8 +1,8 @@
 {
   "SaveName": "Star Wars Destiny: ARH",
-  "EpochTime": 1771545526,
-  "Date": "2/19/2026 11:58:46 PM",
-  "VersionNumber": "v14.1.8",
+  "EpochTime": 1779224491,
+  "Date": "5/19/2026 10:01:31 PM",
+  "VersionNumber": "v14.2.1",
   "GameMode": "Star Wars Destiny: ARH",
   "GameType": "Game",
   "GameComplexity": "Low Complexity",
@@ -155,6 +155,13 @@
       },
       "id": 11
     }
+  },
+  "MusicPlayer": {
+    "RepeatSong": false,
+    "PlaylistEntry": 1,
+    "CurrentAudioTitle": "Rogue One Imperial Suite",
+    "CurrentAudioURL": "https://steamusercontent-a.akamaihd.net/ugc/763848311381194911/EDAA86C3B5E9489233900020C4A1001A42CF8179/",
+    "AudioLibrary": []
   },
   "Grid": {
     "Type": 0,
@@ -531,8 +538,8 @@
       },
       "ColorDiffuse": {
         "r": 0.9559999,
-        "g": 0.391966462,
-        "b": 0.11296647
+        "g": 0.3919664,
+        "b": 0.112966411
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -650,7 +657,7 @@
         "z": 0.0
       },
       "ColorDiffuse": {
-        "r": 0.117966481,
+        "r": 0.117966421,
         "g": 0.53,
         "b": 1.0
       },
@@ -1303,7 +1310,7 @@
         "posX": 18.8316383,
         "posY": 0.0,
         "posZ": -24.81,
-        "rotX": 7.70127258E-07,
+        "rotX": 7.7012777E-07,
         "rotY": 270.0,
         "rotZ": 0.0,
         "scaleX": 1.0,
@@ -1709,7 +1716,7 @@
         "posX": -15.84,
         "posY": 0.05,
         "posZ": 12.53,
-        "rotX": -6.362133E-15,
+        "rotX": -6.362136E-15,
         "rotY": 270.0,
         "rotZ": 0.0,
         "scaleX": 1.0,
@@ -1767,7 +1774,7 @@
         "posX": -15.9068975,
         "posY": 0.05000309,
         "posZ": -6.43,
-        "rotX": 1.06738867E-07,
+        "rotX": 1.06738923E-07,
         "rotY": 270.0,
         "rotZ": 0.0,
         "scaleX": 1.0,
@@ -3032,7 +3039,7 @@
         "posX": -9.500001,
         "posY": -4.0,
         "posZ": 0.0,
-        "rotX": 4.14980434E-07,
+        "rotX": 4.14980548E-07,
         "rotY": 359.9705,
         "rotZ": 2.05408767E-07,
         "scaleX": 5.1,
@@ -3857,8 +3864,8 @@
       },
       "ColorDiffuse": {
         "r": 0.854901969,
-        "g": 0.09803093,
-        "b": 0.090188466
+        "g": 0.09803087,
+        "b": 0.09018842
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -3976,9 +3983,9 @@
         "z": 0.0
       },
       "ColorDiffuse": {
-        "r": 0.2509668,
-        "g": 0.2509668,
-        "b": 0.2509668
+        "r": 0.250966728,
+        "g": 0.250966728,
+        "b": 0.250966728
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -4079,9 +4086,9 @@
         "posX": 52.8317642,
         "posY": 2.00774884,
         "posZ": 28.6752739,
-        "rotX": 8.23138748E-08,
+        "rotX": 1.04646787E-07,
         "rotY": 270.0323,
-        "rotZ": 6.65841469E-07,
+        "rotZ": 6.010335E-07,
         "scaleX": 1.45,
         "scaleY": 1.0,
         "scaleZ": 1.42
@@ -36218,9 +36225,9 @@
         "posX": 47.9523163,
         "posY": 2.00774765,
         "posZ": 35.82285,
-        "rotX": -3.34776544E-08,
+        "rotX": 5.14765972E-08,
         "rotY": 269.991364,
-        "rotZ": 4.39676427E-07,
+        "rotZ": 1.58305781E-07,
         "scaleX": 1.42055011,
         "scaleY": 1.0,
         "scaleZ": 1.42055011
@@ -54421,8 +54428,8 @@
       },
       "ColorDiffuse": {
         "r": 0.46484375,
-        "g": 0.3437457,
-        "b": 0.140620917
+        "g": 0.343745619,
+        "b": 0.140620857
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -54510,9 +54517,9 @@
         "posX": 52.8057976,
         "posY": 2.007748,
         "posZ": 35.6355934,
-        "rotX": -2.925118E-09,
+        "rotX": 4.642971E-08,
         "rotY": 270.014465,
-        "rotZ": 5.39035739E-07,
+        "rotZ": 6.26785436E-07,
         "scaleX": 1.42055011,
         "scaleY": 1.0,
         "scaleZ": 1.42055011
@@ -83356,12 +83363,12 @@
       "GUID": "e20311",
       "Name": "Bag",
       "Transform": {
-        "posX": -49.0950165,
-        "posY": 1.780185,
-        "posZ": 7.846706,
-        "rotX": 0.00114675984,
+        "posX": -49.1139526,
+        "posY": 1.78018522,
+        "posZ": 7.854052,
+        "rotX": 0.00114846753,
         "rotY": 179.971222,
-        "rotZ": 0.000564364833,
+        "rotZ": 0.000564921356,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -85413,12 +85420,12 @@
       "GUID": "57374f",
       "Name": "Bag",
       "Transform": {
-        "posX": -48.94459,
-        "posY": 1.7799015,
-        "posZ": -6.288115,
-        "rotX": 0.00114743016,
+        "posX": -48.9635239,
+        "posY": 1.7799021,
+        "posZ": -6.280761,
+        "rotX": 0.00114657648,
         "rotY": 180.0084,
-        "rotZ": 0.000565245631,
+        "rotZ": 0.0005657592,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -87471,11 +87478,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -52.19269,
-        "posY": 0.7801887,
+        "posY": 0.780188441,
         "posZ": -34.9908447,
-        "rotX": -1.56754083E-07,
-        "rotY": 0.00280609378,
-        "rotZ": 2.68467943E-07,
+        "rotX": -1.58416341E-07,
+        "rotY": 0.00280614058,
+        "rotZ": 5.3356974E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -87490,9 +87497,9 @@
         "z": 0.0
       },
       "ColorDiffuse": {
-        "r": 0.4429978,
-        "g": 0.230997831,
-        "b": 0.08999825
+        "r": 0.442997754,
+        "g": 0.230997771,
+        "b": 0.08999819
       },
       "LayoutGroupSortIndex": 0,
       "Value": 0,
@@ -90642,7 +90649,7 @@
         "posX": 49.88028,
         "posY": 1.06121731,
         "posZ": 0.360505283,
-        "rotX": 9.484274E-10,
+        "rotX": 9.653252E-10,
         "rotY": 270.0,
         "rotZ": 180.0,
         "scaleX": 3.02170682,
@@ -90696,10 +90703,10 @@
       "GUID": "4205db",
       "Name": "3DText",
       "Transform": {
-        "posX": 54.08252,
-        "posY": 0.9612041,
-        "posZ": 0.320126534,
-        "rotX": 90.0,
+        "posX": 54.08253,
+        "posY": 0.9612032,
+        "posZ": 0.320144683,
+        "rotX": 89.98022,
         "rotY": 89.50342,
         "rotZ": 0.0,
         "scaleX": 1.0,
@@ -90754,9 +90761,9 @@
         "posX": -51.8747826,
         "posY": 2.08963013,
         "posZ": -12.5992327,
-        "rotX": -1.83705154E-07,
+        "rotX": -2.02303255E-07,
         "rotY": 180.0006,
-        "rotZ": 1.77394725E-07,
+        "rotZ": 9.320766E-08,
         "scaleX": 2.84999919,
         "scaleY": 2.84999919,
         "scaleZ": 2.84999919
@@ -160629,9 +160636,9 @@
         "posX": 47.5855751,
         "posY": 2.007748,
         "posZ": 31.550602,
-        "rotX": -7.929415E-09,
+        "rotX": 5.51576873E-09,
         "rotY": 270.0144,
-        "rotZ": 1.15279533E-07,
+        "rotZ": 8.48086259E-08,
         "scaleX": 1.4736706,
         "scaleY": 1.0,
         "scaleZ": 1.4736706
@@ -183291,9 +183298,9 @@
         "posX": 47.7208366,
         "posY": 2.00774837,
         "posZ": 28.014677,
-        "rotX": 2.70658074E-08,
+        "rotX": 2.86215567E-08,
         "rotY": 270.014435,
-        "rotZ": 3.255491E-07,
+        "rotZ": 3.66590342E-07,
         "scaleX": 1.47602439,
         "scaleY": 1.0,
         "scaleZ": 1.47602439
@@ -197123,12 +197130,12 @@
       "GUID": "8a106b",
       "Name": "Die_4",
       "Transform": {
-        "posX": 34.1452332,
-        "posY": 1.17130625,
-        "posZ": 15.2879391,
-        "rotX": 18.6126518,
-        "rotY": 242.179077,
-        "rotZ": 119.960434,
+        "posX": 34.14911,
+        "posY": 1.171307,
+        "posZ": 15.2948,
+        "rotX": 18.6126652,
+        "rotY": 242.179108,
+        "rotZ": 119.960472,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -197346,9 +197353,9 @@
         "posX": -51.4765053,
         "posY": 1.8529135,
         "posZ": 13.500659,
-        "rotX": -1.4871803E-07,
+        "rotX": -1.36940628E-07,
         "rotY": 270.005859,
-        "rotZ": 2.46903824E-07,
+        "rotZ": 2.15766164E-07,
         "scaleX": 2.25,
         "scaleY": 2.25,
         "scaleZ": 2.25
@@ -198899,9 +198906,9 @@
         "posX": -51.5091934,
         "posY": 1.85291314,
         "posZ": 16.9245644,
-        "rotX": -1.68264727E-08,
+        "rotX": -2.69278488E-09,
         "rotY": 270.0232,
-        "rotZ": -4.09521022E-08,
+        "rotZ": -1.04963945E-07,
         "scaleX": 2.25,
         "scaleY": 2.25,
         "scaleZ": 2.25
@@ -200488,7 +200495,7 @@
       "Hands": false,
       "CustomMesh": {
         "MeshURL": "https://gist.githubusercontent.com/Hitch2776/cb8cae50d41790a56ce8bbcda7dd9758/raw/412ce7c1f5d4a7688928d625ac32a147e254bd73/plane.txt",
-        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11068370182256971118/559DB33DD5189179B217E2D411928171940DD200/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/9642201564609188901/9562433BB30CFA79DAE2D93944410BCD57F48188/",
         "NormalURL": "",
         "ColliderURL": "https://gist.githubusercontent.com/Hitch2776/cb8cae50d41790a56ce8bbcda7dd9758/raw/412ce7c1f5d4a7688928d625ac32a147e254bd73/plane.txt",
         "Convex": true,
@@ -200773,10 +200780,10 @@
       "Transform": {
         "posX": 49.4748,
         "posY": 0.9612173,
-        "posZ": 15.0070438,
-        "rotX": -2.528999E-09,
+        "posZ": 15.0070429,
+        "rotX": 3.571432E-10,
         "rotY": 270.011139,
-        "rotZ": -1.25464833E-10,
+        "rotZ": -2.70143241E-09,
         "scaleX": 2.61136246,
         "scaleY": 1.0,
         "scaleZ": 2.61136246
@@ -200824,10 +200831,10 @@
       "Transform": {
         "posX": 49.41064,
         "posY": 0.9612173,
-        "posZ": -14.4325094,
-        "rotX": -2.180451E-08,
-        "rotY": 270.000061,
-        "rotZ": -1.35958187E-08,
+        "posZ": -14.4325085,
+        "rotX": -8.814036E-08,
+        "rotY": 270.0001,
+        "rotZ": 8.216276E-09,
         "scaleX": 2.60845327,
         "scaleY": 1.0,
         "scaleZ": 2.60845327
@@ -200874,11 +200881,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -53.6954079,
-        "posY": 0.7801887,
+        "posY": 0.780188739,
         "posZ": 20.3139572,
-        "rotX": -4.33556835E-08,
-        "rotY": -2.881486E-05,
-        "rotZ": 4.33557E-08,
+        "rotX": -5.5028373E-08,
+        "rotY": -2.83279423E-05,
+        "rotZ": 3.00154923E-08,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -202475,11 +202482,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -50.7343826,
-        "posY": 0.78018856,
-        "posZ": 20.2140331,
-        "rotX": 2.78477614E-07,
+        "posY": 0.7801886,
+        "posZ": 20.2140369,
+        "rotX": 2.80141961E-07,
         "rotY": -0.001720514,
-        "rotZ": 4.33515126E-08,
+        "rotZ": -1.684244E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -204114,7 +204121,7 @@
       "Hands": false,
       "CustomMesh": {
         "MeshURL": "https://gist.githubusercontent.com/Hitch2776/cb8cae50d41790a56ce8bbcda7dd9758/raw/412ce7c1f5d4a7688928d625ac32a147e254bd73/plane.txt",
-        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11068370182256971118/559DB33DD5189179B217E2D411928171940DD200/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/9642201564609188901/9562433BB30CFA79DAE2D93944410BCD57F48188/",
         "NormalURL": "",
         "ColliderURL": "https://gist.githubusercontent.com/Hitch2776/cb8cae50d41790a56ce8bbcda7dd9758/raw/412ce7c1f5d4a7688928d625ac32a147e254bd73/plane.txt",
         "Convex": true,
@@ -204142,9 +204149,9 @@
         "posX": 49.8259239,
         "posY": 1.16508126,
         "posZ": 22.4194489,
-        "rotX": -1.90876381E-09,
+        "rotX": -6.0234856E-10,
         "rotY": 270.008484,
-        "rotZ": -1.3576108E-09,
+        "rotZ": -8.57967652E-09,
         "scaleX": 1.69999957,
         "scaleY": 1.0,
         "scaleZ": 1.69999957
@@ -206081,9 +206088,9 @@
         "posX": 52.82444,
         "posY": 2.00774837,
         "posZ": 32.1437645,
-        "rotX": 6.109243E-08,
+        "rotX": 1.42917415E-07,
         "rotY": 270.014435,
-        "rotZ": 5.40751046E-07,
+        "rotZ": 5.79237E-07,
         "scaleX": 1.42,
         "scaleY": 1.0,
         "scaleZ": 1.42
