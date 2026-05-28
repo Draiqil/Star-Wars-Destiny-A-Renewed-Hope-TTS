@@ -17,4 +17,4 @@ Due to the above facts, i will not be making any kind of sophisticated pipeline.
 - [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2243006775) to the mod
 - Launch it, and whilst menu is visible, make a saved copy
 - Launch into saved copy, and follow vscode plugin instructions to get scripts
-- Make changes! Send code snippets as PRs. (There is a small risk of overlap, check 'Projects' to see what i am working on.
+- You're now free to make changes!
