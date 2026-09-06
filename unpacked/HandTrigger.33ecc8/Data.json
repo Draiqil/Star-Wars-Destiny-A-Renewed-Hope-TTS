@@ -1,0 +1,44 @@
+{
+  "GUID": "33ecc8",
+  "Name": "HandTrigger",
+  "Transform": {
+    "posX": 1.7,
+    "posY": 4.6,
+    "posZ": 20,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 35,
+    "scaleY": 6.65,
+    "scaleZ": 4
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.117999978,
+    "g": 0.53,
+    "b": 1,
+    "a": 0
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": false,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "FogColor": "Blue"
+}
