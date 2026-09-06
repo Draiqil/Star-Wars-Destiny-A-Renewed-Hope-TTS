@@ -1,0 +1,57 @@
+{
+  "GUID": "f40ffc",
+  "Name": "Custom_Model_Bag",
+  "Transform": {
+    "posX": -51.5091934,
+    "posY": 1.85291314,
+    "posZ": 16.9245644,
+    "rotX": -8.502186e-9,
+    "rotY": 270.0232,
+    "rotZ": -9.49909662e-8,
+    "scaleX": 2.25,
+    "scaleY": 2.25,
+    "scaleZ": 2.25
+  },
+  "Nickname": "Kylo Ren Starter Deck",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.9999998,
+    "g": 0.9921681,
+    "b": 0.9999998
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "CustomMesh": {
+    "MeshURL": "https://www.dropbox.com/s/6d23flr27c39nnd/tuckbox.obj?dl=1",
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/396708921324362432/D70B3CC55A0A03E01BDC6DC04B40B060BA02F62C/",
+    "NormalURL": "https://www.dropbox.com/s/73ngjdw1zywnibm/Bump3.jpg?dl=1",
+    "ColliderURL": "",
+    "Convex": true,
+    "MaterialIndex": 3,
+    "TypeIndex": 6,
+    "CastShadows": true
+  },
+  "Bag": {
+    "Order": 0
+  }
+}

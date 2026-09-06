@@ -1,0 +1,47 @@
+{
+  "GUID": "eab494",
+  "Name": "Bag",
+  "Transform": {
+    "posX": -2.62782478,
+    "posY": 2.17405033,
+    "posZ": -7.81745529,
+    "rotX": 0.000821003341,
+    "rotY": 180.010544,
+    "rotZ": 0.00355613115,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "DestinySmash | Wave 3 | Pryce",
+  "Description": "Exported from SWDestinyDB.com",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.856,
+    "g": 0.09999997,
+    "b": 0.09399996
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "Bag": {
+    "Order": 0
+  }
+}

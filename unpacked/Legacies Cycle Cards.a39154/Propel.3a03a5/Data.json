@@ -1,0 +1,54 @@
+{
+  "GUID": "3a03a5",
+  "Name": "Card",
+  "Transform": {
+    "posX": -6.74213171,
+    "posY": 2.02421379,
+    "posZ": -5.6951375,
+    "rotX": -4.39713972e-7,
+    "rotY": 359.99292,
+    "rotZ": 2.69977534e-7,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Propel",
+  "Description": "WotF 62",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 48761,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "487": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/948454029951660614/BE1C3291FB80F1B91F4A4FF4AAB34FD1188948E4/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

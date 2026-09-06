@@ -1,0 +1,54 @@
+{
+  "GUID": "2a031e",
+  "Name": "Card",
+  "Transform": {
+    "posX": -18.2466583,
+    "posY": 1.64541018,
+    "posZ": -0.7187327,
+    "rotX": 0.0361519419,
+    "rotY": 0.00185750262,
+    "rotZ": 0.05699695,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Destiny",
+  "Description": "SoR 101",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 2330,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "23": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87099658839675034/9D44369D8E610149D33AB7498508159E965B9E87/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

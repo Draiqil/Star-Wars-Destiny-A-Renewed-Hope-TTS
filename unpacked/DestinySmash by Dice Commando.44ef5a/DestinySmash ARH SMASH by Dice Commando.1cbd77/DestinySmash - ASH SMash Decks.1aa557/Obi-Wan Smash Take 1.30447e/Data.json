@@ -1,0 +1,47 @@
+{
+  "GUID": "30447e",
+  "Name": "Bag",
+  "Transform": {
+    "posX": -10.5709753,
+    "posY": 2.15437436,
+    "posZ": -2.42280722,
+    "rotX": 0.000316678023,
+    "rotY": 180.0369,
+    "rotZ": 0.000223530471,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Obi-Wan Smash Take 1",
+  "Description": "Exported from SWDestinyDB.com",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.128999949,
+    "g": 0.694,
+    "b": 0.606999934
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "Bag": {
+    "Order": 0
+  }
+}

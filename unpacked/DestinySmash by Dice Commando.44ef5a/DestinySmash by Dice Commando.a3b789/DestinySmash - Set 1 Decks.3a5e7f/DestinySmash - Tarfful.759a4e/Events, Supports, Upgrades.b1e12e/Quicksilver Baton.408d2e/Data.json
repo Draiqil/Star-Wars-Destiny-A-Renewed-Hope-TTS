@@ -1,0 +1,43 @@
+{
+  "GUID": "408d2e",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.887,
+    "posY": 0.328,
+    "posZ": 0.53,
+    "rotX": 0.534,
+    "rotY": 0.696,
+    "rotZ": 0.564,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Quicksilver Baton",
+  "Description": "CONV 139",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 50068,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

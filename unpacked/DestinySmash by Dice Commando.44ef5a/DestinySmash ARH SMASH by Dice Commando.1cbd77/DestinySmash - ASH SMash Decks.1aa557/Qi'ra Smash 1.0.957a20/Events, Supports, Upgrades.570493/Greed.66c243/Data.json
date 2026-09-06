@@ -1,0 +1,43 @@
+{
+  "GUID": "66c243",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.317,
+    "posY": 0.15,
+    "posZ": 0.919,
+    "rotX": 0.43,
+    "rotY": 0.954,
+    "rotZ": 0.15,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Greed",
+  "Description": "UH 107",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 58036,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

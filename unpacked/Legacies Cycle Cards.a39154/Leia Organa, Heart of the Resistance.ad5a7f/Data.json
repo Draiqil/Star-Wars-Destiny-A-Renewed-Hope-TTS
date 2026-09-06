@@ -1,0 +1,54 @@
+{
+  "GUID": "ad5a7f",
+  "Name": "Card",
+  "Transform": {
+    "posX": -6.676219,
+    "posY": 1.91699541,
+    "posZ": -6.538742,
+    "rotX": 359.993225,
+    "rotY": -0.00001091266,
+    "rotZ": 0.00978254247,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Leia Organa, Heart of the Resistance",
+  "Description": "WotF 73",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 48603,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "486": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/948454029951663166/D7690081A763E82D91EA87C86D6A08CF7F4177FC/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

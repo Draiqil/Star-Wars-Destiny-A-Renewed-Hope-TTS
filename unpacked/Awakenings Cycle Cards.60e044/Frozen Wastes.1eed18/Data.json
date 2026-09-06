@@ -1,0 +1,54 @@
+{
+  "GUID": "1eed18",
+  "Name": "Card",
+  "Transform": {
+    "posX": -16.50936,
+    "posY": 1.92152941,
+    "posZ": -5.42925358,
+    "rotX": 340.6055,
+    "rotY": 0.0119902873,
+    "rotZ": 359.9825,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Frozen Wastes",
+  "Description": "AW 168",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 60103,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "488": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9848382962823772516/BAAAA5A344C9DAD16D9FCE6278D35EC5B9AF16B1/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

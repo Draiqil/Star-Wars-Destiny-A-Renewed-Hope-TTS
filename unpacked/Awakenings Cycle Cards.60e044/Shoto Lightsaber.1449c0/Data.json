@@ -1,0 +1,54 @@
+{
+  "GUID": "1449c0",
+  "Name": "Card",
+  "Transform": {
+    "posX": -22.35974,
+    "posY": 2.128652,
+    "posZ": -1.47785866,
+    "rotX": 4.61795167e-7,
+    "rotY": 359.980072,
+    "rotZ": -0.00000290311436,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Shoto Lightsaber",
+  "Description": "EaW 51",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46450,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "464": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/869614883116979708/E8A5A68CC0CCFEB94EDE38BABFEFBF77FAD150C8/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

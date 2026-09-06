@@ -1,0 +1,55 @@
+{
+  "GUID": "015fb6",
+  "Name": "Card",
+  "Transform": {
+    "posX": -3.4538343,
+    "posY": 1.51139152,
+    "posZ": 11.5949574,
+    "rotX": 0.000106766696,
+    "rotY": 0.0000305065314,
+    "rotZ": -0.00009080886,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "FN-2199's Riot Baton",
+  "Description": "FA 20",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55019,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "550": {
+      "FaceURL": "https://drive.google.com/uc?id=1tYcnNwWU36Muhs4diBHQRgsxyySx92G7",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

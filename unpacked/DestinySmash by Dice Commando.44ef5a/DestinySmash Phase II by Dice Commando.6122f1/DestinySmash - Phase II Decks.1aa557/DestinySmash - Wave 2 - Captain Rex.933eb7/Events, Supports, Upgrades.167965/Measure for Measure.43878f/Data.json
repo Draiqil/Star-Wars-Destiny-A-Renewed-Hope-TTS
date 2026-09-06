@@ -1,0 +1,43 @@
+{
+  "GUID": "43878f",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.477,
+    "posY": 0.004,
+    "posZ": 0.808,
+    "rotX": 0.503,
+    "rotY": 0.041,
+    "rotZ": 0.867,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Measure for Measure",
+  "Description": "CONV 127",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 50056,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

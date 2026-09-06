@@ -1,0 +1,43 @@
+{
+  "GUID": "dc71d6",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.924,
+    "posY": 0.521,
+    "posZ": 0.723,
+    "rotX": 0.978,
+    "rotY": 0.374,
+    "rotZ": 0.618,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Scoping the Target",
+  "Description": "WotF 100",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 48630,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "a0633f",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": -2.178286,
+    "posY": 1.13768828,
+    "posZ": 6.35177135,
+    "rotX": -0.00008082794,
+    "rotY": 0.00595949637,
+    "rotZ": 0.39296332,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - ARH Cara",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 62100,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "621": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648889603/D06CAD71CE64C55EBA902C05A4DFD3CE060DCB91/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

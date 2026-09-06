@@ -1,0 +1,44 @@
+{
+  "GUID": "759a4e",
+  "Name": "Bag",
+  "Transform": {
+    "posX": 5.09319544,
+    "posY": 2.17401981,
+    "posZ": 13.0816984,
+    "rotX": 0.00144080818,
+    "rotY": 180.007813,
+    "rotZ": -0.000957912358,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "DestinySmash | Tarfful",
+  "Description": "Exported from SWDestinyDB.com",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.128999919,
+    "g": 0.694,
+    "b": 0.606999934
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1
+}

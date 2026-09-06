@@ -1,0 +1,43 @@
+{
+  "GUID": "129eaf",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.02,
+    "posY": 0.681,
+    "posZ": 0.167,
+    "rotX": 0.093,
+    "rotY": 0.687,
+    "rotZ": 0.041,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Forced Labor",
+  "Description": "CM 43",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53602,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

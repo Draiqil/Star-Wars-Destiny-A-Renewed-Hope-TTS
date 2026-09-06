@@ -1,0 +1,43 @@
+{
+  "GUID": "a5a684",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.198,
+    "posY": 0.588,
+    "posZ": 0.165,
+    "rotX": 0.937,
+    "rotY": 0.098,
+    "rotZ": 0.468,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Ataru Mastery",
+  "Description": "UH 93",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 58022,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

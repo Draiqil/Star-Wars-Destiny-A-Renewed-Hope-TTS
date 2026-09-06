@@ -1,0 +1,55 @@
+{
+  "GUID": "9c9389",
+  "Name": "Card",
+  "Transform": {
+    "posX": 4.355094,
+    "posY": 2.20025826,
+    "posZ": -4.34898949,
+    "rotX": 1.19473028,
+    "rotY": 179.84848,
+    "rotZ": 0.035370104,
+    "scaleX": 1.4736706,
+    "scaleY": 1,
+    "scaleZ": 1.4736706
+  },
+  "Nickname": "Stranded",
+  "Description": "DoP 26",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 59525,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "595": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1967539065021095755/1B36B0AF14E7D151D0369F8F8D0AE84FBFE252D0/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

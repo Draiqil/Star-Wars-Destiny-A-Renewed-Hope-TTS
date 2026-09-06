@@ -1,0 +1,43 @@
+{
+  "GUID": "ec2cf7",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.089,
+    "posY": 0.481,
+    "posZ": 0.272,
+    "rotX": 0.326,
+    "rotY": 0.104,
+    "rotZ": 0.106,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "War Is Inevitable",
+  "Description": "SA 92",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 58521,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

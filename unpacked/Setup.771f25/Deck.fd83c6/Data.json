@@ -1,0 +1,76 @@
+{
+  "GUID": "fd83c6",
+  "Name": "Deck",
+  "Transform": {
+    "posX": 45.3050842,
+    "posY": 3.219505,
+    "posZ": -21.8315067,
+    "rotX": 0.0333779119,
+    "rotY": 0.00109017035,
+    "rotZ": 0.0388829969,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": false,
+  "SidewaysCard": false,
+  "DeckIDs": [
+    47019,
+    47018,
+    47017,
+    47016,
+    47015,
+    47014,
+    47013,
+    47012,
+    47011,
+    47010,
+    47009,
+    47008,
+    47007,
+    47006,
+    47005,
+    47004,
+    47003,
+    47002,
+    47001,
+    47000
+  ],
+  "CustomDeck": {
+    "470": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/910156163256816647/860DB84FFE43F9A965DB40F976607C9F49396FCD/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

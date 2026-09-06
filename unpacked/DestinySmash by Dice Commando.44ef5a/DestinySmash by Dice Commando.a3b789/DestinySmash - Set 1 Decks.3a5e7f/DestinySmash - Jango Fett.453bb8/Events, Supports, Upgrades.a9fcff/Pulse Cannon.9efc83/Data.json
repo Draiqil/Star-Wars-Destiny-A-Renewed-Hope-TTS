@@ -1,0 +1,43 @@
+{
+  "GUID": "9efc83",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.963,
+    "posY": 0.432,
+    "posZ": 0.75,
+    "rotX": 0.297,
+    "rotY": 0.956,
+    "rotZ": 0.535,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Pulse Cannon",
+  "Description": "SoH 54",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 52853,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

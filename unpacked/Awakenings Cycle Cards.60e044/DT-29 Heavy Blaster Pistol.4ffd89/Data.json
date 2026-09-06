@@ -1,0 +1,54 @@
+{
+  "GUID": "4ffd89",
+  "Name": "Card",
+  "Transform": {
+    "posX": -9.775105,
+    "posY": 1.17567134,
+    "posZ": -6.73898,
+    "rotX": 4.53853e-9,
+    "rotY": 359.986847,
+    "rotZ": -2.51073846e-8,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "DT-29 Heavy Blaster Pistol",
+  "Description": "SoR 7",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46206,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "462": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87099658840041859/705089CFD0C34899FB3E42BA0D3876C35DB344C6/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

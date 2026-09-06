@@ -1,0 +1,43 @@
+{
+  "GUID": "52c157",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.267,
+    "posY": 0.852,
+    "posZ": 0.194,
+    "rotX": 0.353,
+    "rotY": 0.109,
+    "rotZ": 0.134,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Separatist Landing Craft",
+  "Description": "LEG 14",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 47113,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

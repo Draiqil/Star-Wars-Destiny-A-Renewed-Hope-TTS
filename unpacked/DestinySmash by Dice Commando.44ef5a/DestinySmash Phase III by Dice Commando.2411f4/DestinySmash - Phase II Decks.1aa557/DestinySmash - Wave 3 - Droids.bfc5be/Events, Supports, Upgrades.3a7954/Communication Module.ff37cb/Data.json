@@ -1,0 +1,43 @@
+{
+  "GUID": "ff37cb",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.68,
+    "posY": 0.902,
+    "posZ": 0.873,
+    "rotX": 0.495,
+    "rotY": 0.646,
+    "rotZ": 0.52,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Communication Module",
+  "Description": "SoH 137",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 52966,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

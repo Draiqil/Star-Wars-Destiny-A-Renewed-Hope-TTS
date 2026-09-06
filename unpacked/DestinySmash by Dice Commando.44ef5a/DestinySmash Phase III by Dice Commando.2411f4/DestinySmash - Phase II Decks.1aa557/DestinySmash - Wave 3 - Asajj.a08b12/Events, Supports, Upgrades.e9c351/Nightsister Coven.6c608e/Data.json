@@ -1,0 +1,43 @@
+{
+  "GUID": "6c608e",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.922,
+    "posY": 0.621,
+    "posZ": 0.012,
+    "rotX": 0.513,
+    "rotY": 0.794,
+    "rotZ": 0.124,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Nightsister Coven",
+  "Description": "LEG 83",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 47212,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

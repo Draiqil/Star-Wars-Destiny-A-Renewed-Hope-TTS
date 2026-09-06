@@ -1,0 +1,43 @@
+{
+  "GUID": "0838de",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.13,
+    "posY": 0.568,
+    "posZ": 0.004,
+    "rotX": 0.722,
+    "rotY": 0.805,
+    "rotZ": 0.604,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Shakedown",
+  "Description": "AtG 44",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49843,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

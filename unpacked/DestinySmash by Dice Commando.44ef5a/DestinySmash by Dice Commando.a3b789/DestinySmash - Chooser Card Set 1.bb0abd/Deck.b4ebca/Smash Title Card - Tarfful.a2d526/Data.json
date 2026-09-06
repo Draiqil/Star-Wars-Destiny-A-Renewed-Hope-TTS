@@ -1,0 +1,55 @@
+{
+  "GUID": "a2d526",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 9.707745,
+    "posY": 1.17438364,
+    "posZ": 1.65908933,
+    "rotX": -0.000230236241,
+    "rotY": 0.0000101989672,
+    "rotZ": -0.000455540459,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Tarfful",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 56900,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "569": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1666859146983202542/3FEFB9C302B4C330C57563D6AEC41446FE5DF677/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "670130",
+  "Name": "Card",
+  "Transform": {
+    "posX": -12.1536894,
+    "posY": 1.36624157,
+    "posZ": 15.3757343,
+    "rotX": 359.987152,
+    "rotY": 0.00639468944,
+    "rotZ": 359.9766,
+    "scaleX": 1.42,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Senate Chamber",
+  "Description": "AtG 130",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 49360,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "493": {
+      "FaceURL": "http://drive.google.com/uc?id=1u4B0psw6EKBhPIDPxzCPV5Bn8ruaVUAK",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

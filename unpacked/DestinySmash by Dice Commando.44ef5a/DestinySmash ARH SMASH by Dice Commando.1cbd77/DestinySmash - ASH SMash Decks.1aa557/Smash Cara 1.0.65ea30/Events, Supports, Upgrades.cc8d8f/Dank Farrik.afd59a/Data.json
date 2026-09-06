@@ -1,0 +1,43 @@
+{
+  "GUID": "afd59a",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.008,
+    "posY": 0.213,
+    "posZ": 0.671,
+    "rotX": 0.009,
+    "rotY": 0.323,
+    "rotZ": 0.809,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Dank Farrik",
+  "Description": "SA 107",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 58536,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

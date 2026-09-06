@@ -1,0 +1,55 @@
+{
+  "GUID": "e310f9",
+  "Name": "Card",
+  "Transform": {
+    "posX": -21.6542835,
+    "posY": 1.04941022,
+    "posZ": 13.4438381,
+    "rotX": 0.212676018,
+    "rotY": 359.990143,
+    "rotZ": 359.8599,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Daring Escape",
+  "Description": "AW 126",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 49055,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "490": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9604039691169887594/07BEB209703ACB84518075ABBAEB54EDE8D42FC5/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

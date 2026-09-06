@@ -1,0 +1,43 @@
+{
+  "GUID": "579619",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.387,
+    "posY": 0.531,
+    "posZ": 0.605,
+    "rotX": 0.341,
+    "rotY": 0.978,
+    "rotZ": 0.086,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Pirate Ship",
+  "Description": "CM 49",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53608,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

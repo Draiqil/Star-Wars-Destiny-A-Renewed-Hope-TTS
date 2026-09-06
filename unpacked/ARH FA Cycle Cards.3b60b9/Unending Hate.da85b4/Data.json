@@ -1,0 +1,55 @@
+{
+  "GUID": "da85b4",
+  "Name": "Card",
+  "Transform": {
+    "posX": -2.96961546,
+    "posY": 1.6369257,
+    "posZ": 11.9897938,
+    "rotX": 0.0000259607768,
+    "rotY": 0.00003144286,
+    "rotZ": -0.000312048476,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Unending Hate",
+  "Description": "FA 7",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55006,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "550": {
+      "FaceURL": "https://drive.google.com/uc?id=1tYcnNwWU36Muhs4diBHQRgsxyySx92G7",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

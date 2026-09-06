@@ -1,0 +1,55 @@
+{
+  "GUID": "962607",
+  "Name": "Card",
+  "Transform": {
+    "posX": -40.5456123,
+    "posY": 3.081316,
+    "posZ": 9.159197,
+    "rotX": 0.0000190486717,
+    "rotY": 359.992279,
+    "rotZ": -0.00001581481,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Force Experiments",
+  "Description": "HS 41",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": true,
+  "CardID": 57540,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "575": {
+      "FaceURL": "https://drive.google.com/uc?id=1j1PP4segZS0z891NV8rhzlkHkwQislla",
+      "BackURL": "https://drive.google.com/uc?id=1jmPW7ks3I52goV3ThBLlsFdaGXI4T_Ce",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

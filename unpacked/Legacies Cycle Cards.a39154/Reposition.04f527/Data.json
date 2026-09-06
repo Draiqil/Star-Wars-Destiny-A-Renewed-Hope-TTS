@@ -1,0 +1,54 @@
+{
+  "GUID": "04f527",
+  "Name": "Card",
+  "Transform": {
+    "posX": -7.54792547,
+    "posY": 1.84740484,
+    "posZ": -6.45716143,
+    "rotX": 359.940918,
+    "rotY": 359.973267,
+    "rotZ": 0.123431191,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Reposition",
+  "Description": "WotF 80",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 48610,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "486": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/948454029951663166/D7690081A763E82D91EA87C86D6A08CF7F4177FC/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

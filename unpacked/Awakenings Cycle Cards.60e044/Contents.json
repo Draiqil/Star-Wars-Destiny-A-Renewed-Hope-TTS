@@ -1,0 +1,1484 @@
+[
+  {
+    "path": "./Weapons Factory Alpha.a1db1d"
+  },
+  {
+    "path": "./Port District.69b73f"
+  },
+  {
+    "path": "./Medical Center.024a80"
+  },
+  {
+    "path": "./Main Plaza.1f35e1"
+  },
+  {
+    "path": "./Imperial Academy.e0c8ba"
+  },
+  {
+    "path": "./Garel Spaceport.ac8015"
+  },
+  {
+    "path": "./Fort Anaxes.4f6d21"
+  },
+  {
+    "path": "./B'Omarr Monastery.464c87"
+  },
+  {
+    "path": "./Plastoid Armor.fe7951"
+  },
+  {
+    "path": "./Roll On.5e4ada"
+  },
+  {
+    "path": "./Rend.d8c086"
+  },
+  {
+    "path": "./Recycle.cd97ad"
+  },
+  {
+    "path": "./Partnership.83ef09"
+  },
+  {
+    "path": "./Endurance.7a7c19"
+  },
+  {
+    "path": "./Dangerous Mission.0d6bcf"
+  },
+  {
+    "path": "./Mandalorian Armor.4b4558"
+  },
+  {
+    "path": "./Hidden Agenda.153fa9"
+  },
+  {
+    "path": "./Stolen Cache.cad3a9"
+  },
+  {
+    "path": "./Truce.fa63fa"
+  },
+  {
+    "path": "./Trickery.fa6f47"
+  },
+  {
+    "path": "./Threaten.014526"
+  },
+  {
+    "path": "./Pickpocket.730cd2"
+  },
+  {
+    "path": "./Persuade.f600eb"
+  },
+  {
+    "path": "./Disable.da12de"
+  },
+  {
+    "path": "./Battle Rage.65ae7f"
+  },
+  {
+    "path": "./Keen Instincts.d1afe6"
+  },
+  {
+    "path": "./Voices Cry Out.55f403"
+  },
+  {
+    "path": "./Something Familiar.d33e2c"
+  },
+  {
+    "path": "./No Surrender.f96602"
+  },
+  {
+    "path": "./Lightsaber Training.5c6219"
+  },
+  {
+    "path": "./Lightsaber Pull.2e0e37"
+  },
+  {
+    "path": "./Force Vision.989376"
+  },
+  {
+    "path": "./Battle of Wills.124214"
+  },
+  {
+    "path": "./Tech Team.632740"
+  },
+  {
+    "path": "./Drop Zone.816db4"
+  },
+  {
+    "path": "./The Day is Ours.d1d807"
+  },
+  {
+    "path": "./Pinned Down.f7984a"
+  },
+  {
+    "path": "./Heat of Battle.f9cc28"
+  },
+  {
+    "path": "./Flanking Maneuver.d8aa5b"
+  },
+  {
+    "path": "./Feint.aec7d6"
+  },
+  {
+    "path": "./Fall Back.f7e1f1"
+  },
+  {
+    "path": "./Deploy Squadron.7af3b1"
+  },
+  {
+    "path": "./Covering Fire.106c4c"
+  },
+  {
+    "path": "./Defiance.11eec6"
+  },
+  {
+    "path": "./Thermal Paint.eb33b1"
+  },
+  {
+    "path": "./Running Interference.b41c55"
+  },
+  {
+    "path": "./Tenacity.23bfa4"
+  },
+  {
+    "path": "./Quick Escape.0905dd"
+  },
+  {
+    "path": "./Local Patrol.075b0b"
+  },
+  {
+    "path": "./Impersonate.10bbf9"
+  },
+  {
+    "path": "./Double-Cross.3def85"
+  },
+  {
+    "path": "./Bad Feeling.ecb807"
+  },
+  {
+    "path": "./Appraise.19e935"
+  },
+  {
+    "path": "./Against The Odds.f37f0d"
+  },
+  {
+    "path": "./Fearless.77164c"
+  },
+  {
+    "path": "./Yoda's Quarters.75da11"
+  },
+  {
+    "path": "./Funeral Pyre.e17a6c"
+  },
+  {
+    "path": "./Trust The Force.b3c908"
+  },
+  {
+    "path": "./Secret Mission.44a457"
+  },
+  {
+    "path": "./Reaping The Crystal.591bf3"
+  },
+  {
+    "path": "./Bring Balance.cecdfa"
+  },
+  {
+    "path": "./Bestow.b06790"
+  },
+  {
+    "path": "./At Peace.5f4bc3"
+  },
+  {
+    "path": "./Shield Generator.df5507"
+  },
+  {
+    "path": "./Rally Aid.c066b9"
+  },
+  {
+    "path": "./Swift Strike.0e2794"
+  },
+  {
+    "path": "./Strike Briefing.c1eb5c"
+  },
+  {
+    "path": "./Reckless Reentry.dbd3ba"
+  },
+  {
+    "path": "./Rearguard.f193c4"
+  },
+  {
+    "path": "./Fortuitous Strike.dddc4a"
+  },
+  {
+    "path": "./Entrenched.7c7b5c"
+  },
+  {
+    "path": "./All Quiet on the Front.0d6a1e"
+  },
+  {
+    "path": "./Detention Center.5bfa31"
+  },
+  {
+    "path": "./No Survivors.420fa5"
+  },
+  {
+    "path": "./Deadly.b67c27"
+  },
+  {
+    "path": "./Hutt Ties.00e438"
+  },
+  {
+    "path": "./Twin Shadows.e47a69"
+  },
+  {
+    "path": "./Pilfered Goods.2d1b98"
+  },
+  {
+    "path": "./Only Business Matters.15adfd"
+  },
+  {
+    "path": "./Coercion.eb156c"
+  },
+  {
+    "path": "./Buy Out.496037"
+  },
+  {
+    "path": "./Bounty Postings.92b173"
+  },
+  {
+    "path": "./Anarchy.8f98ab"
+  },
+  {
+    "path": "./Hate.301142"
+  },
+  {
+    "path": "./Insidious.ccd9d5"
+  },
+  {
+    "path": "./Unyielding.1db41a"
+  },
+  {
+    "path": "./Kill Them All.68db2f"
+  },
+  {
+    "path": "./It Will All Be Mine.a465be"
+  },
+  {
+    "path": "./Indomitable.000019"
+  },
+  {
+    "path": "./Cornered Prey.aa62be"
+  },
+  {
+    "path": "./As You Command.00826f"
+  },
+  {
+    "path": "./Imperial HQ.cbda7d"
+  },
+  {
+    "path": "./Take Prisoner.d2c0eb"
+  },
+  {
+    "path": "./Ruthless Tactics.a9a147"
+  },
+  {
+    "path": "./Red Alert.79fdc9"
+  },
+  {
+    "path": "./Prepare for War.18a768"
+  },
+  {
+    "path": "./Imperial Backing.ebc59e"
+  },
+  {
+    "path": "./Drop Your Weapon!.7ee44c"
+  },
+  {
+    "path": "./Crossfire.b5231d"
+  },
+  {
+    "path": "./Commandeer.1f1d7c"
+  },
+  {
+    "path": "./Scatterblaster.fc5ebc"
+  },
+  {
+    "path": "./Lead by Example.2339e9"
+  },
+  {
+    "path": "./EMP Grenades.be7767"
+  },
+  {
+    "path": "./Chance Cube.887931"
+  },
+  {
+    "path": "./Z-95 Headhunter.2fda40"
+  },
+  {
+    "path": "./X-8 Night Sniper.b2a89c"
+  },
+  {
+    "path": "./Extortion.4a5734"
+  },
+  {
+    "path": "./BD-1 Cutter Vibro-Ax.7bc2c5"
+  },
+  {
+    "path": "./Weapons Cache.a9ee92"
+  },
+  {
+    "path": "./Shoto Lightsaber.1449c0"
+  },
+  {
+    "path": "./Psychometry.dc5da6"
+  },
+  {
+    "path": "./Ancient Lightsaber.8626c0"
+  },
+  {
+    "path": "./Natural Pilot.89b8f4"
+  },
+  {
+    "path": "./Electrostaff.b94a08"
+  },
+  {
+    "path": "./LR1K Sonic Cannon.08ffe6"
+  },
+  {
+    "path": "./T-47 Airspeeder.20c20b"
+  },
+  {
+    "path": "./Tough Haggler.0262cb"
+  },
+  {
+    "path": "./Energy Slingshot.4549db"
+  },
+  {
+    "path": "./Chopper.2f9a97"
+  },
+  {
+    "path": "./Wookiee Warrior.490271"
+  },
+  {
+    "path": "./Sabine Wren, Explosives Expert.9f8619"
+  },
+  {
+    "path": "./Lando Calrissian, Galactic Entrepreneur.6e3d2d"
+  },
+  {
+    "path": "./Ezra Bridger, Force-sensitive Thief.528ad9"
+  },
+  {
+    "path": "./Coordination.c63fad"
+  },
+  {
+    "path": "./Master of the Council.4de8c8"
+  },
+  {
+    "path": "./Training Remote.6dd94d"
+  },
+  {
+    "path": "./Mace Windu, Jedi Champion.17332f"
+  },
+  {
+    "path": "./Kanan Jarrus, Rebel Jedi.1db27c"
+  },
+  {
+    "path": "./Jedi Instructor.7ff817"
+  },
+  {
+    "path": "./Ahsoka Tano, Force Operative.1a3be3"
+  },
+  {
+    "path": "./A280 Blaster Rifle.1862d1"
+  },
+  {
+    "path": "./Y-Wing.2cbb8e"
+  },
+  {
+    "path": "./Ghost.3b3b3c"
+  },
+  {
+    "path": "./Rookie Pilot.f9f3f0"
+  },
+  {
+    "path": "./K-2SO, Reprogrammed Droid.daebcd"
+  },
+  {
+    "path": "./Hera Syndulla, Phoenix Leader.f770ea"
+  },
+  {
+    "path": "./General Rieekan, Defensive Mastermind.fdb3ad"
+  },
+  {
+    "path": "./Relby-V10 Mortar Gun.91866f"
+  },
+  {
+    "path": "./LL-30 Blaster Pistol.c8c5f7"
+  },
+  {
+    "path": "./Cable Launcher.e56063"
+  },
+  {
+    "path": "./Hound's Tooth.ea03f2"
+  },
+  {
+    "path": "./Gamorrean Guard.ca420e"
+  },
+  {
+    "path": "./Cad Bane, Vicious Mercenary.cffe90"
+  },
+  {
+    "path": "./Bossk, Wookiee Slayer.270ec2"
+  },
+  {
+    "path": "./Bazine Netal, Master Manipulator.281f16"
+  },
+  {
+    "path": "./Grand Inquisitor's Lightsaber.159ffd"
+  },
+  {
+    "path": "./Temptation.1a7f1a"
+  },
+  {
+    "path": "./ID9 Seeker Droid.48613e"
+  },
+  {
+    "path": "./Darth Vader's TIE Advanced.7c9ed8"
+  },
+  {
+    "path": "./Grand Inquisitor, Sith Loyalist.11cea6"
+  },
+  {
+    "path": "./Seventh Sister, Agile Inquisitor.bceb79"
+  },
+  {
+    "path": "./Servant of the Dark Side.8a4f92"
+  },
+  {
+    "path": "./Quinlan Vos, Dark Disciple.27d2c7"
+  },
+  {
+    "path": "./T-7 Ion Disruptor Rifle.373ba3"
+  },
+  {
+    "path": "./Probe Droid.14ec2f"
+  },
+  {
+    "path": "./AT-DP.e98a01"
+  },
+  {
+    "path": "./Thrawn, Master Strategist.9dfaf5"
+  },
+  {
+    "path": "./Magnaguard.ee9c0d"
+  },
+  {
+    "path": "./General Hux, Aspiring Commander.52659d"
+  },
+  {
+    "path": "./Ciena Ree, Adept Pilot.f64282"
+  },
+  {
+    "path": "./War-Torn Streets.51b4c4"
+  },
+  {
+    "path": "./Secret Facility.cec698"
+  },
+  {
+    "path": "./Secluded Beach.decb2f"
+  },
+  {
+    "path": "./Otoh Gunga.0dfcff"
+  },
+  {
+    "path": "./Moisture Farm.6ef28d"
+  },
+  {
+    "path": "./Maz's Castle.9e1516"
+  },
+  {
+    "path": "./Ewok Village.f78a8e"
+  },
+  {
+    "path": "./Docking Bay.2bf022"
+  },
+  {
+    "path": "./Cargo Hold.37e0bc"
+  },
+  {
+    "path": "./Carbon-freezing Chamber.afcf70"
+  },
+  {
+    "path": "./Fast Hands.43feac"
+  },
+  {
+    "path": "./Outmaneuver.75ee29"
+  },
+  {
+    "path": "./Improvisation.9c79ca"
+  },
+  {
+    "path": "./Sabotage.9025be"
+  },
+  {
+    "path": "./Friends in Low Places.e028b2"
+  },
+  {
+    "path": "./-Fair- Trade.3fff12"
+  },
+  {
+    "path": "./Diversion.796fde"
+  },
+  {
+    "path": "./Cheat.b40e27"
+  },
+  {
+    "path": "./Bolt Hole.50a588"
+  },
+  {
+    "path": "./Ammo Belt.b32e07"
+  },
+  {
+    "path": "./Resolve.c53195"
+  },
+  {
+    "path": "./Swiftness.e8df8c"
+  },
+  {
+    "path": "./Parry.b744eb"
+  },
+  {
+    "path": "./New Orders.bd1284"
+  },
+  {
+    "path": "./Evade.18e869"
+  },
+  {
+    "path": "./Force Illusion.0aa5ec"
+  },
+  {
+    "path": "./Meditate.7f9c3c"
+  },
+  {
+    "path": "./Trust Your Instincts.4d2667"
+  },
+  {
+    "path": "./Rejuvenate.bd46a9"
+  },
+  {
+    "path": "./Premonitions.aab20f"
+  },
+  {
+    "path": "./Overconfidence.db81f6"
+  },
+  {
+    "path": "./Momentum Shift.8cdf17"
+  },
+  {
+    "path": "./High Ground.727319"
+  },
+  {
+    "path": "./Decisive Blow.85bb84"
+  },
+  {
+    "path": "./Wingman.e32daa"
+  },
+  {
+    "path": "./Training.122148"
+  },
+  {
+    "path": "./Air Superiority.441ff0"
+  },
+  {
+    "path": "./Aftermath.b769da"
+  },
+  {
+    "path": "./Suppression.b14800"
+  },
+  {
+    "path": "./Salvo.4ba815"
+  },
+  {
+    "path": "./Collateral Damage.1ef8d7"
+  },
+  {
+    "path": "./Bombing Run.a494d6"
+  },
+  {
+    "path": "./Life Debt.c174a0"
+  },
+  {
+    "path": "./Double-Dealing.abeeba"
+  },
+  {
+    "path": "./Planned Explosion.3894e4"
+  },
+  {
+    "path": "./Never Tell Me The Odds.891851"
+  },
+  {
+    "path": "./Loth-Cat and Mouse.6e1c61"
+  },
+  {
+    "path": "./Long Con.423211"
+  },
+  {
+    "path": "./Rebel.9243ba"
+  },
+  {
+    "path": "./Hold On!.4ad92c"
+  },
+  {
+    "path": "./Garbage'll Do.19fe57"
+  },
+  {
+    "path": "./Confidence.c493d2"
+  },
+  {
+    "path": "./Protective Mentor.152509"
+  },
+  {
+    "path": "./Your Eyes Can Deceive You.ff7e7b"
+  },
+  {
+    "path": "./Synchronicity.1da9f9"
+  },
+  {
+    "path": "./My Ally Is The Force.34ecbb"
+  },
+  {
+    "path": "./Krayt Dragon Howl.fd1278"
+  },
+  {
+    "path": "./Guard.348165"
+  },
+  {
+    "path": "./Determination.a2f792"
+  },
+  {
+    "path": "./Destiny.2a031e"
+  },
+  {
+    "path": "./Caution.701774"
+  },
+  {
+    "path": "./Tactical Aptitude.570ace"
+  },
+  {
+    "path": "./Spy Net.1d7399"
+  },
+  {
+    "path": "./Planetary Uprising.9a57ab"
+  },
+  {
+    "path": "./Spirit of Rebellion.decea5"
+  },
+  {
+    "path": "./Sensor Placement.348334"
+  },
+  {
+    "path": "./Rebel Assault.396f6b"
+  },
+  {
+    "path": "./Our Only Hope.0a4fe9"
+  },
+  {
+    "path": "./Guerrilla Warfare.de0974"
+  },
+  {
+    "path": "./Friendly Fire.d9593e"
+  },
+  {
+    "path": "./Emergency Evacuation.2cdf45"
+  },
+  {
+    "path": "./Armor Plating.cef663"
+  },
+  {
+    "path": "./Salvage Stand.181616"
+  },
+  {
+    "path": "./Scrap Buy.3ee8af"
+  },
+  {
+    "path": "./Relentless Pursuit.d4c6bf"
+  },
+  {
+    "path": "./One-Quarter Portion.5236f6"
+  },
+  {
+    "path": "./Loose Ends.ae101c"
+  },
+  {
+    "path": "./Friends in High Places.af15cf"
+  },
+  {
+    "path": "./Bait and Switch.6a5182"
+  },
+  {
+    "path": "./Arms Deal.d2d0c4"
+  },
+  {
+    "path": "./Doubt.73ee70"
+  },
+  {
+    "path": "./Now I Am The Master.92b339"
+  },
+  {
+    "path": "./Dark Presence.aeb456"
+  },
+  {
+    "path": "./The Price of Failure.ec5777"
+  },
+  {
+    "path": "./Rise Again.b9f120"
+  },
+  {
+    "path": "./Now You Will Die.1c0192"
+  },
+  {
+    "path": "./No Disintegrations.c9f272"
+  },
+  {
+    "path": "./Manipulate.e1de4d"
+  },
+  {
+    "path": "./Lightsaber Throw.45d6e8"
+  },
+  {
+    "path": "./Anger.f06ead"
+  },
+  {
+    "path": "./Imperial Inspection.aaf710"
+  },
+  {
+    "path": "./Attrition.7c9ece"
+  },
+  {
+    "path": "./We Have Them Now.8082f1"
+  },
+  {
+    "path": "./Undying Loyalty.b36b23"
+  },
+  {
+    "path": "./Trench Warfare.b52d5e"
+  },
+  {
+    "path": "./Traitor!.859ded"
+  },
+  {
+    "path": "./Sustained Fire.bc406b"
+  },
+  {
+    "path": "./Lockdown.1245f5"
+  },
+  {
+    "path": "./Imperial War Machine.f80f68"
+  },
+  {
+    "path": "./Battle Formation.862e98"
+  },
+  {
+    "path": "./Con Artist.6b83ea"
+  },
+  {
+    "path": "./Ascension Gun.aa0791"
+  },
+  {
+    "path": "./Quadjumper.03811e"
+  },
+  {
+    "path": "./Vibroknife.9674f9"
+  },
+  {
+    "path": "./Makashi Training.280306"
+  },
+  {
+    "path": "./Force Speed.ae9632"
+  },
+  {
+    "path": "./Force Push.809d68"
+  },
+  {
+    "path": "./Rocket Launcher.4fced5"
+  },
+  {
+    "path": "./Astromech.ef70f0"
+  },
+  {
+    "path": "./Supply Line.7e743f"
+  },
+  {
+    "path": "./Maz's Goggles.56ef4a"
+  },
+  {
+    "path": "./Lone Operative.762461"
+  },
+  {
+    "path": "./Bowcaster.968c1e"
+  },
+  {
+    "path": "./Smuggling Freighter.66eab9"
+  },
+  {
+    "path": "./Outer Rim Smuggler.b9e84c"
+  },
+  {
+    "path": "./Maz Kanata, Pirate Queen.5d973f"
+  },
+  {
+    "path": "./Jyn Erso, Reckless Operative.9e2965"
+  },
+  {
+    "path": "./Chewbacca, Loyal Friend.eee72c"
+  },
+  {
+    "path": "./R2-D2.bc97b5"
+  },
+  {
+    "path": "./Journals of Ben Kenobi.021ea8"
+  },
+  {
+    "path": "./Force Heal.ff871e"
+  },
+  {
+    "path": "./Handcrafted Light Bow.a0d2f1"
+  },
+  {
+    "path": "./Delta-7 Interceptor.3ceb40"
+  },
+  {
+    "path": "./Obi-Wan Kenobi, Mysterious Hermit.225817"
+  },
+  {
+    "path": "./Luminara Unduli, Inspiring Commander.ec4e35"
+  },
+  {
+    "path": "./Chirrut Imwe, Blind Warrior.c97846"
+  },
+  {
+    "path": "./Jedi Acolyte.9d9203"
+  },
+  {
+    "path": "./Overkill.9fee05"
+  },
+  {
+    "path": "./A180 Blaster.0572c1"
+  },
+  {
+    "path": "./U-Wing.c1f050"
+  },
+  {
+    "path": "./C-3PO.498c17"
+  },
+  {
+    "path": "./Temmin -Snap- Wexley, Recon Specialist.9df650"
+  },
+  {
+    "path": "./Rebel Commando.2ea9a0"
+  },
+  {
+    "path": "./Mon Mothma, Skilled Politician.9ce956"
+  },
+  {
+    "path": "./Baze Malbus, Crack Shot.d209a9"
+  },
+  {
+    "path": "./Vibroknucklers.dc9988"
+  },
+  {
+    "path": "./Personal Shield.b919db"
+  },
+  {
+    "path": "./Blackmail.2172f1"
+  },
+  {
+    "path": "./Slave I.948841"
+  },
+  {
+    "path": "./Unkar Plutt, Junk Dealer.112edd"
+  },
+  {
+    "path": "./IG-88, Assassin Droid.e8a028"
+  },
+  {
+    "path": "./Guavian Enforcer.e9e3e8"
+  },
+  {
+    "path": "./Aurra Sing, Deadly Shot.f7d010"
+  },
+  {
+    "path": "./Interrogation Droid.067bda"
+  },
+  {
+    "path": "./Lure of Power.cd236f"
+  },
+  {
+    "path": "./Lightsaber Pike.64bb0f"
+  },
+  {
+    "path": "./Force Lightning.1bff3b"
+  },
+  {
+    "path": "./Command Shuttle.8df019"
+  },
+  {
+    "path": "./Royal Guard.d52bc5"
+  },
+  {
+    "path": "./Palpatine, Galactic Emperor.0fba5d"
+  },
+  {
+    "path": "./Darth Vader, Dark Apprentice.60d594"
+  },
+  {
+    "path": "./Asajj Ventress, Force Assassin.9c052a"
+  },
+  {
+    "path": "./Z6 Riot Control Baton.645b30"
+  },
+  {
+    "path": "./DT-29 Heavy Blaster Pistol.4ffd89"
+  },
+  {
+    "path": "./Imperial Discipline.12f600"
+  },
+  {
+    "path": "./E-Web Emplacement.d93ba0"
+  },
+  {
+    "path": "./TIE Pilot.cc5831"
+  },
+  {
+    "path": "./Director Krennic, Cruel but Brilliant.8081f7"
+  },
+  {
+    "path": "./FN-2199, Loyal Trooper.7da49d"
+  },
+  {
+    "path": "./Death Trooper.ef3d65"
+  },
+  {
+    "path": "./Starship Graveyard.84087a"
+  },
+  {
+    "path": "./Separatist Base.6469ee"
+  },
+  {
+    "path": "./Mos Eisley Spaceport.dbcd01"
+  },
+  {
+    "path": "./Rebel War Room.30fa52"
+  },
+  {
+    "path": "./Jedi Temple.5e6a79"
+  },
+  {
+    "path": "./Imperial Armory.598fba"
+  },
+  {
+    "path": "./Frozen Wastes.1eed18"
+  },
+  {
+    "path": "./Emperor's Throne Room.18e171"
+  },
+  {
+    "path": "./Echo Base.28d5c6"
+  },
+  {
+    "path": "./Command Center.96de92"
+  },
+  {
+    "path": "./Hunker Down.e987ae"
+  },
+  {
+    "path": "./Infamous.d03f83"
+  },
+  {
+    "path": "./Unpredictable.2ac81b"
+  },
+  {
+    "path": "./Scramble.0f0fa3"
+  },
+  {
+    "path": "./Reversal.4ef96f"
+  },
+  {
+    "path": "./Electroshock.ecbdf9"
+  },
+  {
+    "path": "./Disarm.107117"
+  },
+  {
+    "path": "./Take Cover.72a235"
+  },
+  {
+    "path": "./Flank.076fde"
+  },
+  {
+    "path": "./Dodge.d45e9e"
+  },
+  {
+    "path": "./Close Quarters Assault.17957d"
+  },
+  {
+    "path": "./Block.79bed0"
+  },
+  {
+    "path": "./All In.ce2f4f"
+  },
+  {
+    "path": "./Aim.667566"
+  },
+  {
+    "path": "./It Binds All Things.c4b03b"
+  },
+  {
+    "path": "./Use The Force.e8d20b"
+  },
+  {
+    "path": "./The Power of the Force.da0eb9"
+  },
+  {
+    "path": "./Mind Trick.7170e8"
+  },
+  {
+    "path": "./Disturbance in the Force.cbdca4"
+  },
+  {
+    "path": "./Deflect.28631e"
+  },
+  {
+    "path": "./Supporting Fire.c1d908"
+  },
+  {
+    "path": "./Squad Tactics.12fb7e"
+  },
+  {
+    "path": "./Logistics.1a24df"
+  },
+  {
+    "path": "./Leadership.fe795d"
+  },
+  {
+    "path": "./Firepower.3c4fa5"
+  },
+  {
+    "path": "./Dug In.004b71"
+  },
+  {
+    "path": "./Award Ceremony.bd853c"
+  },
+  {
+    "path": "./Second Chance.6c8e33"
+  },
+  {
+    "path": "./Street Informants.efe098"
+  },
+  {
+    "path": "./Play the Odds.360fe7"
+  },
+  {
+    "path": "./Smuggling.cc7966"
+  },
+  {
+    "path": "./Shoot First.f64c28"
+  },
+  {
+    "path": "./Scavenge.4d5078"
+  },
+  {
+    "path": "./Negotiate.2b99cb"
+  },
+  {
+    "path": "./Let The Wookiee Win.e75385"
+  },
+  {
+    "path": "./Hyperspace Jump.a358e1"
+  },
+  {
+    "path": "./Draw Attention.5040bb"
+  },
+  {
+    "path": "./Don't Get Cocky.442ce1"
+  },
+  {
+    "path": "./Daring Escape.e310f9"
+  },
+  {
+    "path": "./The Force is Strong.c7d53f"
+  },
+  {
+    "path": "./Awakening.4238ca"
+  },
+  {
+    "path": "./Jedi Council.04a177"
+  },
+  {
+    "path": "./Willpower.6b0a6e"
+  },
+  {
+    "path": "./Riposte.b351e8"
+  },
+  {
+    "path": "./Return of the Jedi.fe1e5e"
+  },
+  {
+    "path": "./Patience.4d5b42"
+  },
+  {
+    "path": "./Noble Sacrifice.98bf3c"
+  },
+  {
+    "path": "./Heroism.f21be9"
+  },
+  {
+    "path": "./Force Misdirection.e6dc35"
+  },
+  {
+    "path": "./Defensive Stance.bf1957"
+  },
+  {
+    "path": "./Anticipate.b3aac1"
+  },
+  {
+    "path": "./Resistance HQ.0096ea"
+  },
+  {
+    "path": "./Surgical Strike.196090"
+  },
+  {
+    "path": "./Strategic Planning.666141"
+  },
+  {
+    "path": "./Retreat.411223"
+  },
+  {
+    "path": "./Rearm.dc365f"
+  },
+  {
+    "path": "./Natural Talent.e2895c"
+  },
+  {
+    "path": "./It's a Trap!.d9afef"
+  },
+  {
+    "path": "./Hit and Run.18de9c"
+  },
+  {
+    "path": "./Field Medic.c53f78"
+  },
+  {
+    "path": "./Defensive Position.67a020"
+  },
+  {
+    "path": "./Commando Raid.9266e7"
+  },
+  {
+    "path": "./Prized Possession.b96bc7"
+  },
+  {
+    "path": "./Underworld Connections.4f2a16"
+  },
+  {
+    "path": "./My Kind of Scum.d635d7"
+  },
+  {
+    "path": "./Backup Muscle.d3f394"
+  },
+  {
+    "path": "./Lying in Wait.28c014"
+  },
+  {
+    "path": "./He Doesn't Like You.2632ec"
+  },
+  {
+    "path": "./Go for the Kill.c4a90d"
+  },
+  {
+    "path": "./Fight Dirty.590512"
+  },
+  {
+    "path": "./Confiscation.dd7267"
+  },
+  {
+    "path": "./Armed to the Teeth.27416a"
+  },
+  {
+    "path": "./Ace in the Hole.76752a"
+  },
+  {
+    "path": "./Nowhere to Run.877fcb"
+  },
+  {
+    "path": "./Hidden In Shadow.8a423a"
+  },
+  {
+    "path": "./Power of the Dark Side.0d4c15"
+  },
+  {
+    "path": "./Emperor's Favor.1b395b"
+  },
+  {
+    "path": "./Pulling the Strings.bd76c3"
+  },
+  {
+    "path": "./No Mercy.174901"
+  },
+  {
+    "path": "./Isolation.6e2f61"
+  },
+  {
+    "path": "./Intimidate.3cd8a1"
+  },
+  {
+    "path": "./Force Strike.e6a200"
+  },
+  {
+    "path": "./Feel Your Anger.ad5cbf"
+  },
+  {
+    "path": "./Enrage.7884d4"
+  },
+  {
+    "path": "./Boundless Ambition.a7efda"
+  },
+  {
+    "path": "./Abandon All Hope.360d67"
+  },
+  {
+    "path": "./Personal Escort.c5bf9a"
+  },
+  {
+    "path": "./Local Garrison.20ed4d"
+  },
+  {
+    "path": "./Drudge Work.caaf70"
+  },
+  {
+    "path": "./The Best Defense....5969dd"
+  },
+  {
+    "path": "./Tactical Mastery.c4aa38"
+  },
+  {
+    "path": "./Sweep the Area.3de4ce"
+  },
+  {
+    "path": "./Probe.cc9e84"
+  },
+  {
+    "path": "./Occupation.50094f"
+  },
+  {
+    "path": "./Endless Ranks.a07e93"
+  },
+  {
+    "path": "./Closing the Net.d9c36c"
+  },
+  {
+    "path": "./Cannon Fodder.a52e35"
+  },
+  {
+    "path": "./Thermal Detonator.77f8e1"
+  },
+  {
+    "path": "./Jetpack.83013a"
+  },
+  {
+    "path": "./Cunning.ca89a3"
+  },
+  {
+    "path": "./Black Market.33ba1e"
+  },
+  {
+    "path": "./Holdout Blaster.0289f8"
+  },
+  {
+    "path": "./Datapad.e7cc5c"
+  },
+  {
+    "path": "./Comlink.0a241d"
+  },
+  {
+    "path": "./Mind Probe.18c35d"
+  },
+  {
+    "path": "./Lightsaber.7b04d5"
+  },
+  {
+    "path": "./Force Training.e739d7"
+  },
+  {
+    "path": "./Force Throw.a238ac"
+  },
+  {
+    "path": "./Promotion.8b99ad"
+  },
+  {
+    "path": "./IQA-11 Blaster Rifle.939fa7"
+  },
+  {
+    "path": "./DH-17 Blaster Pistol.89e30c"
+  },
+  {
+    "path": "./Outpost.673fc6"
+  },
+  {
+    "path": "./Infiltrate.e675a0"
+  },
+  {
+    "path": "./DL-44 Heavy Blaster Pistol.813b80"
+  },
+  {
+    "path": "./Diplomatic Immunity.273f8c"
+  },
+  {
+    "path": "./Millennium Falcon.3a5058"
+  },
+  {
+    "path": "./Padme Amidala, Queen of Naboo.9ed054"
+  },
+  {
+    "path": "./Hired Gun.676885"
+  },
+  {
+    "path": "./Han Solo, Scoundrel.687c23"
+  },
+  {
+    "path": "./Finn, First Order Defector.19510f"
+  },
+  {
+    "path": "./Rey's Staff.329beb"
+  },
+  {
+    "path": "./BB-8.f3d7ea"
+  },
+  {
+    "path": "./One With The Force.472401"
+  },
+  {
+    "path": "./Luke Skywalker's Lightsaber.7e69f3"
+  },
+  {
+    "path": "./Jedi Robes.3de01c"
+  },
+  {
+    "path": "./Force Protection.669568"
+  },
+  {
+    "path": "./Rey, Force Prodigy.6b652d"
+  },
+  {
+    "path": "./Qui-Gon Jinn, Ataru Master.1e4def"
+  },
+  {
+    "path": "./Padawan.3a234a"
+  },
+  {
+    "path": "./Luke Skywalker, Jedi Knight.18eb67"
+  },
+  {
+    "path": "./Survival Gear.a14e73"
+  },
+  {
+    "path": "./Scout.c56121"
+  },
+  {
+    "path": "./Black One.01b116"
+  },
+  {
+    "path": "./Launch Bay.a5c84a"
+  },
+  {
+    "path": "./Rebel Trooper.c3f487"
+  },
+  {
+    "path": "./Poe Dameron, Ace Pilot.eaf19d"
+  },
+  {
+    "path": "./Leia Organa, Born Leader.241efd"
+  },
+  {
+    "path": "./Admiral Ackbar, Perceptive Tactician.ed38ec"
+  },
+  {
+    "path": "./On The Hunt.b8753b"
+  },
+  {
+    "path": "./Gaffi Stick.d7c610"
+  },
+  {
+    "path": "./Flame Thrower.5f5b4d"
+  },
+  {
+    "path": "./Crime Lord.3bfdea"
+  },
+  {
+    "path": "./Tusken Raider.989707"
+  },
+  {
+    "path": "./Jango Fett, Lethal Mercenary.02d348"
+  },
+  {
+    "path": "./Jabba the Hutt, The Great and Mighty.4028f6"
+  },
+  {
+    "path": "./Bala-Tik, Gang Leader.d58ff9"
+  },
+  {
+    "path": "./Speeder Bike Scout.f8fe79"
+  },
+  {
+    "path": "./Infantry Grenades.2864fc"
+  },
+  {
+    "path": "./Sith Holocron.847426"
+  },
+  {
+    "path": "./Kylo Ren's Lightsaber.380748"
+  },
+  {
+    "path": "./Immobilize.d31905"
+  },
+  {
+    "path": "./Force Choke.3b3fc4"
+  },
+  {
+    "path": "./Nightsister.55574a"
+  },
+  {
+    "path": "./Kylo Ren, Vader's Disciple.6d7ed4"
+  },
+  {
+    "path": "./Darth Vader, Sith Lord.55145c"
+  },
+  {
+    "path": "./Count Dooku, Devious Strategist.0f253d"
+  },
+  {
+    "path": "./F-11D Rifle.ac3b65"
+  },
+  {
+    "path": "./Commanding Presence.5a514a"
+  },
+  {
+    "path": "./First Order TIE Fighter.e3ec6d"
+  },
+  {
+    "path": "./AT-ST.7915a6"
+  },
+  {
+    "path": "./General Veers, Field Commander.806702"
+  },
+  {
+    "path": "./General Grievous, Jedi Hunter.d3b5f5"
+  },
+  {
+    "path": "./First Order Stormtrooper.f18c5f"
+  },
+  {
+    "path": "./Captain Phasma, Elite Trooper.f25cac"
+  }
+]

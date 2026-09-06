@@ -1,0 +1,55 @@
+{
+  "GUID": "670097",
+  "Name": "Card",
+  "Transform": {
+    "posX": -11.5086546,
+    "posY": 1.68337429,
+    "posZ": 15.7906761,
+    "rotX": 0.0616236739,
+    "rotY": 0.00580900442,
+    "rotZ": 359.892151,
+    "scaleX": 1.42,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Karabast!",
+  "Description": "AtG 97",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 49327,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "493": {
+      "FaceURL": "http://drive.google.com/uc?id=1u4B0psw6EKBhPIDPxzCPV5Bn8ruaVUAK",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

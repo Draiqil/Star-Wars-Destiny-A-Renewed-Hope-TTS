@@ -1,0 +1,55 @@
+{
+  "GUID": "6eb7fd",
+  "Name": "Card",
+  "Transform": {
+    "posX": -4.360589,
+    "posY": 3.05289268,
+    "posZ": 12.5801964,
+    "rotX": 0.238197118,
+    "rotY": 270.001038,
+    "rotZ": 0.5141883,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Colossus",
+  "Description": "CM 158",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 53837,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "538": {
+      "FaceURL": "http://drive.google.com/uc?id=1WL-W-3nD7e7xzhjcRtBFfUvgOiOsmLXg",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 8,
+      "NumHeight": 5,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

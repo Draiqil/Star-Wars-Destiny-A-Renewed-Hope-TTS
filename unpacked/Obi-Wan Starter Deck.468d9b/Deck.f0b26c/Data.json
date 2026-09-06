@@ -1,0 +1,94 @@
+{
+  "GUID": "f0b26c",
+  "Name": "Deck",
+  "Transform": {
+    "posX": -50.66316,
+    "posY": 3.15770531,
+    "posZ": 19.8420582,
+    "rotX": 0.08446594,
+    "rotY": 89.99944,
+    "rotZ": 179.202637,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": false,
+  "SidewaysCard": false,
+  "DeckIDs": [
+    50124,
+    50123,
+    50041,
+    50126,
+    50039,
+    50047,
+    50130,
+    50000,
+    50109,
+    49960,
+    50023,
+    50116,
+    49964,
+    50112,
+    49959,
+    50128,
+    50108,
+    50021,
+    49963,
+    49958
+  ],
+  "CustomDeck": {
+    "499": {
+      "FaceURL": "http://drive.google.com/uc?id=1lyMH8Pz5_je2JF8x2DpZWvduiePSVCCM",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "500": {
+      "FaceURL": "http://drive.google.com/uc?id=1yDIf6jd9samenWa8ENw-7lSaNaRgKjwA",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "501": {
+      "FaceURL": "http://drive.google.com/uc?id=1ZE2LhMX9z-rF8d09UmLla9k2gGaZxyeM",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "GUID": "b46fda",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.453,
+    "posY": 0.84,
+    "posZ": 0.374,
+    "rotX": 0.673,
+    "rotY": 0.014,
+    "rotZ": 0.839,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Hunt Them Down",
+  "Description": "CONV 46",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49945,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

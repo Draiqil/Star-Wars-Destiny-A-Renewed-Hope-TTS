@@ -1,0 +1,44 @@
+{
+  "GUID": "381c7c",
+  "Name": "Bag",
+  "Transform": {
+    "posX": 5.286657,
+    "posY": 2.174116,
+    "posZ": 13.0462427,
+    "rotX": 0.00174861867,
+    "rotY": 179.98587,
+    "rotZ": 0.000733621,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "DestinySmash | Poe2",
+  "Description": "Exported from SWDestinyDB.com",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.128999919,
+    "g": 0.694,
+    "b": 0.606999934
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1
+}

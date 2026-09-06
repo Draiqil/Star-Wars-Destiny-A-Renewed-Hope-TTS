@@ -1,0 +1,54 @@
+{
+  "GUID": "4ad92c",
+  "Name": "Card",
+  "Transform": {
+    "posX": -18.3543739,
+    "posY": 1.54904771,
+    "posZ": -0.9111532,
+    "rotX": -0.00006652026,
+    "rotY": 0.0169609021,
+    "rotZ": -0.0000233905175,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Hold On!",
+  "Description": "SoR 111",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 2340,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "23": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87099658839675034/9D44369D8E610149D33AB7498508159E965B9E87/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

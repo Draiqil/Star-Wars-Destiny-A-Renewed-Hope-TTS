@@ -1,0 +1,53 @@
+{
+  "GUID": "101091",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.112,
+    "posY": 0.707,
+    "posZ": 0.988,
+    "rotX": 0.123,
+    "rotY": 0.772,
+    "rotZ": 0.244,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Loth-Cat and Mouse",
+  "Description": "SoR 114",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 2343,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "23": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87099658839675034/9D44369D8E610149D33AB7498508159E965B9E87/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

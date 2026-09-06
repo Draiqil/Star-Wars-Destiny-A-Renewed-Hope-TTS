@@ -1,0 +1,54 @@
+{
+  "GUID": "f7d010",
+  "Name": "Card",
+  "Transform": {
+    "posX": -17.45211,
+    "posY": 2.44700027,
+    "posZ": -0.9260856,
+    "rotX": 359.973,
+    "rotY": 359.989532,
+    "rotZ": 359.9591,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Aurra Sing, Deadly Shot",
+  "Description": "SoR 18",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46217,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "462": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87099658840041859/705089CFD0C34899FB3E42BA0D3876C35DB344C6/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

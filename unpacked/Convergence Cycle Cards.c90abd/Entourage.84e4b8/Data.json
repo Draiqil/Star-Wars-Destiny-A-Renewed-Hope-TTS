@@ -1,0 +1,55 @@
+{
+  "GUID": "84e4b8",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.0000217299767,
+    "posY": 15.9748688,
+    "posZ": 0.0000438033348,
+    "rotX": 359.898224,
+    "rotY": 0.0261219144,
+    "rotZ": 180.041,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Entourage",
+  "Description": "CONV 152",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 50111,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "501": {
+      "FaceURL": "http://drive.google.com/uc?id=1ZE2LhMX9z-rF8d09UmLla9k2gGaZxyeM",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

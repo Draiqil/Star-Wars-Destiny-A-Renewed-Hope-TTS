@@ -1,0 +1,43 @@
+{
+  "GUID": "fdf9a1",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.493,
+    "posY": 0.824,
+    "posZ": 0.946,
+    "rotX": 0.24,
+    "rotY": 0.027,
+    "rotZ": 0.38,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "DH-17 Blaster Pistol",
+  "Description": "GS 25",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 58124,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

@@ -1,0 +1,44 @@
+{
+  "GUID": "c79f82",
+  "Name": "Bag",
+  "Transform": {
+    "posX": -6.734133,
+    "posY": 2.17322135,
+    "posZ": 7.25602341,
+    "rotX": 359.9721,
+    "rotY": 180.019028,
+    "rotZ": 359.8781,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "DestinySmash | Beckett",
+  "Description": "Exported from SWDestinyDB.com",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.128999949,
+    "g": 0.694,
+    "b": 0.606999934
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1
+}

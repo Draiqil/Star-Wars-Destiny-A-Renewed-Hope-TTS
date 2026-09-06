@@ -1,0 +1,47 @@
+{
+  "GUID": "56e507",
+  "Name": "Bag",
+  "Transform": {
+    "posX": 3.21938443,
+    "posY": 2.17403865,
+    "posZ": 8.222668,
+    "rotX": 0.0025013173,
+    "rotY": 179.972961,
+    "rotZ": 0.002603606,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "DestinySmash | Wave 2 | Hera Ghost",
+  "Description": "Exported from SWDestinyDB.com",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.121568553,
+    "g": 0.5294118,
+    "b": 1
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "Bag": {
+    "Order": 0
+  }
+}

@@ -1,1 +1,9 @@
-updateSave.sh
+*
+!.gitignore
+!/.github/
+!/.github/**
+!README.md
+!package.json
+!package-lock.json
+!unpacked/
+!unpacked/**

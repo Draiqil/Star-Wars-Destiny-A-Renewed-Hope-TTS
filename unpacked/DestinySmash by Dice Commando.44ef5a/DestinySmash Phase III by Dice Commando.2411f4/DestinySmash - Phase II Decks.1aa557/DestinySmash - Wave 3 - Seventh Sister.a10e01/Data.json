@@ -1,0 +1,47 @@
+{
+  "GUID": "a10e01",
+  "Name": "Bag",
+  "Transform": {
+    "posX": -3.04138,
+    "posY": 2.17411661,
+    "posZ": -8.096241,
+    "rotX": 0.0008532797,
+    "rotY": 180.010559,
+    "rotZ": 0.0007258963,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "DestinySmash | Wave 3 | Seventh Sister",
+  "Description": "Exported from SWDestinyDB.com",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.856,
+    "g": 0.09999997,
+    "b": 0.09399996
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "Bag": {
+    "Order": 0
+  }
+}

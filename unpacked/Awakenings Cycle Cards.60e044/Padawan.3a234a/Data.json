@@ -1,0 +1,54 @@
+{
+  "GUID": "3a234a",
+  "Name": "Card",
+  "Transform": {
+    "posX": -16.8751488,
+    "posY": 2.408792,
+    "posZ": -5.39187574,
+    "rotX": 4.55549731e-8,
+    "rotY": 359.975952,
+    "rotZ": -0.00000361823572,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Padawan",
+  "Description": "AW 36",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 60435,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "491": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9400446189831889522/E18103B98F57E43A3A6CEAA57C3A7FA7F3B45CB5/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

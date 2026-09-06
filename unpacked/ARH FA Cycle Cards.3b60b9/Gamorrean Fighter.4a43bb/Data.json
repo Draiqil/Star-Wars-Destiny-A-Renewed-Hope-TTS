@@ -1,0 +1,55 @@
+{
+  "GUID": "4a43bb",
+  "Name": "Card",
+  "Transform": {
+    "posX": -40.68168,
+    "posY": 3.08151245,
+    "posZ": 9.337783,
+    "rotX": -0.00000202797287,
+    "rotY": 359.992279,
+    "rotZ": -0.00000741438635,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Gamorrean Fighter",
+  "Description": "HS 27",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": true,
+  "CardID": 57526,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "575": {
+      "FaceURL": "https://drive.google.com/uc?id=1j1PP4segZS0z891NV8rhzlkHkwQislla",
+      "BackURL": "https://drive.google.com/uc?id=1jmPW7ks3I52goV3ThBLlsFdaGXI4T_Ce",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

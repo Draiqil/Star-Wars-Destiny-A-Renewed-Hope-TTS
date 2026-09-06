@@ -1,0 +1,43 @@
+{
+  "GUID": "41af42",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.167,
+    "posY": 0.669,
+    "posZ": 0.786,
+    "rotX": 0.416,
+    "rotY": 0.991,
+    "rotZ": 0.02,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "V-1 Thermal Detonator",
+  "Description": "WotF 145",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 48506,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

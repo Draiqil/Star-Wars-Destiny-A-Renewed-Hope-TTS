@@ -1,0 +1,55 @@
+{
+  "GUID": "dc524c",
+  "Name": "Card",
+  "Transform": {
+    "posX": -14.0282955,
+    "posY": 1.16475046,
+    "posZ": 11.8028822,
+    "rotX": 0.0005582951,
+    "rotY": 0.000227988858,
+    "rotZ": -0.000724833342,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Gungan Catapult",
+  "Description": "WotF 82",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 48612,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "486": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/948454029951663166/D7690081A763E82D91EA87C86D6A08CF7F4177FC/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "da6ddf",
+  "Name": "Card",
+  "Transform": {
+    "posX": 3.72703528,
+    "posY": 1.06084228,
+    "posZ": -12.5856638,
+    "rotX": 0.00136106554,
+    "rotY": 359.952576,
+    "rotZ": 180.000946,
+    "scaleX": 1.47602439,
+    "scaleY": 1,
+    "scaleZ": 1.47602439
+  },
+  "Nickname": "Master of Pirates",
+  "Description": "RM 96",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 57303,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "573": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1750180226665425501/C226AE9B94ACCD622FAA2E9F59EBF8BFE84DF756/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1750180226665425194/E94C2B673EF70BF8A099641ADF82507852B8247C/",
+      "NumWidth": 4,
+      "NumHeight": 2,
+      "BackIsHidden": true,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

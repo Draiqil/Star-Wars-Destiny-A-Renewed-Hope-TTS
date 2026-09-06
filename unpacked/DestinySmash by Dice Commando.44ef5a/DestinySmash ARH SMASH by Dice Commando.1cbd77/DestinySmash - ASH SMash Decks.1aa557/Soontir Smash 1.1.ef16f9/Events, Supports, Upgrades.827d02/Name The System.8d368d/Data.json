@@ -1,0 +1,43 @@
+{
+  "GUID": "8d368d",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.972,
+    "posY": 0.214,
+    "posZ": 0.305,
+    "rotX": 0.051,
+    "rotY": 0.223,
+    "rotZ": 0.919,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Name The System",
+  "Description": "DoP 93",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 59622,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

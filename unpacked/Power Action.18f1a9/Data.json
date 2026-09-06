@@ -1,0 +1,45 @@
+{
+  "GUID": "18f1a9",
+  "Name": "Infinite_Bag",
+  "Transform": {
+    "posX": 45.63237,
+    "posY": 0.9442176,
+    "posZ": -3.5620203,
+    "rotX": -5.621683e-7,
+    "rotY": -0.00000141016392,
+    "rotZ": 8.426815e-7,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Power Action",
+  "Description": "",
+  "GMNotes": "",
+  "Memo": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.250965953,
+    "g": 0.250965953,
+    "b": 0.250965953
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1
+}

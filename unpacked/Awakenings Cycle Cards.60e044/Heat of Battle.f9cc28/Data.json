@@ -1,0 +1,54 @@
+{
+  "GUID": "f9cc28",
+  "Name": "Card",
+  "Transform": {
+    "posX": -19.4908638,
+    "posY": 1.4330436,
+    "posZ": -0.805803061,
+    "rotX": 0.0241923165,
+    "rotY": 0.03142762,
+    "rotZ": 359.9671,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Heat of Battle",
+  "Description": "EaW 123",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46552,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "465": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/869614971446949526/DAF4C217B2F790AE91A387A96BD8E9E9EC8000B2/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

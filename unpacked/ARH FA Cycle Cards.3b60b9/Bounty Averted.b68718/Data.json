@@ -1,0 +1,55 @@
+{
+  "GUID": "b68718",
+  "Name": "Card",
+  "Transform": {
+    "posX": -3.15882516,
+    "posY": 1.44398308,
+    "posZ": 11.5652609,
+    "rotX": 0.000059662776,
+    "rotY": 0.0000315349353,
+    "rotZ": -0.000261139736,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Bounty Averted",
+  "Description": "FA 27",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55026,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "550": {
+      "FaceURL": "https://drive.google.com/uc?id=1tYcnNwWU36Muhs4diBHQRgsxyySx92G7",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

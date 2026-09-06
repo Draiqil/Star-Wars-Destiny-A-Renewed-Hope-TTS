@@ -1,0 +1,55 @@
+{
+  "GUID": "a9bf92",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.00000287487364,
+    "posY": 19.2105713,
+    "posZ": 0.000006467556,
+    "rotX": -5.689057e-7,
+    "rotY": 0.026074674,
+    "rotZ": 180,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Military Camp",
+  "Description": "CONV 178",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 50137,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "501": {
+      "FaceURL": "http://drive.google.com/uc?id=1ZE2LhMX9z-rF8d09UmLla9k2gGaZxyeM",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

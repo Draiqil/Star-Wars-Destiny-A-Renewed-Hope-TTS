@@ -1,0 +1,55 @@
+{
+  "GUID": "35f3ee",
+  "Name": "Card",
+  "Transform": {
+    "posX": 4.27716351,
+    "posY": 1.90613484,
+    "posZ": -6.13209248,
+    "rotX": 0.0513897873,
+    "rotY": 179.777313,
+    "rotZ": 179.946213,
+    "scaleX": 1.47602439,
+    "scaleY": 1,
+    "scaleZ": 1.47602439
+  },
+  "Nickname": "Hammerhead Corvette",
+  "Description": "AF 65",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 61164,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "599": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2508018112031691243/6C7A3B28E54743B4A168C8B65E513A3EEB3C0EF9/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

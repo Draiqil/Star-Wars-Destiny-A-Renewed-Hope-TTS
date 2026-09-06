@@ -1,0 +1,43 @@
+{
+  "GUID": "20a026",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.751,
+    "posY": 0.13,
+    "posZ": 0.383,
+    "rotX": 0.84,
+    "rotY": 0.578,
+    "rotZ": 0.562,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Dangerous Maneuver",
+  "Description": "LEG 150",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 47309,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

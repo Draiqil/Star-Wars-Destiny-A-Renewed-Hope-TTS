@@ -1,0 +1,55 @@
+{
+  "GUID": "ec09af",
+  "Name": "Card",
+  "Transform": {
+    "posX": -3.91543174,
+    "posY": 1.04921937,
+    "posZ": -0.376290858,
+    "rotX": -0.000321207073,
+    "rotY": -3.872945e-8,
+    "rotZ": -0.0007454258,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Sneaky Diversion",
+  "Description": "FA 88",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55117,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "551": {
+      "FaceURL": "https://drive.google.com/uc?id=1B6REcTd3L2S7ewXsJLroRnU6MEswrrtj",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 5,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

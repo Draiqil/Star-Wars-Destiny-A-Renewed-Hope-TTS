@@ -1,0 +1,55 @@
+{
+  "GUID": "a2a417",
+  "Name": "Card",
+  "Transform": {
+    "posX": 4.35483646,
+    "posY": 2.24892426,
+    "posZ": -4.34610033,
+    "rotX": 1.22271371,
+    "rotY": 179.8662,
+    "rotZ": 0.011678217,
+    "scaleX": 1.47602439,
+    "scaleY": 1,
+    "scaleZ": 1.47602439
+  },
+  "Nickname": "Jango Fett",
+  "Description": "RES 31",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 60930,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "597": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2050875404455867263/97198D6FCBE926295BE1DD2D5BD38960CFE42226/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

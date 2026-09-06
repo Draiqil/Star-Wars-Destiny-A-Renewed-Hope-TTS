@@ -1,0 +1,55 @@
+{
+  "GUID": "4080db",
+  "Name": "Card",
+  "Transform": {
+    "posX": -32.7451363,
+    "posY": 0.973605,
+    "posZ": -12.4644556,
+    "rotX": 5.1574343e-8,
+    "rotY": -0.0000103934808,
+    "rotZ": 180,
+    "scaleX": 1.4736706,
+    "scaleY": 1,
+    "scaleZ": 1.4736706
+  },
+  "Nickname": "Palpatine",
+  "Description": "GS 1",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 60700,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "581": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11307560061075361601/7E65B3FD27957EEBC942895E0EB0556608F8ED4C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

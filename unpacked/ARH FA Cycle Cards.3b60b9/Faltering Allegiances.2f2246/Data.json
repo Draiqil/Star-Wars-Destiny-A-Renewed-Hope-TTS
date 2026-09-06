@@ -1,0 +1,55 @@
+{
+  "GUID": "2f2246",
+  "Name": "Card",
+  "Transform": {
+    "posX": -4.36363029,
+    "posY": 1.13587725,
+    "posZ": -0.5384497,
+    "rotX": 0.00039163194,
+    "rotY": -5.42336466e-7,
+    "rotZ": -0.0004988664,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Faltering Allegiances",
+  "Description": "FA 79",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55108,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "551": {
+      "FaceURL": "https://drive.google.com/uc?id=1B6REcTd3L2S7ewXsJLroRnU6MEswrrtj",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 5,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "670138",
+  "Name": "Card",
+  "Transform": {
+    "posX": -11.8343229,
+    "posY": 1.28854573,
+    "posZ": 15.4962111,
+    "rotX": 0.0686742142,
+    "rotY": 0.0061561577,
+    "rotZ": 359.887543,
+    "scaleX": 1.42,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Dismantle",
+  "Description": "AtG 138",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 49368,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "493": {
+      "FaceURL": "http://drive.google.com/uc?id=1u4B0psw6EKBhPIDPxzCPV5Bn8ruaVUAK",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

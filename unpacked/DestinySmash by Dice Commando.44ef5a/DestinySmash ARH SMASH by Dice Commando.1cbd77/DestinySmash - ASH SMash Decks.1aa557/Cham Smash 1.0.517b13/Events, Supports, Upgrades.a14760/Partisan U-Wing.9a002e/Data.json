@@ -1,0 +1,43 @@
+{
+  "GUID": "9a002e",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.557,
+    "posY": 0.277,
+    "posZ": 0.465,
+    "rotX": 0.883,
+    "rotY": 0.672,
+    "rotZ": 0.753,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Partisan U-Wing",
+  "Description": "SA 82",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 58511,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

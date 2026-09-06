@@ -1,0 +1,54 @@
+{
+  "GUID": "6a67c0",
+  "Name": "Card",
+  "Transform": {
+    "posX": -6.69022274,
+    "posY": 2.28897381,
+    "posZ": -6.038554,
+    "rotX": 5.22244263,
+    "rotY": -0.002851987,
+    "rotZ": 359.99408,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Underhanded Tactics",
+  "Description": "WotF 52",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 48751,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "487": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/948454029951660614/BE1C3291FB80F1B91F4A4FF4AAB34FD1188948E4/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

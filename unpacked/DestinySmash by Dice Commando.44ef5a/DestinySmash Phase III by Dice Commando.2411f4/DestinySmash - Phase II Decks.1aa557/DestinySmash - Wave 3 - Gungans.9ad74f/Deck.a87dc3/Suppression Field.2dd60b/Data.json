@@ -1,0 +1,55 @@
+{
+  "GUID": "2dd60b",
+  "Name": "Card",
+  "Transform": {
+    "posX": -13.1664429,
+    "posY": 1.106955,
+    "posZ": 12.1909075,
+    "rotX": -0.00007097882,
+    "rotY": 2.77361578e-9,
+    "rotZ": -0.00174928072,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Suppression Field",
+  "Description": "LEG 115",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 47244,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "472": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/910157197471554206/D637CBE0377923200B602507BDC45653FE06B264/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

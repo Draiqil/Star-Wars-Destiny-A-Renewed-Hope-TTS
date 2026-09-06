@@ -1,0 +1,43 @@
+{
+  "GUID": "6c2f45",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.508,
+    "posY": 0.772,
+    "posZ": 0.24,
+    "rotX": 0.462,
+    "rotY": 0.296,
+    "rotZ": 0.897,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Fortitude",
+  "Description": "CM 87",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53706,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

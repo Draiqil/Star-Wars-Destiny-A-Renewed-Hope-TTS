@@ -1,0 +1,43 @@
+{
+  "GUID": "5a27f4",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.488,
+    "posY": 0.375,
+    "posZ": 0.593,
+    "rotX": 0.727,
+    "rotY": 0.886,
+    "rotZ": 0.993,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Treasured Lightsaber",
+  "Description": "AtG 120",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49350,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

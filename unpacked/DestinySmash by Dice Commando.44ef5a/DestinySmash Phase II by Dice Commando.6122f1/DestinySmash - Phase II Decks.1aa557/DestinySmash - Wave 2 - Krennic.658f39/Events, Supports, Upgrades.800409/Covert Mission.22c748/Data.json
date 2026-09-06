@@ -1,0 +1,43 @@
+{
+  "GUID": "22c748",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.776,
+    "posY": 0.3,
+    "posZ": 0.722,
+    "rotX": 0.963,
+    "rotY": 0.902,
+    "rotZ": 0.494,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Covert Mission",
+  "Description": "CM 119",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53738,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

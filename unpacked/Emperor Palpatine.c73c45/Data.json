@@ -1,0 +1,52 @@
+{
+  "GUID": "c73c45",
+  "Name": "Custom_Model",
+  "Transform": {
+    "posX": -48.9011078,
+    "posY": 1.98954511,
+    "posZ": -3.60924554,
+    "rotX": 359.9927,
+    "rotY": 0.0128862187,
+    "rotZ": 0.00136839389,
+    "scaleX": 3.34999752,
+    "scaleY": 3.34999752,
+    "scaleZ": 3.34999752
+  },
+  "Nickname": "Emperor Palpatine",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 1,
+    "g": 1,
+    "b": 1
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "CustomMesh": {
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/860610312553096456/3A81E6AA78394467D5D19A059F9CF7FC5703551A/",
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/860610312553099034/EA261C280A4ED2A11F569DDF7CD98729FBAB9899/",
+    "NormalURL": "",
+    "ColliderURL": "",
+    "Convex": true,
+    "MaterialIndex": 3,
+    "TypeIndex": 0,
+    "CastShadows": true
+  }
+}

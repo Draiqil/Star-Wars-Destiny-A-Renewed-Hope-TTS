@@ -1,0 +1,55 @@
+{
+  "GUID": "a21414",
+  "Name": "Card",
+  "Transform": {
+    "posX": -2.95410228,
+    "posY": 1.65737975,
+    "posZ": 11.7933626,
+    "rotX": 0.0000264787086,
+    "rotY": 0.00003029112,
+    "rotZ": -0.000355764729,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Peace Is A Lie",
+  "Description": "FA 5",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55004,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "550": {
+      "FaceURL": "https://drive.google.com/uc?id=1tYcnNwWU36Muhs4diBHQRgsxyySx92G7",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

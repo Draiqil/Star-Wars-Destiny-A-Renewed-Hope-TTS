@@ -1,0 +1,55 @@
+{
+  "GUID": "96c2cf",
+  "Name": "Card",
+  "Transform": {
+    "posX": -25.0362778,
+    "posY": 1.01917815,
+    "posZ": 19.27135,
+    "rotX": 0.00111995393,
+    "rotY": 0.0212919973,
+    "rotZ": -0.00186711061,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Press the Advantage",
+  "Description": "CONV 135",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 50064,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "500": {
+      "FaceURL": "http://drive.google.com/uc?id=1yDIf6jd9samenWa8ENw-7lSaNaRgKjwA",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

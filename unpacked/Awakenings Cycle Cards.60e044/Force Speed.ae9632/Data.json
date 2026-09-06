@@ -1,0 +1,54 @@
+{
+  "GUID": "ae9632",
+  "Name": "Card",
+  "Transform": {
+    "posX": -17.8840675,
+    "posY": 2.089956,
+    "posZ": -0.9619879,
+    "rotX": 359.98175,
+    "rotY": 0.0145821469,
+    "rotZ": 0.0275070816,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Force Speed",
+  "Description": "SoR 55",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46254,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "462": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87099658840041859/705089CFD0C34899FB3E42BA0D3876C35DB344C6/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

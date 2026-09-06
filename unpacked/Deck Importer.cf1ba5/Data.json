@@ -1,0 +1,62 @@
+{
+  "GUID": "cf1ba5",
+  "Name": "Custom_Model",
+  "Transform": {
+    "posX": 35.84875,
+    "posY": 1.05999959,
+    "posZ": -16.1178875,
+    "rotX": -0.0000100796424,
+    "rotY": 179.98558,
+    "rotZ": -8.83269138e-7,
+    "scaleX": 2,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Deck Importer",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 1,
+    "g": 1,
+    "b": 1
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "CustomMesh": {
+    "MeshURL": "https://gist.githubusercontent.com/Hitch2776/cb8cae50d41790a56ce8bbcda7dd9758/raw/412ce7c1f5d4a7688928d625ac32a147e254bd73/plane.txt",
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/9642201564609188901/9562433BB30CFA79DAE2D93944410BCD57F48188/",
+    "NormalURL": "",
+    "ColliderURL": "https://gist.githubusercontent.com/Hitch2776/cb8cae50d41790a56ce8bbcda7dd9758/raw/412ce7c1f5d4a7688928d625ac32a147e254bd73/plane.txt",
+    "Convex": true,
+    "MaterialIndex": 3,
+    "TypeIndex": 0,
+    "CustomShader": {
+      "SpecularColor": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "SpecularIntensity": 0,
+      "SpecularSharpness": 2,
+      "FresnelStrength": 0
+    },
+    "CastShadows": true
+  }
+}

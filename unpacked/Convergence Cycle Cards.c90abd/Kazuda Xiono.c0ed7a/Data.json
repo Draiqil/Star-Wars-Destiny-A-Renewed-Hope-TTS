@@ -1,0 +1,55 @@
+{
+  "GUID": "c0ed7a",
+  "Name": "Card",
+  "Transform": {
+    "posX": -17.53482,
+    "posY": 1.13885868,
+    "posZ": 22.0048828,
+    "rotX": 0.00307745137,
+    "rotY": 0.0000215012933,
+    "rotZ": -0.00539713446,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Kazuda Xiono",
+  "Description": "CM 72",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 53631,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "536": {
+      "FaceURL": "http://drive.google.com/uc?id=1gmhlzNGgGKIQMx3Vr0uwZux8rcIefuDM",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 8,
+      "NumHeight": 5,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

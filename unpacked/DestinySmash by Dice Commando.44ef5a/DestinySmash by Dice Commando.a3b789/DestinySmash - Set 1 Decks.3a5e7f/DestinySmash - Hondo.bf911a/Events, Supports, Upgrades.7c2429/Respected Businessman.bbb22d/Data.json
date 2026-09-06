@@ -1,0 +1,43 @@
+{
+  "GUID": "bbb22d",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.131,
+    "posY": 0.276,
+    "posZ": 0.962,
+    "rotX": 0.932,
+    "rotY": 0.334,
+    "rotZ": 0.674,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Respected Businessman",
+  "Description": "WotF 144",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 48505,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

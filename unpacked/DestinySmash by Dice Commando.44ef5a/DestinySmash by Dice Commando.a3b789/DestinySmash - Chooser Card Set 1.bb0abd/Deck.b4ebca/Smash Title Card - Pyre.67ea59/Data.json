@@ -1,0 +1,55 @@
+{
+  "GUID": "67ea59",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": -6.83583975,
+    "posY": 1.18401015,
+    "posZ": 9.180954,
+    "rotX": 0.000337328034,
+    "rotY": 3.058635e-9,
+    "rotZ": 180.000549,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Pyre",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 57500,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "575": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1774949907030411609/44C5D86857F99749F3AC3A822FD5F51405361C50/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "GUID": "653f97",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.268,
+    "posY": 0.271,
+    "posZ": 0.098,
+    "rotX": 0.421,
+    "rotY": 0.841,
+    "rotZ": 0.506,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Apt Lesson",
+  "Description": "FA 33",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 55032,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

@@ -1,0 +1,45 @@
+{
+  "GUID": "57438c",
+  "Name": "Infinite_Bag",
+  "Transform": {
+    "posX": 45.63253,
+    "posY": 0.9442174,
+    "posZ": 1.72858536,
+    "rotX": -3.6204105e-7,
+    "rotY": 0.0000224088635,
+    "rotZ": 4.2657777e-7,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "1 Damage",
+  "Description": "",
+  "GMNotes": "",
+  "Memo": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.9559999,
+    "g": 0.391965628,
+    "b": 0.112965621
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1
+}

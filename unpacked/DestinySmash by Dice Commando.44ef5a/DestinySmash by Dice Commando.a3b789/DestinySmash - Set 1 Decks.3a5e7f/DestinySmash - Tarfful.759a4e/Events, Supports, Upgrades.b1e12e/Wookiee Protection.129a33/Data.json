@@ -1,0 +1,43 @@
+{
+  "GUID": "129a33",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.555,
+    "posY": 0.479,
+    "posZ": 0.257,
+    "rotX": 0.239,
+    "rotY": 0.588,
+    "rotZ": 0.202,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Wookiee Protection",
+  "Description": "CM 86",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53705,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

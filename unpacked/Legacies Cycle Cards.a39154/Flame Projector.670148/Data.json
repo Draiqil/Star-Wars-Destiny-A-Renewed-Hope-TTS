@@ -1,0 +1,55 @@
+{
+  "GUID": "670148",
+  "Name": "Card",
+  "Transform": {
+    "posX": -16.918808,
+    "posY": 1.19501877,
+    "posZ": 16.7046242,
+    "rotX": 3.80448242e-8,
+    "rotY": 0.00008067684,
+    "rotZ": 8.54137738e-7,
+    "scaleX": 1.42,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Flame Projector",
+  "Description": "AtG 148",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 49609,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "496": {
+      "FaceURL": "http://drive.google.com/uc?id=1atAK0sRjX9ZxFIrdzoyPIAHm1K9mupaI",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 3,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

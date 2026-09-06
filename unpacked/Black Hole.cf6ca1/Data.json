@@ -1,0 +1,55 @@
+{
+  "GUID": "cf6ca1",
+  "Name": "Custom_Assetbundle_Bag",
+  "Transform": {
+    "posX": -28.6024761,
+    "posY": 1.215534,
+    "posZ": 0.6322099,
+    "rotX": 0.000002856366,
+    "rotY": 90.00063,
+    "rotZ": 0.00000178244306,
+    "scaleX": 0.8250001,
+    "scaleY": 0.8250001,
+    "scaleZ": 0.8250001
+  },
+  "Nickname": "Black Hole",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.838235259,
+    "g": 0.838235259,
+    "b": 0.838235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": false,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "Number": 0,
+  "CustomAssetbundle": {
+    "AssetbundleURL": "https://chry.me/tts/misc/new_blackhole_test.unity3d",
+    "AssetbundleSecondaryURL": "",
+    "MaterialIndex": 2,
+    "TypeIndex": 6,
+    "LoopingEffectIndex": 1
+  },
+  "Bag": {
+    "Order": 0
+  }
+}

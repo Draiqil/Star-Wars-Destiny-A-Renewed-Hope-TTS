@@ -1,0 +1,43 @@
+{
+  "GUID": "50dd44",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.642,
+    "posY": 0.262,
+    "posZ": 0.919,
+    "rotX": 0.864,
+    "rotY": 0.138,
+    "rotZ": 0.222,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Mandalorian Vambraces",
+  "Description": "WotF 143",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 48504,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

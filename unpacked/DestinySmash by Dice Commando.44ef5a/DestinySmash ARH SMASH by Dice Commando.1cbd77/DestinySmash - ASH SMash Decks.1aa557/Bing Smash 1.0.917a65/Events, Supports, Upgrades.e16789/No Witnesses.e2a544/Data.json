@@ -1,0 +1,43 @@
+{
+  "GUID": "e2a544",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.568,
+    "posY": 0.378,
+    "posZ": 0.771,
+    "rotX": 0.939,
+    "rotY": 0.066,
+    "rotZ": 0.482,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "No Witnesses",
+  "Description": "DoP 35",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 59534,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

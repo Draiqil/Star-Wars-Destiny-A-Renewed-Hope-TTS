@@ -1,0 +1,55 @@
+{
+  "GUID": "7d8b08",
+  "Name": "Card",
+  "Transform": {
+    "posX": -40.60083,
+    "posY": 3.0813055,
+    "posZ": 9.199916,
+    "rotX": 0.0000157223985,
+    "rotY": 359.992279,
+    "rotZ": -0.000013680763,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Rebel Pilot",
+  "Description": "HS 54",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": true,
+  "CardID": 57553,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "575": {
+      "FaceURL": "https://drive.google.com/uc?id=1j1PP4segZS0z891NV8rhzlkHkwQislla",
+      "BackURL": "https://drive.google.com/uc?id=1jmPW7ks3I52goV3ThBLlsFdaGXI4T_Ce",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

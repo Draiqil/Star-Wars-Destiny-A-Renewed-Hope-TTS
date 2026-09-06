@@ -1,0 +1,54 @@
+{
+  "GUID": "8d570f",
+  "Name": "Card",
+  "Transform": {
+    "posX": -16.140583,
+    "posY": 2.48742151,
+    "posZ": 5.01427937,
+    "rotX": 0.00410104962,
+    "rotY": 359.989624,
+    "rotZ": 359.99057,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "ETA-2 Interceptor",
+  "Description": "LEG 34",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 47133,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "471": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/910157197471550653/076BC0D620476AEDF1A7EE10CEE97A03F3E06C72/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

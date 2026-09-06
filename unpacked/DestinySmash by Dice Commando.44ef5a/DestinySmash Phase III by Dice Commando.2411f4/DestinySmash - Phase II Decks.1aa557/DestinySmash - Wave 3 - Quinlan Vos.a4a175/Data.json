@@ -1,0 +1,47 @@
+{
+  "GUID": "a4a175",
+  "Name": "Bag",
+  "Transform": {
+    "posX": -2.82851338,
+    "posY": 2.17407751,
+    "posZ": -8.101461,
+    "rotX": 0.0009898099,
+    "rotY": 180.010544,
+    "rotZ": 0.00153078709,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "DestinySmash | Wave 3 | Quinlan Vos",
+  "Description": "Exported from SWDestinyDB.com",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.856,
+    "g": 0.09999997,
+    "b": 0.09399996
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "Bag": {
+    "Order": 0
+  }
+}

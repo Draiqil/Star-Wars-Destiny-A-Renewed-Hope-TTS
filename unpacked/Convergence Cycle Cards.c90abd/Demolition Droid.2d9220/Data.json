@@ -1,0 +1,55 @@
+{
+  "GUID": "2d9220",
+  "Name": "Card",
+  "Transform": {
+    "posX": -21.12075,
+    "posY": 1.09949219,
+    "posZ": 18.7257118,
+    "rotX": 0.00438006548,
+    "rotY": -0.0000353870018,
+    "rotZ": 179.857452,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Demolition Droid",
+  "Description": "TR 8",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 53907,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "539": {
+      "FaceURL": "https://drive.google.com/uc?id=1eJVMq2HjirpCF_sCIsTAN7KdLUulrEBq",
+      "BackURL": "https://drive.google.com/uc?id=1JCWMndgx91f0l2lGyT58v9uABtgVGLXR",
+      "NumWidth": 6,
+      "NumHeight": 4,
+      "BackIsHidden": false,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

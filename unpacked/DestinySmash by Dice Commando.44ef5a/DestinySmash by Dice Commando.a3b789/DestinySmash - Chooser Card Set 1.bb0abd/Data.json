@@ -1,0 +1,64 @@
+{
+  "GUID": "bb0abd",
+  "Name": "Custom_Model_Bag",
+  "Transform": {
+    "posX": 13.5961885,
+    "posY": 3.8011744,
+    "posZ": 8.078367,
+    "rotX": -0.0000110430246,
+    "rotY": -0.00000227662122,
+    "rotZ": 0.000119103381,
+    "scaleX": 1.90000057,
+    "scaleY": 1.90000057,
+    "scaleZ": 1.90000057
+  },
+  "Nickname": "DestinySmash | Chooser Card Set 1",
+  "Description": "Deck Box",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.9999998,
+    "g": 0.9921681,
+    "b": 0.9999998
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "CustomMesh": {
+    "MeshURL": "https://www.dropbox.com/s/6d23flr27c39nnd/tuckbox.obj?dl=1",
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700436817/19A7BFEEA655020EFF899768AC9B9B8464B7D7AE/",
+    "NormalURL": "https://www.dropbox.com/s/73ngjdw1zywnibm/Bump3.jpg?dl=1",
+    "ColliderURL": "",
+    "Convex": true,
+    "MaterialIndex": 3,
+    "TypeIndex": 6,
+    "CustomShader": {
+      "SpecularColor": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "SpecularIntensity": 0,
+      "SpecularSharpness": 2,
+      "FresnelStrength": 0
+    },
+    "CastShadows": true
+  }
+}

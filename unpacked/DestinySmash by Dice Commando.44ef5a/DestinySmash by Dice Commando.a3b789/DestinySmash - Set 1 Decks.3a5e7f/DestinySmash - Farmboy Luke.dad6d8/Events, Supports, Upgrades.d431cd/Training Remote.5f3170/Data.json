@@ -1,0 +1,53 @@
+{
+  "GUID": "5f3170",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.803,
+    "posY": 0.389,
+    "posZ": 0.994,
+    "rotX": 0.552,
+    "rotY": 0.714,
+    "rotZ": 0.424,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Training Remote",
+  "Description": "EaW 35",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 2534,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "25": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/869614971446942640/7A5C06F273A82BB74B0A9351D835D0C24E213003/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

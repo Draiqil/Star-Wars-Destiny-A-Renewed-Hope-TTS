@@ -1,0 +1,55 @@
+{
+  "GUID": "851b28",
+  "Name": "Card",
+  "Transform": {
+    "posX": 14.9861317,
+    "posY": 3.05138063,
+    "posZ": 12.4610815,
+    "rotX": 0.200017318,
+    "rotY": 270.001,
+    "rotZ": 0.5554051,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Imperial Academy",
+  "Description": "EaW 156",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 3415,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "34": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/869614883116985366/B76F8D906AC5AD7D6EC45811FC0F88535894BCAA/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

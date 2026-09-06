@@ -1,0 +1,55 @@
+{
+  "GUID": "f4de74",
+  "Name": "Card",
+  "Transform": {
+    "posX": -15.485034,
+    "posY": 1.251779,
+    "posZ": 15.555584,
+    "rotX": -0.0003619476,
+    "rotY": -0.000008045033,
+    "rotZ": 179.999786,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Coaxium Heist",
+  "Description": "CM 139",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 53818,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "538": {
+      "FaceURL": "http://drive.google.com/uc?id=1WL-W-3nD7e7xzhjcRtBFfUvgOiOsmLXg",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 8,
+      "NumHeight": 5,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

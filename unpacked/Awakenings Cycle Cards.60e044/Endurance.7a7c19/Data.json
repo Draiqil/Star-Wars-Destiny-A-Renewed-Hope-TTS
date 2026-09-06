@@ -1,0 +1,54 @@
+{
+  "GUID": "7a7c19",
+  "Name": "Card",
+  "Transform": {
+    "posX": -18.11429,
+    "posY": 1.20083034,
+    "posZ": -2.18393183,
+    "rotX": 359.948578,
+    "rotY": 0.0260258354,
+    "rotZ": 359.9258,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Endurance",
+  "Description": "EaW 147",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46806,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "468": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/869614971446951260/8A3BDCF34E9D60A070ED753C9E15EF10A99D55BD/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

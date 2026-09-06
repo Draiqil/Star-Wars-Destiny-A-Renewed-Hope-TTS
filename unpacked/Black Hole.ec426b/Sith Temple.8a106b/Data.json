@@ -1,0 +1,78 @@
+{
+  "GUID": "8a106b",
+  "Name": "Die_4",
+  "Transform": {
+    "posX": 29.1204834,
+    "posY": 2.3856256,
+    "posZ": 0.940544546,
+    "rotX": 58.13872,
+    "rotY": 159.329163,
+    "rotZ": 42.644455,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Sith Temple",
+  "Description": "You found my sith temple! Alert me of this compromise so i can move it to safety. - Katarix",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.149030268,
+    "g": 0.301973075,
+    "b": 0.4431491
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "AltSound": true,
+  "MaterialIndex": 1,
+  "RotationValues": [
+    {
+      "Value": "1",
+      "Rotation": {
+        "x": 18,
+        "y": -241,
+        "z": -120
+      }
+    },
+    {
+      "Value": "2",
+      "Rotation": {
+        "x": -90,
+        "y": -60,
+        "z": 0
+      }
+    },
+    {
+      "Value": "3",
+      "Rotation": {
+        "x": 18,
+        "y": -121,
+        "z": 0
+      }
+    },
+    {
+      "Value": "4",
+      "Rotation": {
+        "x": 18,
+        "y": 0,
+        "z": -240
+      }
+    }
+  ]
+}

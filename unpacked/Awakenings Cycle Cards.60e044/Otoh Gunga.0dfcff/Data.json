@@ -1,0 +1,54 @@
+{
+  "GUID": "0dfcff",
+  "Name": "Card",
+  "Transform": {
+    "posX": -16.6969261,
+    "posY": 1.18376315,
+    "posZ": 3.11459541,
+    "rotX": 359.980164,
+    "rotY": 0.0166337769,
+    "rotZ": 359.973846,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Otoh Gunga",
+  "Description": "SoR 157",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 2416,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "24": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87099658839856357/A85592A456EC31A220A8B9FCF39099378D4AA92F/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

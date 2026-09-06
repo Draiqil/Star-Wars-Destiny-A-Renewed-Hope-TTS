@@ -1,0 +1,43 @@
+{
+  "GUID": "6344d2",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.656,
+    "posY": 0.289,
+    "posZ": 0.725,
+    "rotX": 0.182,
+    "rotY": 0.088,
+    "rotZ": 0.103,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Quick Draw",
+  "Description": "LEG 155",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 47314,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

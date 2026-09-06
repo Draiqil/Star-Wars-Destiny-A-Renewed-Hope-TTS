@@ -1,0 +1,43 @@
+{
+  "GUID": "3f3fb5",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.772,
+    "posY": 0.939,
+    "posZ": 0.106,
+    "rotX": 0.615,
+    "rotY": 0.194,
+    "rotZ": 0.923,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Renowned",
+  "Description": "DoP 80",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 59609,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

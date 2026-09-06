@@ -1,0 +1,56 @@
+{
+  "GUID": "409015",
+  "Name": "BlockRectangle",
+  "Transform": {
+    "posX": 0,
+    "posY": 0,
+    "posZ": -4,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 0.25,
+    "scaleY": 0.25,
+    "scaleZ": 0.25
+  },
+  "Nickname": "Data",
+  "Description": "",
+  "GMNotes": "",
+  "Memo": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0,
+    "g": 0.201567829,
+    "b": 0.8235294
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": false,
+  "Snap": false,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": false,
+  "Sticky": false,
+  "Tooltip": false,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "PhysicsMaterial": {
+    "StaticFriction": 0.6,
+    "DynamicFriction": 0.6,
+    "Bounciness": 0,
+    "FrictionCombine": 0,
+    "BounceCombine": 0
+  },
+  "Rigidbody": {
+    "Mass": 1,
+    "Drag": 0.1,
+    "AngularDrag": 0.1,
+    "UseGravity": false
+  }
+}

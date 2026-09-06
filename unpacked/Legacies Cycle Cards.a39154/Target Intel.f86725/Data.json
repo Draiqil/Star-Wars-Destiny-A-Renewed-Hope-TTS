@@ -1,0 +1,54 @@
+{
+  "GUID": "f86725",
+  "Name": "Card",
+  "Transform": {
+    "posX": -16.7409763,
+    "posY": 1.35548317,
+    "posZ": 4.94309855,
+    "rotX": 359.958435,
+    "rotY": 359.97583,
+    "rotZ": 359.927338,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Target Intel",
+  "Description": "LEG 144",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 47303,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "473": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/910157197472506127/6038134EFC06C9B338C589EA58F3638B38B47AAF/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

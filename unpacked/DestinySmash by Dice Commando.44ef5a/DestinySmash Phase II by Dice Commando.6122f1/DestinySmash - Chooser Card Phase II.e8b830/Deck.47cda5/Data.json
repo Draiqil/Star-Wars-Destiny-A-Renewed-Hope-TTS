@@ -1,0 +1,207 @@
+{
+  "GUID": "47cda5",
+  "Name": "Deck",
+  "Transform": {
+    "posX": 4.77626228,
+    "posY": 2.45753431,
+    "posZ": 0.537503839,
+    "rotX": 0.00140387542,
+    "rotY": -0.00195584749,
+    "rotZ": 0.000320216117,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": false,
+  "SidewaysCard": false,
+  "DeckIDs": [
+    59100,
+    58400,
+    58100,
+    59000,
+    58600,
+    59200,
+    58900,
+    59300,
+    59400,
+    59500,
+    58500,
+    58700,
+    58300,
+    58000,
+    57900,
+    58200
+  ],
+  "CustomDeck": {
+    "579": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315623410/F16ADD76699E677B5493014084777344B9CE1DAA/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "580": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315624537/0358F3C30FC5BB6830CF0B4DFB61DD936D0D68B0/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "581": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315625487/75065D1D4FF172A3A93BBE542C09AF51AFB6FCCA/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "582": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315626306/BC8E94E5FC02C8D3ABE92E464FA605FAB6AAE2A9/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "583": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315627154/7A72101FB6457155A40BED813D218622123C79B4/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "584": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315628147/03C98E83270C35D1D17BE593A9F777B6A7F7291F/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "585": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315629659/9F9D323A78FC119F942B55CD33304B458917F34C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "586": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315631578/A0240622570A317AB4E1FA3A2F87EF70937AF1DC/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "587": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315633394/C3C5C1EBED0959673D1DED2578BF3E7FB3F93D2F/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "589": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315634024/A8A0BBA6426AB2CB85C07413D6BF0E592878A849/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "590": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315635164/D192456AD1B101F426B7A62D3E5F2FEBB74057BF/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "591": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315638109/087A61049DE808250901E6109999854FE657C90E/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "592": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315639405/1226E3935829713FCD2F764D7FD778A299D542A0/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "593": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315641198/3C74682659A66F58AC533CD3FEAF82B1BE72BC1D/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "594": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315641944/43B642A45CE00BCE1BFC56F84D07FD719D7FE112/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "595": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315642685/66EAD48D2EF9239E1AC95C6709BA388A1136345F/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

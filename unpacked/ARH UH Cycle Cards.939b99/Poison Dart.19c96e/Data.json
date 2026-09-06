@@ -1,0 +1,55 @@
+{
+  "GUID": "19c96e",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.6365112,
+    "posY": 2.11234,
+    "posZ": -1.3184402,
+    "rotX": 0.00080962386,
+    "rotY": 89.988,
+    "rotZ": 0.0000570063021,
+    "scaleX": 1.4736706,
+    "scaleY": 1,
+    "scaleZ": 1.4736706
+  },
+  "Nickname": "Poison Dart",
+  "Description": "SA 7",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 58406,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "584": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1831286890488309851/075011F0489C4B99E09D4B36BA3147F2DB935F4E/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

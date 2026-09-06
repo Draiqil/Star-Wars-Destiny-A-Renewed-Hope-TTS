@@ -1,0 +1,43 @@
+{
+  "GUID": "a834cc",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.984,
+    "posY": 0.256,
+    "posZ": 0.791,
+    "rotX": 0.286,
+    "rotY": 0.825,
+    "rotZ": 0.308,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Bucket",
+  "Description": "CM 99",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53718,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

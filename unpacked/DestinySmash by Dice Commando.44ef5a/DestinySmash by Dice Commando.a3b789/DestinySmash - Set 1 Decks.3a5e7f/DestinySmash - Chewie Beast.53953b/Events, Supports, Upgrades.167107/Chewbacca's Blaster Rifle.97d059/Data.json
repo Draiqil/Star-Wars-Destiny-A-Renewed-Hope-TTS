@@ -1,0 +1,43 @@
+{
+  "GUID": "97d059",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.054,
+    "posY": 0.036,
+    "posZ": 0.367,
+    "rotX": 0.75,
+    "rotY": 0.03,
+    "rotZ": 0.601,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Chewbacca's Blaster Rifle",
+  "Description": "CONV 102",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 50031,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

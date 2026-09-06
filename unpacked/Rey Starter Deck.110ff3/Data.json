@@ -1,0 +1,57 @@
+{
+  "GUID": "110ff3",
+  "Name": "Custom_Model_Bag",
+  "Transform": {
+    "posX": -51.4765053,
+    "posY": 1.8529135,
+    "posZ": 13.500659,
+    "rotX": -1.6434241e-7,
+    "rotY": 270.005859,
+    "rotZ": 2.54978659e-7,
+    "scaleX": 2.25,
+    "scaleY": 2.25,
+    "scaleZ": 2.25
+  },
+  "Nickname": "Rey Starter Deck",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.9999998,
+    "g": 0.9921681,
+    "b": 0.9999998
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": false,
+  "Sticky": false,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "CustomMesh": {
+    "MeshURL": "https://www.dropbox.com/s/6d23flr27c39nnd/tuckbox.obj?dl=1",
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/396708921324326682/7614F0694203831357684FB0973B5A8C076E640A/",
+    "NormalURL": "https://www.dropbox.com/s/73ngjdw1zywnibm/Bump3.jpg?dl=1",
+    "ColliderURL": "",
+    "Convex": true,
+    "MaterialIndex": 3,
+    "TypeIndex": 6,
+    "CastShadows": true
+  },
+  "Bag": {
+    "Order": 0
+  }
+}

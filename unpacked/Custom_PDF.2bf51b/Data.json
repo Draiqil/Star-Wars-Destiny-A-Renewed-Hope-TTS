@@ -1,0 +1,48 @@
+{
+  "GUID": "2bf51b",
+  "Name": "Custom_PDF",
+  "Transform": {
+    "posX": 49.4933739,
+    "posY": 0.961217344,
+    "posZ": 15.4138165,
+    "rotX": -4.371748e-10,
+    "rotY": 270.011169,
+    "rotZ": 2.63584643e-9,
+    "scaleX": 2.61136246,
+    "scaleY": 1,
+    "scaleZ": 2.61136246
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 1,
+    "g": 1,
+    "b": 1
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "CustomPDF": {
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/16039173635202879553/1FEC8E29E4A6E54B1AE2057AA88BC9EDE8E73702/",
+    "PDFPassword": "",
+    "PDFPage": 0,
+    "PDFPageOffset": 0
+  }
+}

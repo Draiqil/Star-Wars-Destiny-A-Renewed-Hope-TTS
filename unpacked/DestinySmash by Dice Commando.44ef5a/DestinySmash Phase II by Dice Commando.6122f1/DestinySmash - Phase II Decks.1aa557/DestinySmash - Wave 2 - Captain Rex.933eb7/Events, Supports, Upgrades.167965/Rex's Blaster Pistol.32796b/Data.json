@@ -1,0 +1,43 @@
+{
+  "GUID": "32796b",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.342,
+    "posY": 0.303,
+    "posZ": 0.836,
+    "rotX": 0.995,
+    "rotY": 0.533,
+    "rotZ": 0.971,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Rex's Blaster Pistol",
+  "Description": "WotF 87",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 48617,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

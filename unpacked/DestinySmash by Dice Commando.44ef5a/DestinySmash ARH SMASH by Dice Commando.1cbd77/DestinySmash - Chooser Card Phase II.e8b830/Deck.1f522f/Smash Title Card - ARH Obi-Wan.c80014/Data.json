@@ -1,0 +1,55 @@
+{
+  "GUID": "c80014",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": -2.38655615,
+    "posY": 1.02779961,
+    "posZ": 6.31382656,
+    "rotX": 0.0000184361252,
+    "rotY": 0.00161595165,
+    "rotZ": 2.02585483,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - ARH Obi-Wan",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 62500,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "625": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648894687/866BAED501CD1BED1359F17A770E294201BCC60E/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

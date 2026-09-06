@@ -1,0 +1,55 @@
+{
+  "GUID": "c2d668",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 5.04126358,
+    "posY": 0.973605,
+    "posZ": 7.136716,
+    "rotX": 8.828558e-8,
+    "rotY": -0.0000106680445,
+    "rotZ": -4.798073e-7,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Seventh Sister",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 60700,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "607": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1709664318116767350/57EE97BB096C86BDDC6895FC43636601DCFA71B7/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

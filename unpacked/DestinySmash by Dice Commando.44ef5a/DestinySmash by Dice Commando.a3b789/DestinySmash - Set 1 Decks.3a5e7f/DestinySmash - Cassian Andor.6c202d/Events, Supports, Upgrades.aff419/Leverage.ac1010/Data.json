@@ -1,0 +1,43 @@
+{
+  "GUID": "ac1010",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.531,
+    "posY": 0.455,
+    "posZ": 0.685,
+    "rotX": 0.946,
+    "rotY": 0.524,
+    "rotZ": 0.25,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Leverage",
+  "Description": "AtG 98",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49328,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

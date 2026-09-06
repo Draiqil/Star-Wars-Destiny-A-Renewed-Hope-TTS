@@ -1,0 +1,55 @@
+{
+  "GUID": "5ef476",
+  "Name": "Card",
+  "Transform": {
+    "posX": -21.330904,
+    "posY": 0.973577738,
+    "posZ": 18.8252735,
+    "rotX": 0.000201739473,
+    "rotY": -0.0000226865486,
+    "rotZ": 180.001266,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Anakin Skywalker, Reckless One",
+  "Description": "TR 1",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 53900,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "539": {
+      "FaceURL": "https://drive.google.com/uc?id=1eJVMq2HjirpCF_sCIsTAN7KdLUulrEBq",
+      "BackURL": "https://drive.google.com/uc?id=1JCWMndgx91f0l2lGyT58v9uABtgVGLXR",
+      "NumWidth": 6,
+      "NumHeight": 4,
+      "BackIsHidden": false,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

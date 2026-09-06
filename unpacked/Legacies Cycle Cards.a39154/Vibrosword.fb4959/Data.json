@@ -1,0 +1,54 @@
+{
+  "GUID": "fb4959",
+  "Name": "Card",
+  "Transform": {
+    "posX": -28.1126022,
+    "posY": 1.25263822,
+    "posZ": 9.152439,
+    "rotX": 359.914734,
+    "rotY": 0.00652599,
+    "rotZ": 0.138771221,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Vibrosword",
+  "Description": "RIV 17",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 47016,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "470": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/910156163256816647/860DB84FFE43F9A965DB40F976607C9F49396FCD/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

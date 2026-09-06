@@ -1,0 +1,43 @@
+{
+  "GUID": "8e55f9",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.811,
+    "posY": 0.908,
+    "posZ": 0.52,
+    "rotX": 0.799,
+    "rotY": 0.198,
+    "rotZ": 0.007,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Reap",
+  "Description": "CM 134",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53813,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

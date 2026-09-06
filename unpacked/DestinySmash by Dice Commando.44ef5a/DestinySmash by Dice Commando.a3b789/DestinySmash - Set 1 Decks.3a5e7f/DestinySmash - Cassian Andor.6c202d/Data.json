@@ -1,0 +1,44 @@
+{
+  "GUID": "6c202d",
+  "Name": "Bag",
+  "Transform": {
+    "posX": -6.079179,
+    "posY": 2.17401719,
+    "posZ": 6.451893,
+    "rotX": -0.00120136968,
+    "rotY": 180.032211,
+    "rotZ": 359.9928,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "DestinySmash | Cassian Andor",
+  "Description": "Exported from SWDestinyDB.com",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.128999949,
+    "g": 0.694,
+    "b": 0.606999934
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1
+}

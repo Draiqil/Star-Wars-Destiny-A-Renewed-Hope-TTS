@@ -1,0 +1,43 @@
+{
+  "GUID": "fe60e6",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.433,
+    "posY": 0.044,
+    "posZ": 0.78,
+    "rotX": 0.179,
+    "rotY": 0.061,
+    "rotZ": 0.001,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Battle Fatigue",
+  "Description": "LEG 84",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 47213,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

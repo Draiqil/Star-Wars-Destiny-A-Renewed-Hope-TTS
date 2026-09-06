@@ -1,0 +1,43 @@
+{
+  "GUID": "ecf130",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.399,
+    "posY": 0.738,
+    "posZ": 0.078,
+    "rotX": 0.97,
+    "rotY": 0.237,
+    "rotZ": 0.241,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Fresh Supplies",
+  "Description": "CONV 126",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 50055,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

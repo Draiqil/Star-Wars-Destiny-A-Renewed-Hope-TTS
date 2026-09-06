@@ -1,0 +1,43 @@
+{
+  "GUID": "ed56a4",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.316,
+    "posY": 0.239,
+    "posZ": 0.271,
+    "rotX": 0.526,
+    "rotY": 0.839,
+    "rotZ": 0.474,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "First Aid",
+  "Description": "WotF 77",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 48607,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

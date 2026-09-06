@@ -1,0 +1,71 @@
+{
+  "GUID": "5a8592",
+  "Name": "Custom_Model_Bag",
+  "Transform": {
+    "posX": 14.0622778,
+    "posY": 1.05600011,
+    "posZ": 1.95761108,
+    "rotX": -3.420245e-7,
+    "rotY": 0.0000145971426,
+    "rotZ": -6.914945e-8,
+    "scaleX": 1.59999967,
+    "scaleY": 1.59999967,
+    "scaleZ": 1.59999967
+  },
+  "Nickname": "Dice Roller",
+  "Description": "{\"rows\":\"no\",\"sort\":\"no\",\"step\":1.6,\"ver\":20200911.1,\"yOffset\":180}",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.9999998,
+    "g": 0.992160261,
+    "b": 0.9999998
+  },
+  "Tags": [
+    "Treant"
+  ],
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": false,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "Number": 0,
+  "CustomMesh": {
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/868485988860654056/9B524E42B8156E3E84AF1A98BE92A2CE72E66E91/",
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/5070521834910577325/2C7F66EE818D491C68FA436DEF179768675A1DCC/",
+    "NormalURL": "",
+    "ColliderURL": "",
+    "Convex": true,
+    "MaterialIndex": 3,
+    "TypeIndex": 6,
+    "CustomShader": {
+      "SpecularColor": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "SpecularIntensity": 0,
+      "SpecularSharpness": 2,
+      "FresnelStrength": 0
+    },
+    "CastShadows": true
+  },
+  "Bag": {
+    "Order": 0
+  }
+}

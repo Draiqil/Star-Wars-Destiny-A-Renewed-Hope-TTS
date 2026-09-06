@@ -1,0 +1,55 @@
+{
+  "GUID": "736aec",
+  "Name": "Card",
+  "Transform": {
+    "posX": 4.355032,
+    "posY": 1.648225,
+    "posZ": -4.34570456,
+    "rotX": -0.00534972828,
+    "rotY": 180.001312,
+    "rotZ": 359.984161,
+    "scaleX": 1.4736706,
+    "scaleY": 1,
+    "scaleZ": 1.4736706
+  },
+  "Nickname": "Get Around",
+  "Description": "SA 78",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 58507,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "585": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1831286890488312443/3E1EDB2739F775B90CEC95AD8CBD481DBFDD37D2/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 5,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

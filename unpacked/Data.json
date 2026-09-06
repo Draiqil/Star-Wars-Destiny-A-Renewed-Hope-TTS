@@ -1,0 +1,527 @@
+{
+  "SaveName": "Star Wars Destiny: ARH",
+  "EpochTime": 1788714061,
+  "Date": "9/6/2026 6:01:01 PM",
+  "VersionNumber": "v14.2.2",
+  "GameMode": "Star Wars Destiny: ARH",
+  "GameType": "Game",
+  "GameComplexity": "Low Complexity",
+  "PlayingTime": [
+    0,
+    0
+  ],
+  "PlayerCounts": [
+    0,
+    0
+  ],
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "Table_Custom",
+  "TableURL": "https://steamusercontent-a.akamaihd.net/ugc/87094544885068211/999D58ABF92A84B0F9DEC49F26494FEA118B9617/",
+  "Sky": "Sky_Regal",
+  "SkyURL": "https://steamusercontent-a.akamaihd.net/ugc/257091087996710277/5A167BD78A3FA4181A524A6C6C725E5DFBE6E12D/",
+  "Note": "",
+  "TabStates": {
+    "0": {
+      "title": "Rules",
+      "body": "",
+      "color": "Grey",
+      "visibleColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "id": 0
+    },
+    "1": {
+      "title": "White",
+      "body": "",
+      "color": "White",
+      "visibleColor": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "id": 1
+    },
+    "2": {
+      "title": "Brown",
+      "body": "",
+      "color": "Brown",
+      "visibleColor": {
+        "r": 0.443,
+        "g": 0.231,
+        "b": 0.09
+      },
+      "id": 2
+    },
+    "3": {
+      "title": "Red",
+      "body": "",
+      "color": "Red",
+      "visibleColor": {
+        "r": 0.856,
+        "g": 0.1,
+        "b": 0.094
+      },
+      "id": 3
+    },
+    "4": {
+      "title": "Orange",
+      "body": "",
+      "color": "Orange",
+      "visibleColor": {
+        "r": 0.956,
+        "g": 0.392,
+        "b": 0.113
+      },
+      "id": 4
+    },
+    "5": {
+      "title": "Yellow",
+      "body": "",
+      "color": "Yellow",
+      "visibleColor": {
+        "r": 0.905,
+        "g": 0.898,
+        "b": 0.172
+      },
+      "id": 5
+    },
+    "6": {
+      "title": "Green",
+      "body": "",
+      "color": "Green",
+      "visibleColor": {
+        "r": 0.192,
+        "g": 0.701,
+        "b": 0.168
+      },
+      "id": 6
+    },
+    "7": {
+      "title": "Blue",
+      "body": "",
+      "color": "Blue",
+      "visibleColor": {
+        "r": 0.118,
+        "g": 0.53,
+        "b": 1
+      },
+      "id": 7
+    },
+    "8": {
+      "title": "Teal",
+      "body": "",
+      "color": "Teal",
+      "visibleColor": {
+        "r": 0.129,
+        "g": 0.694,
+        "b": 0.607
+      },
+      "id": 8
+    },
+    "9": {
+      "title": "Purple",
+      "body": "",
+      "color": "Purple",
+      "visibleColor": {
+        "r": 0.627,
+        "g": 0.125,
+        "b": 0.941
+      },
+      "id": 9
+    },
+    "10": {
+      "title": "Pink",
+      "body": "",
+      "color": "Pink",
+      "visibleColor": {
+        "r": 0.96,
+        "g": 0.439,
+        "b": 0.807
+      },
+      "id": 10
+    },
+    "11": {
+      "title": "Black",
+      "body": "",
+      "color": "Black",
+      "visibleColor": {
+        "r": 0.25,
+        "g": 0.25,
+        "b": 0.25
+      },
+      "id": 11
+    }
+  },
+  "MusicPlayer": {
+    "RepeatSong": false,
+    "PlaylistEntry": 1,
+    "CurrentAudioTitle": "Rogue One Imperial Suite",
+    "CurrentAudioURL": "https://steamusercontent-a.akamaihd.net/ugc/763848311381194911/EDAA86C3B5E9489233900020C4A1001A42CF8179/",
+    "AudioLibrary": []
+  },
+  "Grid": {
+    "Type": 0,
+    "Lines": false,
+    "Color": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "Opacity": 0.75,
+    "ThickLines": false,
+    "Snapping": false,
+    "Offset": false,
+    "BothSnapping": false,
+    "xSize": 0.5,
+    "ySize": 0.5,
+    "PosOffset": {
+      "x": 0,
+      "y": 1,
+      "z": 0
+    }
+  },
+  "Lighting": {
+    "LightIntensity": 0.6200061,
+    "LightColor": {
+      "r": 1,
+      "g": 0.9961175,
+      "b": 0.9773519
+    },
+    "AmbientIntensity": 1.27999663,
+    "AmbientType": 0,
+    "AmbientSkyColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "AmbientEquatorColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "AmbientGroundColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "ReflectionIntensity": 0,
+    "LutIndex": 0,
+    "LutContribution": 1,
+    "LutURL": ""
+  },
+  "Hands": {
+    "Enable": true,
+    "DisableUnused": false,
+    "Hiding": 0
+  },
+  "ComponentTags": {
+    "labels": [
+      {
+        "displayed": "Treant",
+        "normalized": "treant"
+      }
+    ]
+  },
+  "Turns": {
+    "Enable": false,
+    "Type": 0,
+    "TurnOrder": [],
+    "Reverse": false,
+    "SkipEmpty": false,
+    "DisableInteractions": false,
+    "PassTurns": true,
+    "TurnColor": ""
+  },
+  "DecalPallet": [],
+  "CustomUIAssets": [
+    {
+      "Type": 0,
+      "Name": "ingame_gui_background",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/948454725666385380/A47369F346253BDE02F44153C4940D47AA0E6E67/"
+    },
+    {
+      "Type": 0,
+      "Name": "ingame_gui_resource",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/948454725666388925/ACEB3703278FB7DFB707BFE2DE931571529BD372/"
+    },
+    {
+      "Type": 0,
+      "Name": "ingame_gui_pass",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/948454725666388357/43FDE0C7B097A67D681F9D35D91535A8EA66F3EE/"
+    },
+    {
+      "Type": 0,
+      "Name": "ingame_gui_shuffle",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/948454725666389375/842D3237A768D7171668FCD28264F81C30BFEE0D/"
+    },
+    {
+      "Type": 0,
+      "Name": "ingame_gui_discard",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/948454725666386672/85210903AED7A7F638BA6784A45A042013DD28FC/"
+    },
+    {
+      "Type": 0,
+      "Name": "ingame_blue_panel_overlay",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/948454725666384731/E921F14A80CFA7C3BC20C7D7C61D7319443D0169/"
+    },
+    {
+      "Type": 0,
+      "Name": "ingame_gui_maximize",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/948454725666387411/82FAD658AECC1F80A3413BEB32A2971FF168E4BF/"
+    },
+    {
+      "Type": 0,
+      "Name": "ingame_gui_minimize",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/948454725666387875/C5EF88F206BBFA0A135436274D1C10C0D922A838/"
+    },
+    {
+      "Type": 0,
+      "Name": "ingame_red_panel_overlay",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/948454725666389779/69DCF9BD43E89F93351F7F2F8E87D5CFFD7E3EF7/"
+    },
+    {
+      "Type": 0,
+      "Name": "main_menu_button",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952958746594259776/2B2E59525D64EFA5F682CC08C4825A0FE3AF61E7/"
+    },
+    {
+      "Type": 0,
+      "Name": "main_menu_panel",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952958746594265164/ACD71BEEB7A3D7E3768FAAE0265125873F9FCA87/"
+    },
+    {
+      "Type": 0,
+      "Name": "red_battlefield_claim",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959000918850667/5CBF41F8886AC21025405DE4568BE998F478165E/"
+    },
+    {
+      "Type": 0,
+      "Name": "blue_battlefield_claim",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959000918851189/EE82D1A6844C4548CDA3AA486D91D00BE7FFE048/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_felt_gray",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959191175680420/E46946AC7FA11E6B5DD00FEED7C2025041A8BEB3/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_black",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959191175680910/5F8A33B311807868066AF6FE8BB2686386534E46/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_classic_blue",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959191175693237/C1BF0DB570B7750940CAC7F2A37BE9EDF8BA23A8/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_felt_dark_gray",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959191175952477/EE8201E085C4EAC979BD14D20DB455034CB733FC/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_felt_black",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959191175963555/A8E236F91FDCCFC26BC80D48EE79C135FB0DDB84/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_felt_blue",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959191176031053/EA13F9423119957B840360DBAF734C350B78C78C/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_felt_aqua",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959191176031551/3FE5A98E79850FB429A0E96CC738F3D9C5B79E24/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_felt_green",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959191176064972/DD74EF55C9156B2F3CE99335F44634E7E4DED8E2/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_felt_red",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959191176066217/D82C72D645E60E396DD47FAE011D34E142F32584/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_felt_purple",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959191176067934/A20C1666BE8E53BDF865D68A45FE3505155A0B5D/"
+    },
+    {
+      "Type": 0,
+      "Name": "card_plus_button",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/932693183049785426/CD098AC296A5D9124CB9A7F7526BEF7D91881249/"
+    },
+    {
+      "Type": 0,
+      "Name": "card_minus_button",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/932693183049785038/A3CE1312007B6D4BCDEB2D84F9EB5B498D122C4B/"
+    },
+    {
+      "Type": 0,
+      "Name": "card_shield",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959316956336450/435B327FE88014C1537D79BE7C14AFE2DFD8D8E0/"
+    },
+    {
+      "Type": 0,
+      "Name": "card_damage",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/952959316956327073/77138A8358F3B5A0DD96FBE1EB931FC32FCF1841/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_camo_green",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/981107421962185725/5D3AD80A178A4F75069A2486C61D0EA1A8AAF55A/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_felt_white",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/981107421962186647/78531E32B4A0FB077077DBC9F8B768E4BC9B4C93/"
+    },
+    {
+      "Type": 0,
+      "Name": "table_design_marker",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/981107421962276701/A236259884D58CA2E1E7858D9C3F32EFDD73AD16/"
+    },
+    {
+      "Type": 0,
+      "Name": "board_style_marker",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/981107421962366024/1AC6DC9A594CB90AED5487D18BD502903553F0CB/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_board_black",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/981107421964453185/C63E6DEB256AFEE7361C939A0FA90F8DB7CE1A07/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_board_transparent",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/981107421964459469/565D395B4C8281C5E6AF8B92D8023ED915708372/"
+    },
+    {
+      "Type": 0,
+      "Name": "main_menu_bg",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/9450714272520943503/CB236DB5F95D4BE0578147631BB7C383194ECB58/"
+    },
+    {
+      "Type": 0,
+      "Name": "main_menu_button_2",
+      "URL": "http://drive.google.com/uc?id=1NlYHN6djYuAvu1n7WwMwy3FOQBzyBLZz"
+    },
+    {
+      "Type": 0,
+      "Name": "load_deck_instructions",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/12286189253305228798/D219421BCC6D04F909C7DB02DA4B6EEA53B40511/"
+    },
+    {
+      "Type": 0,
+      "Name": "red_import_deck",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/960864868560585278/289194AC22C52CBEB8B9D6DD5E00931B73D4CF17/"
+    },
+    {
+      "Type": 0,
+      "Name": "deck_load_button",
+      "URL": "http://drive.google.com/uc?id=1Oez-O97EgObGOKiKFpWcGP-Nm2Atl9MO"
+    },
+    {
+      "Type": 0,
+      "Name": "menu_bg_dim",
+      "URL": "http://drive.google.com/uc?id=1AaSp6C8M4gT3lDQqERZ-Vbb6T4-_ugt1"
+    },
+    {
+      "Type": 0,
+      "Name": "box_aw",
+      "URL": "http://drive.google.com/uc?id=1b_XHFZIjPFnaTjIaucS8OiMS8znq0jG7"
+    },
+    {
+      "Type": 0,
+      "Name": "box_sor",
+      "URL": "http://drive.google.com/uc?id=15lDmJTPt9PbU45EaeAZ2okhZunv5zETT"
+    },
+    {
+      "Type": 0,
+      "Name": "box_eaw",
+      "URL": "http://drive.google.com/uc?id=1Jvu-35VjtP_iTCtx7Rb_T7Ccn1oAbHLz"
+    },
+    {
+      "Type": 0,
+      "Name": "box_leg",
+      "URL": "http://drive.google.com/uc?id=1W10zACILql3WVvkk280cszo8d3fGUfAE"
+    },
+    {
+      "Type": 0,
+      "Name": "box_wotf",
+      "URL": "http://drive.google.com/uc?id=1Gd817YkA0_o7-c31wvp3KGk-8fPGnT6k"
+    },
+    {
+      "Type": 0,
+      "Name": "box_atg",
+      "URL": "http://drive.google.com/uc?id=1ztNV8ayszAQ2Quia_TuFLV19WiX9FORs"
+    },
+    {
+      "Type": 0,
+      "Name": "box_conv",
+      "URL": "http://drive.google.com/uc?id=1QdGvK8RjsdgUmtnJG9nINVpSXNTiHpcx"
+    },
+    {
+      "Type": 0,
+      "Name": "menu_back",
+      "URL": "http://drive.google.com/uc?id=1GfUQg-6tOJWhzOdsTScD-UzOje55Q-o4"
+    },
+    {
+      "Type": 0,
+      "Name": "box_soh",
+      "URL": "http://drive.google.com/uc?id=1rbSsyYgVKRfJvDqU1l6GF5AvyUpWQ-vG"
+    },
+    {
+      "Type": 0,
+      "Name": "menu_x",
+      "URL": "http://drive.google.com/uc?id=15UEMunpHmGSbn7DOTIbus6RiXVdNpr0E"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_hyperloops",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/782980835793557287/EC06E7FA42BB53D742C0EA997608602BA591A729/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_l8_night",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/782980835793574847/12EA42076E2DDE3247003995F0752CEDE4A51F4B/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_jackalmen",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/782980835793706289/CA81863836EB6E4209BAB42CFE2DF931A7261C05/"
+    },
+    {
+      "Type": 0,
+      "Name": "thumbnail_triopooches",
+      "URL": "https://i.imgur.com/q5yfwG1.png"
+    },
+    {
+      "Type": 0,
+      "Name": "box_cm",
+      "URL": "http://drive.google.com/uc?id=1Zo_gfypvjrFyTUUUIN5bH6QQpOJgvorA"
+    },
+    {
+      "Type": 0,
+      "Name": "card_charm",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/1847048837284073368/C9F3CCEDC8FC9A655EB007E6D72BF8AE8A946B33/"
+    },
+    {
+      "Type": 0,
+      "Name": "poweractiontoken",
+      "URL": "http://drive.google.com/uc?id=1-aBSDgx6wCtPgrpNLtXByu5xplhAenN8"
+    },
+    {
+      "Type": 0,
+      "Name": "card_resource",
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/194046562280484903/A696882BD4631043881D60F55CC823EE1FC7BE1D/"
+    }
+  ]
+}

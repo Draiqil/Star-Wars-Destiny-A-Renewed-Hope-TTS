@@ -1,0 +1,55 @@
+{
+  "GUID": "8211a1",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 12.9233913,
+    "posY": 2.97803235,
+    "posZ": -8.69484,
+    "rotX": 359.8697,
+    "rotY": 148.082825,
+    "rotZ": 0.319037557,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Smashing Cad",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 59600,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "596": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1816650048186568106/0860A465242182441C9A039CA711237FFC13228C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

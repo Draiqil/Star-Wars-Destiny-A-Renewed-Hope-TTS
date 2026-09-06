@@ -1,0 +1,43 @@
+{
+  "GUID": "a5e72b",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.286,
+    "posY": 0.675,
+    "posZ": 0.505,
+    "rotX": 0.773,
+    "rotY": 0.803,
+    "rotZ": 0.189,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Under Fire",
+  "Description": "CM 124",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53803,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

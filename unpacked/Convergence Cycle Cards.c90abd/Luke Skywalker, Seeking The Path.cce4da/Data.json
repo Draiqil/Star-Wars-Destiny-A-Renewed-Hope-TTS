@@ -1,0 +1,55 @@
+{
+  "GUID": "cce4da",
+  "Name": "Card",
+  "Transform": {
+    "posX": -21.6077118,
+    "posY": 1.04455912,
+    "posZ": 18.7094421,
+    "rotX": 0.00115629623,
+    "rotY": 0.00119581528,
+    "rotZ": 179.929337,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Luke Skywalker, Seeking The Path",
+  "Description": "TR 3",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 53902,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "539": {
+      "FaceURL": "https://drive.google.com/uc?id=1eJVMq2HjirpCF_sCIsTAN7KdLUulrEBq",
+      "BackURL": "https://drive.google.com/uc?id=1JCWMndgx91f0l2lGyT58v9uABtgVGLXR",
+      "NumWidth": 6,
+      "NumHeight": 4,
+      "BackIsHidden": false,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

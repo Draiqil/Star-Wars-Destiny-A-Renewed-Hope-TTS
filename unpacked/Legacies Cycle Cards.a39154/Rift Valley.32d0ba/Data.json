@@ -1,0 +1,55 @@
+{
+  "GUID": "32d0ba",
+  "Name": "Card",
+  "Transform": {
+    "posX": -16.68551,
+    "posY": 3.67950463,
+    "posZ": 24.502985,
+    "rotX": 359.746826,
+    "rotY": 0.0282414854,
+    "rotZ": 159.738831,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Rift Valley",
+  "Description": "WotF 160",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 48521,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "485": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/948454029951666175/ABBDBADA750754C76D0A3910B252350CBB3F61F7/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

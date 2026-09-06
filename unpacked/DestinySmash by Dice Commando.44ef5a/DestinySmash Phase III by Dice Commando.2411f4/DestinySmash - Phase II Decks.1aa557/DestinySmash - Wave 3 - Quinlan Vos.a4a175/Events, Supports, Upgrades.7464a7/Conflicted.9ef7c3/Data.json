@@ -1,0 +1,43 @@
+{
+  "GUID": "9ef7c3",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.072,
+    "posY": 0.05,
+    "posZ": 0.829,
+    "rotX": 0.954,
+    "rotY": 0.096,
+    "rotZ": 0.343,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Conflicted",
+  "Description": "AtG 110",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49340,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

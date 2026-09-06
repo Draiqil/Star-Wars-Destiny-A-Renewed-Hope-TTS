@@ -1,0 +1,55 @@
+{
+  "GUID": "84087a",
+  "Name": "Card",
+  "Transform": {
+    "posX": -52.58954,
+    "posY": 2.62711453,
+    "posZ": 12.713129,
+    "rotX": 0.00000279484971,
+    "rotY": 359.953339,
+    "rotZ": 0.0000446311351,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Starship Graveyard",
+  "Description": "AW 174",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 48809,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "488": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9848382962823772516/BAAAA5A344C9DAD16D9FCE6278D35EC5B9AF16B1/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

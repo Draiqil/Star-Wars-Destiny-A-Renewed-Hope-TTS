@@ -1,0 +1,54 @@
+{
+  "GUID": "cbdca4",
+  "Name": "Card",
+  "Transform": {
+    "posX": -18.07052,
+    "posY": 1.22748017,
+    "posZ": -1.36832047,
+    "rotX": 0.96965,
+    "rotY": 359.9705,
+    "rotZ": 1.20106709,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Disturbance in the Force",
+  "Description": "AW 146",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 60205,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "489": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14259707282632862014/4E4F7874A62041BDDB04F9E3D37994FEE1A53482/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

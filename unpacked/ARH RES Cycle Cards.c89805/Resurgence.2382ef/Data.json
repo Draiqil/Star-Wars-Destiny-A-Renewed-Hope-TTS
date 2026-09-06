@@ -1,0 +1,55 @@
+{
+  "GUID": "2382ef",
+  "Name": "Card",
+  "Transform": {
+    "posX": 4.354929,
+    "posY": 2.25825882,
+    "posZ": -4.3475337,
+    "rotX": 1.2283808,
+    "rotY": 179.955,
+    "rotZ": 0.000750152743,
+    "scaleX": 1.47602439,
+    "scaleY": 1,
+    "scaleZ": 1.47602439
+  },
+  "Nickname": "Resurgence",
+  "Description": "RES 63",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 60962,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "597": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2050875404455867263/97198D6FCBE926295BE1DD2D5BD38960CFE42226/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

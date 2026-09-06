@@ -1,0 +1,43 @@
+{
+  "GUID": "0a8837",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.609,
+    "posY": 0.314,
+    "posZ": 0.569,
+    "rotX": 0.598,
+    "rotY": 0.027,
+    "rotZ": 0.195,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Focused Fire",
+  "Description": "SoH 126",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 52955,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

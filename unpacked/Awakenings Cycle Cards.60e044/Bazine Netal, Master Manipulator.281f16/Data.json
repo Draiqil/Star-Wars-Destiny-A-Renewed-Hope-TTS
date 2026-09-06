@@ -1,0 +1,54 @@
+{
+  "GUID": "281f16",
+  "Name": "Card",
+  "Transform": {
+    "posX": -22.0568218,
+    "posY": 2.4662056,
+    "posZ": -1.06242561,
+    "rotX": 0.05597324,
+    "rotY": 0.01000406,
+    "rotZ": 359.920837,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Bazine Netal, Master Manipulator",
+  "Description": "EaW 16",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46415,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "464": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/869614883116979708/E8A5A68CC0CCFEB94EDE38BABFEFBF77FAD150C8/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "a05423",
+  "Name": "Card",
+  "Transform": {
+    "posX": 4.35510874,
+    "posY": 2.29615283,
+    "posZ": -4.34570169,
+    "rotX": 0.0211067572,
+    "rotY": 179.828949,
+    "rotZ": 359.9522,
+    "scaleX": 1.4736706,
+    "scaleY": 1,
+    "scaleZ": 1.4736706
+  },
+  "Nickname": "Shroud Of Darkness",
+  "Description": "DoP 11",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 59510,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "595": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1967539065021095755/1B36B0AF14E7D151D0369F8F8D0AE84FBFE252D0/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "GUID": "8aae00",
+  "Name": "Infinite_Bag",
+  "Transform": {
+    "posX": 45.63237,
+    "posY": 0.9442175,
+    "posZ": 4.29837561,
+    "rotX": -4.36985175e-7,
+    "rotY": -0.00000100463592,
+    "rotZ": 6.587579e-7,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Shield",
+  "Description": "",
+  "GMNotes": "",
+  "Memo": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.117965631,
+    "g": 0.53,
+    "b": 1
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1
+}

@@ -1,0 +1,43 @@
+{
+  "GUID": "384f39",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.106,
+    "posY": 0.32,
+    "posZ": 0.19,
+    "rotX": 0.951,
+    "rotY": 0.958,
+    "rotZ": 0.725,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Intense Fire",
+  "Description": "AtG 125",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49355,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

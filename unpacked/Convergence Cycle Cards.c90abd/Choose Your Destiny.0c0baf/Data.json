@@ -1,0 +1,55 @@
+{
+  "GUID": "0c0baf",
+  "Name": "Card",
+  "Transform": {
+    "posX": -21.4862652,
+    "posY": 1.21892977,
+    "posZ": 18.7350178,
+    "rotX": 2.95551018e-7,
+    "rotY": -1.887353e-9,
+    "rotZ": 178.764969,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Choose Your Destiny",
+  "Description": "TR 17",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 53916,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "539": {
+      "FaceURL": "https://drive.google.com/uc?id=1eJVMq2HjirpCF_sCIsTAN7KdLUulrEBq",
+      "BackURL": "https://drive.google.com/uc?id=1JCWMndgx91f0l2lGyT58v9uABtgVGLXR",
+      "NumWidth": 6,
+      "NumHeight": 4,
+      "BackIsHidden": false,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

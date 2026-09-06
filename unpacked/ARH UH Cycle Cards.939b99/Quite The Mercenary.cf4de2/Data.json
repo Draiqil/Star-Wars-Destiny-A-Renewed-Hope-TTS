@@ -1,0 +1,55 @@
+{
+  "GUID": "cf4de2",
+  "Name": "Card",
+  "Transform": {
+    "posX": 4.35512543,
+    "posY": 2.24527955,
+    "posZ": -4.34917641,
+    "rotX": 1.690762,
+    "rotY": 179.947952,
+    "rotZ": 0.00331052672,
+    "scaleX": 1.4736706,
+    "scaleY": 1,
+    "scaleZ": 1.4736706
+  },
+  "Nickname": "Quite The Mercenary",
+  "Description": "DoP 76",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 59605,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "596": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1967539065021101165/749FB6DED249F106A718ADF33841D87C21A0DA70/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 5,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "670003",
+  "Name": "Card",
+  "Transform": {
+    "posX": -12.2620678,
+    "posY": 2.59180927,
+    "posZ": 15.7175751,
+    "rotX": 0.0298018828,
+    "rotY": -0.00109281414,
+    "rotZ": 359.960052,
+    "scaleX": 1.42,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Nightbrother",
+  "Description": "AtG 3",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 49802,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "498": {
+      "FaceURL": "http://drive.google.com/uc?id=1w0iTR9-Y_SNVX8LgUk40GxAE5LhEm1n8",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "134949",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 9.258914,
+    "posY": 1.184025,
+    "posZ": 1.00103366,
+    "rotX": 0.0004631449,
+    "rotY": 0.000005697552,
+    "rotZ": -0.0005381922,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Aphra",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 57000,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "570": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1666859146983203478/7A815491940CF07340B575E6100941715D1CE63F/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "0577f4",
+  "Name": "Card",
+  "Transform": {
+    "posX": -10.8392076,
+    "posY": 1.2237947,
+    "posZ": -0.992635667,
+    "rotX": -0.000368396461,
+    "rotY": 0.000227691286,
+    "rotZ": 180.078247,
+    "scaleX": 1.4736706,
+    "scaleY": 1,
+    "scaleZ": 1.4736706
+  },
+  "Nickname": "Shield Recharge",
+  "Description": "SA 22",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 58421,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "584": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1831286890488309851/075011F0489C4B99E09D4B36BA3147F2DB935F4E/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "fa6add",
+  "Name": "Card",
+  "Transform": {
+    "posX": -48.64914,
+    "posY": 3.05077887,
+    "posZ": -28.57283,
+    "rotX": 359.928131,
+    "rotY": -0.0000888419745,
+    "rotZ": 359.863861,
+    "scaleX": 1.53204679,
+    "scaleY": 1,
+    "scaleZ": 1.53204679
+  },
+  "Nickname": "Imperial Navy Squad Leader",
+  "Description": "elite GS 2",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 58101,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "581": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11307560061075361601/7E65B3FD27957EEBC942895E0EB0556608F8ED4C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

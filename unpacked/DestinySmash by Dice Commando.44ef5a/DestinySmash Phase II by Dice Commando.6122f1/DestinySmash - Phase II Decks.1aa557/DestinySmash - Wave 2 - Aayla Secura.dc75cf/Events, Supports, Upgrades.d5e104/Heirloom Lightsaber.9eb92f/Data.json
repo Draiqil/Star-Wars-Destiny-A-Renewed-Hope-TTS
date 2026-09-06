@@ -1,0 +1,43 @@
+{
+  "GUID": "9eb92f",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.584,
+    "posY": 0.991,
+    "posZ": 0.847,
+    "rotX": 0.268,
+    "rotY": 0.513,
+    "rotZ": 0.678,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Heirloom Lightsaber",
+  "Description": "LEG 58",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 47157,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

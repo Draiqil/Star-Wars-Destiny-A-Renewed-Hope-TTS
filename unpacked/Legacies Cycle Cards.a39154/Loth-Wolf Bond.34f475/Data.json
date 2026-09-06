@@ -1,0 +1,54 @@
+{
+  "GUID": "34f475",
+  "Name": "Card",
+  "Transform": {
+    "posX": -6.77522135,
+    "posY": 2.05121255,
+    "posZ": -6.1101737,
+    "rotX": 0.0311155114,
+    "rotY": 359.973663,
+    "rotZ": 0.04480211,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Loth-Wolf Bond",
+  "Description": "WotF 59",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 48758,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "487": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/948454029951660614/BE1C3291FB80F1B91F4A4FF4AAB34FD1188948E4/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

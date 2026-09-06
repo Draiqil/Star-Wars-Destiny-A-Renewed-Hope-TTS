@@ -1,0 +1,55 @@
+{
+  "GUID": "8d7355",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 19.4318428,
+    "posY": 0.973605,
+    "posZ": 13.1037264,
+    "rotX": 3.242999e-8,
+    "rotY": -0.0000106685511,
+    "rotZ": -3.81101216e-7,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Wedge",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 60300,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "603": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1709664318116763138/61886E31621E72F6798A6B91DF5B56BED2F4A658/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

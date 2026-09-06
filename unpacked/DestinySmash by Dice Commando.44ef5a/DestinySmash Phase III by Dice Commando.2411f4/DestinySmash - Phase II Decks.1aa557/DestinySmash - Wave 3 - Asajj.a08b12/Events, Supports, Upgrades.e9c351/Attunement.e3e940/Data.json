@@ -1,0 +1,43 @@
+{
+  "GUID": "e3e940",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.359,
+    "posY": 0.111,
+    "posZ": 0.799,
+    "rotX": 0.877,
+    "rotY": 0.427,
+    "rotZ": 0.851,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Attunement",
+  "Description": "CONV 106",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 50035,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

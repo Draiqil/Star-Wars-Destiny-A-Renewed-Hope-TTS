@@ -1,0 +1,55 @@
+{
+  "GUID": "5d38bf",
+  "Name": "Card",
+  "Transform": {
+    "posX": -6.1244,
+    "posY": 1.68531,
+    "posZ": -0.678240955,
+    "rotX": -0.0000125065408,
+    "rotY": 0.000218365167,
+    "rotZ": 0.0000157527156,
+    "scaleX": 1.4736706,
+    "scaleY": 1,
+    "scaleZ": 1.4736706
+  },
+  "Nickname": "Rey",
+  "Description": "SA 47",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": true,
+  "CardID": 59403,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "594": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1822279124471200877/95C00F3D6EB643EC9CA01DB36DBA57756FC27534/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1822279124471201147/787B8606595FF9BA4C7918148778A6338D9D0925/",
+      "NumWidth": 2,
+      "NumHeight": 2,
+      "BackIsHidden": true,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

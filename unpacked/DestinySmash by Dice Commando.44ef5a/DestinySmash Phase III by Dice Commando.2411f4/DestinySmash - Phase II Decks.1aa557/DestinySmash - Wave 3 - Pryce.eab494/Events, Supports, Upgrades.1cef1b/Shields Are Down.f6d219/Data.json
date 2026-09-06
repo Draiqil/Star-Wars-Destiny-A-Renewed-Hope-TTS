@@ -1,0 +1,43 @@
+{
+  "GUID": "f6d219",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.182,
+    "posY": 0.607,
+    "posZ": 0.653,
+    "rotX": 0.904,
+    "rotY": 0.636,
+    "rotZ": 0.938,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Shields Are Down",
+  "Description": "SoH 130",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 52959,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

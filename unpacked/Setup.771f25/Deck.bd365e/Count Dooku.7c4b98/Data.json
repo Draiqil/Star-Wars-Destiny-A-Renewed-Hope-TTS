@@ -1,0 +1,55 @@
+{
+  "GUID": "7c4b98",
+  "Name": "Card",
+  "Transform": {
+    "posX": -9.644346,
+    "posY": 1.25925338,
+    "posZ": 18.822937,
+    "rotX": -2.18148148e-8,
+    "rotY": 1.52428825e-8,
+    "rotZ": -3.379726e-8,
+    "scaleX": 1.42,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Count Dooku",
+  "Description": "AoN 1",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 50200,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "502": {
+      "FaceURL": "http://drive.google.com/uc?id=1cFN82Fp_lzneul60dKj0D98sDkPj6qEl",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 5,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

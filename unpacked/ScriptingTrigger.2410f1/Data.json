@@ -1,0 +1,44 @@
+{
+  "GUID": "2410f1",
+  "Name": "ScriptingTrigger",
+  "Transform": {
+    "posX": 14.0095177,
+    "posY": -4,
+    "posZ": -0.4,
+    "rotX": 0,
+    "rotY": 178.800415,
+    "rotZ": 0,
+    "scaleX": 5.78690052,
+    "scaleY": 5.1,
+    "scaleZ": 6.930016
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "Memo": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 1,
+    "g": 1,
+    "b": 1,
+    "a": 0.509803951
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false
+}

@@ -1,0 +1,43 @@
+{
+  "GUID": "16d246",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.111,
+    "posY": 0.037,
+    "posZ": 0.911,
+    "rotX": 0.711,
+    "rotY": 0.103,
+    "rotZ": 0.554,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Taking Charge",
+  "Description": "CM 29",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53528,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

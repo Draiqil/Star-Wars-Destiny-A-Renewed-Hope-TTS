@@ -1,0 +1,55 @@
+{
+  "GUID": "8a9d75",
+  "Name": "Card",
+  "Transform": {
+    "posX": 21.4500351,
+    "posY": 1.019995,
+    "posZ": -0.787381768,
+    "rotX": 359.9385,
+    "rotY": 180.004868,
+    "rotZ": 359.991974,
+    "scaleX": 1.81955469,
+    "scaleY": 1,
+    "scaleZ": 1.81955469
+  },
+  "Nickname": "Cyber Center - Anaxes",
+  "Description": "RM 103",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55329,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "553": {
+      "FaceURL": "https://drive.google.com/uc?id=1URiH4u3WEO1fjmJPm-vPMkyie228q1F7",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1750180226665201019/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

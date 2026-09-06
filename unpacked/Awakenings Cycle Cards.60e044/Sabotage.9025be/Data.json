@@ -1,0 +1,54 @@
+{
+  "GUID": "9025be",
+  "Name": "Card",
+  "Transform": {
+    "posX": -17.5277252,
+    "posY": 1.47331309,
+    "posZ": -1.49218047,
+    "rotX": 7.301269,
+    "rotY": 359.9931,
+    "rotZ": 0.000362723658,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Sabotage",
+  "Description": "SoR 147",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46306,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "463": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87099658839856357/A85592A456EC31A220A8B9FCF39099378D4AA92F/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

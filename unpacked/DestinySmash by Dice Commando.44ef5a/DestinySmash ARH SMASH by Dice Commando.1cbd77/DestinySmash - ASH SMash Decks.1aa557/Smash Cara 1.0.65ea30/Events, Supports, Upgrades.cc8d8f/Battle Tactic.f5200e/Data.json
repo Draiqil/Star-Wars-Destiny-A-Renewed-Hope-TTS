@@ -1,0 +1,43 @@
+{
+  "GUID": "f5200e",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.223,
+    "posY": 0.677,
+    "posZ": 0.521,
+    "rotX": 0.549,
+    "rotY": 0.968,
+    "rotZ": 0.376,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Battle Tactic",
+  "Description": "DoP 92",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 59621,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

@@ -1,0 +1,43 @@
+{
+  "GUID": "14b56b",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.388,
+    "posY": 0.992,
+    "posZ": 0.313,
+    "rotX": 0.554,
+    "rotY": 0.877,
+    "rotZ": 0.353,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "By Any Means",
+  "Description": "WotF 39",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 48738,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

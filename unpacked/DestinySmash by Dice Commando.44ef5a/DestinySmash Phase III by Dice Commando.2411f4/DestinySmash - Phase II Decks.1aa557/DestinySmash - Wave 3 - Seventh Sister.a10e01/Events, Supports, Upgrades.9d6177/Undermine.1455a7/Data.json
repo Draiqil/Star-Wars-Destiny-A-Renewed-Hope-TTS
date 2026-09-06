@@ -1,0 +1,43 @@
+{
+  "GUID": "1455a7",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.836,
+    "posY": 0.398,
+    "posZ": 0.579,
+    "rotX": 0.621,
+    "rotY": 0.714,
+    "rotZ": 0.855,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Undermine",
+  "Description": "WotF 11",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 48710,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

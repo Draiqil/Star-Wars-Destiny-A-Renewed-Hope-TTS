@@ -1,0 +1,55 @@
+{
+  "GUID": "cd9afb",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": -1.96740758,
+    "posY": 1.134811,
+    "posZ": 6.345406,
+    "rotX": 0.00174628221,
+    "rotY": -0.00140274246,
+    "rotZ": 0.606982231,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - ARH QiRa",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 62300,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "623": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648891606/A95F3059AADB35B1A6D39E7E28126C045275874B/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

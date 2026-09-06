@@ -1,0 +1,54 @@
+{
+  "GUID": "48613e",
+  "Name": "Card",
+  "Transform": {
+    "posX": -22.3970718,
+    "posY": 2.49610567,
+    "posZ": -1.86786819,
+    "rotX": 359.990417,
+    "rotY": -0.000110924579,
+    "rotZ": -0.00001576219,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "ID9 Seeker Droid",
+  "Description": "EaW 13",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46412,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "464": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/869614883116979708/E8A5A68CC0CCFEB94EDE38BABFEFBF77FAD150C8/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

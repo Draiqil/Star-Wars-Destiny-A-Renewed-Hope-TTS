@@ -1,0 +1,55 @@
+{
+  "GUID": "ecbdf9",
+  "Name": "Card",
+  "Transform": {
+    "posX": -4.44390774,
+    "posY": 1.07163823,
+    "posZ": 8.938671,
+    "rotX": -0.000816955348,
+    "rotY": 359.967865,
+    "rotZ": 0.0375733,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Electroshock",
+  "Description": "AW 159",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 48918,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "489": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11971746729628181298/7251DB12A22E4C48558886541AE4A7A5D6F4F08A/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

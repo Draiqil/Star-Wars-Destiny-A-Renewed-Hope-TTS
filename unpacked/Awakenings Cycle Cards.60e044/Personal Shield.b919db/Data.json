@@ -1,0 +1,54 @@
+{
+  "GUID": "b919db",
+  "Name": "Card",
+  "Transform": {
+    "posX": -13.3450518,
+    "posY": 1.17785013,
+    "posZ": -2.4491787,
+    "rotX": -0.00000841251,
+    "rotY": 359.973053,
+    "rotZ": 0.00145597,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Personal Shield",
+  "Description": "SoR 24",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46223,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "462": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87099658840041859/705089CFD0C34899FB3E42BA0D3876C35DB344C6/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

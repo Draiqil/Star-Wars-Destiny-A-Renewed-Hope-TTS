@@ -1,0 +1,55 @@
+{
+  "GUID": "6de3e5",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 14.8584862,
+    "posY": 1.16600156,
+    "posZ": 6.465315,
+    "rotX": 0.000306270085,
+    "rotY": 1.70818765e-7,
+    "rotZ": 179.896545,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Pong Krell",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 56000,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "560": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700379744/59D205F12AC64677599B4043B5BACF4F8B9D9A43/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

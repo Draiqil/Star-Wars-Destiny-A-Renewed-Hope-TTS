@@ -1,0 +1,55 @@
+{
+  "GUID": "6b08e2",
+  "Name": "Card",
+  "Transform": {
+    "posX": -40.0714264,
+    "posY": 2.493257,
+    "posZ": 9.233315,
+    "rotX": 0.00128093013,
+    "rotY": 359.990448,
+    "rotZ": 4.48842,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "General Rieekan",
+  "Description": "RM 56",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55252,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "552": {
+      "FaceURL": "https://drive.google.com/uc?id=1i9AuYI1GdZsb3ORUFqL8gcJ937WY6kUH",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1750180226665201019/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

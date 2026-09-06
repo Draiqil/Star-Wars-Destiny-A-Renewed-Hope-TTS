@@ -1,0 +1,43 @@
+{
+  "GUID": "e4517b",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.725,
+    "posY": 0.176,
+    "posZ": 0.997,
+    "rotX": 0.863,
+    "rotY": 0.931,
+    "rotZ": 0.429,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Handheld L-S1 Cannon",
+  "Description": "AtG 132",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49362,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

@@ -1,0 +1,43 @@
+{
+  "GUID": "e193ee",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.287,
+    "posY": 0.234,
+    "posZ": 0.16,
+    "rotX": 0.676,
+    "rotY": 0.11,
+    "rotZ": 0.482,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Anakin Skywalker's Lightsaber",
+  "Description": "CM 67",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53626,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

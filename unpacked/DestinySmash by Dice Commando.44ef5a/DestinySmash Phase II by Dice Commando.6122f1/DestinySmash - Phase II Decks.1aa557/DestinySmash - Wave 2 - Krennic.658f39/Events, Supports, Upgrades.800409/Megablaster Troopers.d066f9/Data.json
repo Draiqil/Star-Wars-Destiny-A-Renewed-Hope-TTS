@@ -1,0 +1,43 @@
+{
+  "GUID": "d066f9",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.195,
+    "posY": 0.004,
+    "posZ": 0.898,
+    "rotX": 0.54,
+    "rotY": 0.688,
+    "rotZ": 0.169,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Megablaster Troopers",
+  "Description": "CONV 31",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49930,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "21f41b",
+  "Name": "Card",
+  "Transform": {
+    "posX": -17.59932,
+    "posY": 1.44153333,
+    "posZ": 20.9816265,
+    "rotX": -3.90286523e-8,
+    "rotY": 359.9745,
+    "rotZ": -2.71704987e-8,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Fireball",
+  "Description": "CM 82",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 53701,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "537": {
+      "FaceURL": "http://drive.google.com/uc?id=1a28ktOr6kAhKn-YLg1SnmqqC0vc7wAlk",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 8,
+      "NumHeight": 5,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "GUID": "dbcd01",
+  "Name": "Card",
+  "Transform": {
+    "posX": -17.1538219,
+    "posY": 1.17996609,
+    "posZ": -6.129208,
+    "rotX": -1.64776157e-8,
+    "rotY": 0.02818428,
+    "rotZ": 0.00000113424835,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Mos Eisley Spaceport",
+  "Description": "AW 172",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 60107,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "488": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9848382962823772516/BAAAA5A344C9DAD16D9FCE6278D35EC5B9AF16B1/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

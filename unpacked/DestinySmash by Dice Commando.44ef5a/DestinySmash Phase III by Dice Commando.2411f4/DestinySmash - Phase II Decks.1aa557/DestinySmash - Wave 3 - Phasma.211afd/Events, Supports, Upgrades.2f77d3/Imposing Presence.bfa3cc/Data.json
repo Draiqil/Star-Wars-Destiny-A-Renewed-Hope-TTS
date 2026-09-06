@@ -1,0 +1,43 @@
+{
+  "GUID": "bfa3cc",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.529,
+    "posY": 0.27,
+    "posZ": 0.327,
+    "rotX": 0.246,
+    "rotY": 0.432,
+    "rotZ": 0.498,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Imposing Presence",
+  "Description": "AtG 26",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49825,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

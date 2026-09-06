@@ -1,0 +1,55 @@
+{
+  "GUID": "43d30b",
+  "Name": "Card",
+  "Transform": {
+    "posX": -21.2075272,
+    "posY": 1.20459092,
+    "posZ": 18.6175156,
+    "rotX": -0.00000307658252,
+    "rotY": -1.61055329e-8,
+    "rotZ": 180.982346,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Han Solo, Cool and Confident",
+  "Description": "TR 16",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 53915,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "539": {
+      "FaceURL": "https://drive.google.com/uc?id=1eJVMq2HjirpCF_sCIsTAN7KdLUulrEBq",
+      "BackURL": "https://drive.google.com/uc?id=1JCWMndgx91f0l2lGyT58v9uABtgVGLXR",
+      "NumWidth": 6,
+      "NumHeight": 4,
+      "BackIsHidden": false,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

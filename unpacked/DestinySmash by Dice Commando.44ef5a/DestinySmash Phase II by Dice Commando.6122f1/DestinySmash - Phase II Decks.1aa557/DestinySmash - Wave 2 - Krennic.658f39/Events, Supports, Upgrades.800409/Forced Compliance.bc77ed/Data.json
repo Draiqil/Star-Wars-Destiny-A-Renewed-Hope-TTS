@@ -1,0 +1,43 @@
+{
+  "GUID": "bc77ed",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.427,
+    "posY": 0.397,
+    "posZ": 0.151,
+    "rotX": 0.947,
+    "rotY": 0.864,
+    "rotZ": 0.465,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Forced Compliance",
+  "Description": "CONV 125",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 50054,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

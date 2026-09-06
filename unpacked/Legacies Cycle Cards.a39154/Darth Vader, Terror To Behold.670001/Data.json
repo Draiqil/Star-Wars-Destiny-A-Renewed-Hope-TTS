@@ -1,0 +1,55 @@
+{
+  "GUID": "670001",
+  "Name": "Card",
+  "Transform": {
+    "posX": -12.0405626,
+    "posY": 2.61139,
+    "posZ": 14.97079,
+    "rotX": 359.960175,
+    "rotY": 0.00648011453,
+    "rotZ": 359.9446,
+    "scaleX": 1.42,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Darth Vader, Terror To Behold",
+  "Description": "AtG 1",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 49800,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "498": {
+      "FaceURL": "http://drive.google.com/uc?id=1w0iTR9-Y_SNVX8LgUk40GxAE5LhEm1n8",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": false,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

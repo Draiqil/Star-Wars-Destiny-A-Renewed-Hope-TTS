@@ -1,0 +1,55 @@
+{
+  "GUID": "cade53",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 15.0723686,
+    "posY": 1.09813058,
+    "posZ": 6.158906,
+    "rotX": 0.0004457327,
+    "rotY": 1.80044893e-7,
+    "rotZ": 179.924728,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Hotshot Han",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55400,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "554": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700371769/FCF1293CDC12C14644291257A9D5C844C7330F96/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "cd9afb",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 8.533632,
+    "posY": 0.973605,
+    "posZ": 7.42842865,
+    "rotX": 2.26612258e-8,
+    "rotY": -0.000010668502,
+    "rotZ": -3.90792536e-7,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Darth Vader",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 60800,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "608": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1709664318116768116/DE46042A28681B5BD5E1B0CF3C7BE6AB6CC9567A/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

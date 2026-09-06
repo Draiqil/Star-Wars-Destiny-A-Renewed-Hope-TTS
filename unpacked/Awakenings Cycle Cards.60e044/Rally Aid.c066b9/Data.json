@@ -1,0 +1,54 @@
+{
+  "GUID": "c066b9",
+  "Name": "Card",
+  "Transform": {
+    "posX": -19.1746349,
+    "posY": 1.70195353,
+    "posZ": -0.989189565,
+    "rotX": -3.46280245e-7,
+    "rotY": 359.809174,
+    "rotZ": -9.926712e-7,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Rally Aid",
+  "Description": "EaW 96",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46625,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "466": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/869614883116983266/1790FA94EA61CF5DC8D6355F7161C506ED4AFA1C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

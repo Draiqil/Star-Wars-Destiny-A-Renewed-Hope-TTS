@@ -1,0 +1,55 @@
+{
+  "GUID": "499ef1",
+  "Name": "Card",
+  "Transform": {
+    "posX": -40.9412575,
+    "posY": 3.0812254,
+    "posZ": 9.419179,
+    "rotX": -0.000003731565,
+    "rotY": 359.992279,
+    "rotZ": -0.0000016254171,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "I Like Those Odds",
+  "Description": "HS 70",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": true,
+  "CardID": 57569,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "575": {
+      "FaceURL": "https://drive.google.com/uc?id=1j1PP4segZS0z891NV8rhzlkHkwQislla",
+      "BackURL": "https://drive.google.com/uc?id=1jmPW7ks3I52goV3ThBLlsFdaGXI4T_Ce",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

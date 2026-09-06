@@ -1,0 +1,55 @@
+{
+  "GUID": "da49bf",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 9.46289,
+    "posY": 1.15512335,
+    "posZ": 0.9337429,
+    "rotX": 0.000592115452,
+    "rotY": 0.000007839245,
+    "rotZ": -0.0007666977,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Training Rey",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 57200,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "572": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1666859146983205750/FB4C23441430C1F95D6862DD306E2807748C2C5D/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

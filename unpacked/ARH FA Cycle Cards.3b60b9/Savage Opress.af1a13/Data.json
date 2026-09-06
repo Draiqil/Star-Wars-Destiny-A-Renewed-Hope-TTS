@@ -1,0 +1,55 @@
+{
+  "GUID": "af1a13",
+  "Name": "Card",
+  "Transform": {
+    "posX": -40.775425,
+    "posY": 2.84051323,
+    "posZ": 9.231769,
+    "rotX": 0.00002242603,
+    "rotY": 359.992279,
+    "rotZ": -0.0000110603751,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Savage Opress",
+  "Description": "RM 6",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 57301,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "573": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1750180226665425501/C226AE9B94ACCD622FAA2E9F59EBF8BFE84DF756/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1750180226665425194/E94C2B673EF70BF8A099641ADF82507852B8247C/",
+      "NumWidth": 4,
+      "NumHeight": 2,
+      "BackIsHidden": true,
+      "UniqueBack": true,
+      "Type": 0
+    }
+  }
+}

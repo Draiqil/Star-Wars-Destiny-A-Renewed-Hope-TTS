@@ -1,0 +1,67 @@
+{
+  "GUID": "68d30b",
+  "Name": "Custom_Token",
+  "Transform": {
+    "posX": 27.119978,
+    "posY": 3.14719462,
+    "posZ": 17.6770687,
+    "rotX": 0.281278729,
+    "rotY": 0.00874589,
+    "rotZ": 0.299047261,
+    "scaleX": 0.2647439,
+    "scaleY": 1,
+    "scaleZ": 0.2647439
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 1,
+    "g": 1,
+    "b": 1
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "CustomImage": {
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/194046562280484252/758430B535676DA603F0041356827EE9BD7B830A/",
+    "ImageSecondaryURL": "",
+    "ImageScalar": 1,
+    "WidthScale": 0,
+    "CustomToken": {
+      "Thickness": 0.1,
+      "MergeDistancePixels": 5,
+      "StandUp": false,
+      "Stackable": false
+    }
+  },
+  "PhysicsMaterial": {
+    "StaticFriction": 1,
+    "DynamicFriction": 0.7,
+    "Bounciness": 0,
+    "FrictionCombine": 0,
+    "BounceCombine": 0
+  },
+  "Rigidbody": {
+    "Mass": 0.1,
+    "Drag": 0.1,
+    "AngularDrag": 0.1,
+    "UseGravity": true
+  }
+}

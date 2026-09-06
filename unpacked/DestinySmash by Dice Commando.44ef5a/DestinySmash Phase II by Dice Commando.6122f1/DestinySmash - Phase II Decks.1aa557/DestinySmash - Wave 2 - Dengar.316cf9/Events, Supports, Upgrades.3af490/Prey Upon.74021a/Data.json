@@ -1,0 +1,43 @@
+{
+  "GUID": "74021a",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.396,
+    "posY": 0.255,
+    "posZ": 0.296,
+    "rotX": 0.989,
+    "rotY": 0.589,
+    "rotZ": 0.302,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Prey Upon",
+  "Description": "CONV 146",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 50105,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

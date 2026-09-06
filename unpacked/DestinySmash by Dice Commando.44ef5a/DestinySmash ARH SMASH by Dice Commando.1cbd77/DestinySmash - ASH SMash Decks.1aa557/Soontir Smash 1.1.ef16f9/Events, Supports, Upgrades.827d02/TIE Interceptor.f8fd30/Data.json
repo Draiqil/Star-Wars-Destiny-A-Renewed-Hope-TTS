@@ -1,0 +1,43 @@
+{
+  "GUID": "f8fd30",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.101,
+    "posY": 0.347,
+    "posZ": 0.245,
+    "rotX": 0.58,
+    "rotY": 0.686,
+    "rotZ": 0.06,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "TIE Interceptor",
+  "Description": "GS 6",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 58105,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

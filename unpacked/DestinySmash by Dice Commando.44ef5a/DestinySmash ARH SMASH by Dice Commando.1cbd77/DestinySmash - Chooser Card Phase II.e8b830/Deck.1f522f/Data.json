@@ -1,0 +1,127 @@
+{
+  "GUID": "1f522f",
+  "Name": "Deck",
+  "Transform": {
+    "posX": 2.32495165,
+    "posY": 2.418674,
+    "posZ": -0.5827491,
+    "rotX": 0.00007146428,
+    "rotY": -0.00001400145,
+    "rotZ": 180,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": false,
+  "SidewaysCard": false,
+  "DeckIDs": [
+    62500,
+    62400,
+    62300,
+    62200,
+    62100,
+    62000,
+    61900,
+    61800
+  ],
+  "CustomDeck": {
+    "618": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648884732/92A58056257C62E2BF5E7BA0F5655F5BBF95AF1A/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "619": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648886724/9F569832C6AFF3093F62675E5BF4432E5FB80E78/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "620": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648887843/EC15CCE4D3AE987F87E69E594C62B4EE570D810E/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "621": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648889603/D06CAD71CE64C55EBA902C05A4DFD3CE060DCB91/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "622": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648890710/FCB46FE29A2973F85AFE20EB55E6AF1110735EE7/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "623": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648891606/A95F3059AADB35B1A6D39E7E28126C045275874B/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "624": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648893651/3A902FDDFAC8E8BF91613165F3751D18D4F098F6/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    },
+    "625": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2049738093648894687/866BAED501CD1BED1359F17A770E294201BCC60E/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

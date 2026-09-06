@@ -1,0 +1,43 @@
+{
+  "GUID": "51d0ec",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.173,
+    "posY": 0.399,
+    "posZ": 0.052,
+    "rotX": 0.282,
+    "rotY": 0.962,
+    "rotZ": 0.904,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Bacta Therapy",
+  "Description": "CONV 162",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 50121,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

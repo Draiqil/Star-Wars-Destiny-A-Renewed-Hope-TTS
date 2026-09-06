@@ -1,0 +1,55 @@
+{
+  "GUID": "20395f",
+  "Name": "Card",
+  "Transform": {
+    "posX": 4.355001,
+    "posY": 2.37039,
+    "posZ": -4.34620142,
+    "rotX": 0.20826599,
+    "rotY": 179.999451,
+    "rotZ": 0.0149298385,
+    "scaleX": 1.47602439,
+    "scaleY": 1,
+    "scaleZ": 1.47602439
+  },
+  "Nickname": "Force Advantage",
+  "Description": "RES 89",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 60818,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "598": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2050875404455870515/ACD1B7990026FAD4EC718370C9D934AD2674798B/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 5,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

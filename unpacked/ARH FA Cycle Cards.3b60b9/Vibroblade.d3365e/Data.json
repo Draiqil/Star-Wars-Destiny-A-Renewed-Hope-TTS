@@ -1,0 +1,55 @@
+{
+  "GUID": "d3365e",
+  "Name": "Card",
+  "Transform": {
+    "posX": -40.60001,
+    "posY": 2.93761659,
+    "posZ": 9.233609,
+    "rotX": 0.000016525466,
+    "rotY": 359.992279,
+    "rotZ": -0.0000148328927,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Vibroblade",
+  "Description": "HS 107",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 57636,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "576": {
+      "FaceURL": "https://drive.google.com/uc?id=1a-6fViFzgQDuyJBuC45s7zuklgooIcna",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

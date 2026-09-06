@@ -1,0 +1,55 @@
+{
+  "GUID": "326d44",
+  "Name": "Card",
+  "Transform": {
+    "posX": -32.36546,
+    "posY": 1.36901486,
+    "posZ": -11.5671568,
+    "rotX": -4.16432862e-8,
+    "rotY": -6.368415e-10,
+    "rotZ": 181.580246,
+    "scaleX": 1.53204679,
+    "scaleY": 1,
+    "scaleZ": 1.53204679
+  },
+  "Nickname": "Point Blank",
+  "Description": "GS 32",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 58131,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "581": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11307560061075361601/7E65B3FD27957EEBC942895E0EB0556608F8ED4C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

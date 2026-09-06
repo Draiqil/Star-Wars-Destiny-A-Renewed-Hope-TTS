@@ -1,0 +1,55 @@
+{
+  "GUID": "ec5551",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 15.0751619,
+    "posY": 1.08792269,
+    "posZ": 5.925015,
+    "rotX": 0.000419845455,
+    "rotY": 7.31221164e-8,
+    "rotZ": 179.968353,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - FN-2199",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55300,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "553": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700370256/5C020E2B1CC8C9BB6509499855D497DDB0DB2E29/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

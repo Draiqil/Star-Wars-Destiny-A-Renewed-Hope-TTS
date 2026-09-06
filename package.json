@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@tts-tools/cli": "^2.3.0"
+  }
+}

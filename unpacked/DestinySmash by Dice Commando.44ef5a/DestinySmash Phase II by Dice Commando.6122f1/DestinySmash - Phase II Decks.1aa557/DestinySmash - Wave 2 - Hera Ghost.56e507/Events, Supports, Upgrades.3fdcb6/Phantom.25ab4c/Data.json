@@ -1,0 +1,43 @@
+{
+  "GUID": "25ab4c",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.29,
+    "posY": 0.864,
+    "posZ": 0.689,
+    "rotX": 0.219,
+    "rotY": 0.408,
+    "rotZ": 0.177,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Phantom",
+  "Description": "CM 84",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 53703,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

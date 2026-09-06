@@ -1,0 +1,53 @@
+{
+  "GUID": "7f9fd1",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.586,
+    "posY": 0.703,
+    "posZ": 0.791,
+    "rotX": 0.698,
+    "rotY": 270,
+    "rotZ": 0.804,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Occupied City",
+  "Description": "AtG 158",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49619,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "18": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9848382962823772516/BAAAA5A344C9DAD16D9FCE6278D35EC5B9AF16B1/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

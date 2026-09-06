@@ -1,0 +1,55 @@
+{
+  "GUID": "5e620c",
+  "Name": "Card",
+  "Transform": {
+    "posX": 12.7386618,
+    "posY": 3.20909119,
+    "posZ": -8.761765,
+    "rotX": -4.63149652e-9,
+    "rotY": 1.7836492e-10,
+    "rotZ": 180,
+    "scaleX": 1.4736706,
+    "scaleY": 1,
+    "scaleZ": 1.4736706
+  },
+  "Nickname": "Security Droid",
+  "Description": "UH 99",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 60628,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "578": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1822281124435078953/B3CE89D6C7548C3AF7E75DDCAA96A225705A2B2C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 5,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "GUID": "f1062a",
+  "Name": "Card",
+  "Transform": {
+    "posX": -50.5881538,
+    "posY": 3.08799,
+    "posZ": 4.6323905,
+    "rotX": 3.011415e-11,
+    "rotY": 1.4463463e-12,
+    "rotZ": 0.03429331,
+    "scaleX": 1.4736706,
+    "scaleY": 1,
+    "scaleZ": 1.4736706
+  },
+  "Nickname": "Cultist Of The Sith Eternal",
+  "Description": "SA 1",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 58400,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "584": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1831286890488309851/075011F0489C4B99E09D4B36BA3147F2DB935F4E/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "GUID": "275693",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.74,
+    "posY": 0.444,
+    "posZ": 0.314,
+    "rotX": 0.647,
+    "rotY": 0.288,
+    "rotZ": 0.321,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Fear and Dead Men",
+  "Description": "AtG 7",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49806,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

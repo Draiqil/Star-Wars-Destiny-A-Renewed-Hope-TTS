@@ -1,0 +1,55 @@
+{
+  "GUID": "80df14",
+  "Name": "Card",
+  "Transform": {
+    "posX": -40.9553528,
+    "posY": 2.68602586,
+    "posZ": 9.435983,
+    "rotX": -0.00000379349854,
+    "rotY": 359.992249,
+    "rotZ": -5.01989e-7,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Reckless Charge",
+  "Description": "RM 22",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55218,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "552": {
+      "FaceURL": "https://drive.google.com/uc?id=1i9AuYI1GdZsb3ORUFqL8gcJ937WY6kUH",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1750180226665201019/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

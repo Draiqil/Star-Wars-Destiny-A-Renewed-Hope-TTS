@@ -1,0 +1,55 @@
+{
+  "GUID": "031227",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 5.50863266,
+    "posY": 1.116892,
+    "posZ": 6.7027545,
+    "rotX": 0.004359359,
+    "rotY": -0.0000123633727,
+    "rotZ": 0.004597823,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Yoda Wizened",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 59500,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "595": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1772700814315642685/66EAD48D2EF9239E1AC95C6709BA388A1136345F/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

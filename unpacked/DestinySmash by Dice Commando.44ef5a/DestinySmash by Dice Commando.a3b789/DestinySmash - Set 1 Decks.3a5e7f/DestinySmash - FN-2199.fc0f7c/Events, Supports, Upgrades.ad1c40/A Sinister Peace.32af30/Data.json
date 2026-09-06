@@ -1,0 +1,43 @@
+{
+  "GUID": "32af30",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.561,
+    "posY": 0.307,
+    "posZ": 0.493,
+    "rotX": 0.172,
+    "rotY": 0.124,
+    "rotZ": 0.756,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "A Sinister Peace",
+  "Description": "CONV 23",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49922,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

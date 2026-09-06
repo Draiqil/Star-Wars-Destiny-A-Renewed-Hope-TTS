@@ -1,0 +1,55 @@
+{
+  "GUID": "c3127d",
+  "Name": "Card",
+  "Transform": {
+    "posX": -4.03361464,
+    "posY": 1.09736443,
+    "posZ": -0.5353226,
+    "rotX": 0.0003144239,
+    "rotY": -5.27584e-7,
+    "rotZ": -0.000397301425,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Extremist Campaign",
+  "Description": "FA 83",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55112,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "551": {
+      "FaceURL": "https://drive.google.com/uc?id=1B6REcTd3L2S7ewXsJLroRnU6MEswrrtj",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 5,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

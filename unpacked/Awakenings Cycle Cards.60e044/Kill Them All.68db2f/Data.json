@@ -1,0 +1,54 @@
+{
+  "GUID": "68db2f",
+  "Name": "Card",
+  "Transform": {
+    "posX": -19.0831718,
+    "posY": 1.90582716,
+    "posZ": -1.035804,
+    "rotX": 0.05542353,
+    "rotY": 359.983429,
+    "rotZ": 359.9083,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Kill Them All",
+  "Description": "EaW 74",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46603,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "466": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/869614883116983266/1790FA94EA61CF5DC8D6355F7161C506ED4AFA1C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

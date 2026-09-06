@@ -1,0 +1,54 @@
+{
+  "GUID": "598fba",
+  "Name": "Card",
+  "Transform": {
+    "posX": -17.89638,
+    "posY": 1.18155515,
+    "posZ": -5.99598074,
+    "rotX": -0.000003645229,
+    "rotY": 0.0285045635,
+    "rotZ": -0.0000191044182,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Imperial Armory",
+  "Description": "AW 169",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 60104,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "488": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9848382962823772516/BAAAA5A344C9DAD16D9FCE6278D35EC5B9AF16B1/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

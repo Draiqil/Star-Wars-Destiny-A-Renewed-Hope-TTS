@@ -1,0 +1,55 @@
+{
+  "GUID": "1e16d2",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": 15.3739309,
+    "posY": 1.01525533,
+    "posZ": 6.236804,
+    "rotX": 0.00120215479,
+    "rotY": 1.92022362e-8,
+    "rotZ": 180.001831,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Beckett",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 54800,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "548": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700363143/550F6FF728F8D52B9D55F223462E5B8719129F82/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

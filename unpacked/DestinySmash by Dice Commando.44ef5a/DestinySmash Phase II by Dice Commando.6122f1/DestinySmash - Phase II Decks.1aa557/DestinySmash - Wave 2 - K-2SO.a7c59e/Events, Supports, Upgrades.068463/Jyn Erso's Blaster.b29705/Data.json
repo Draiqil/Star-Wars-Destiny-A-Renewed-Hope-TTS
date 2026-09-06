@@ -1,0 +1,43 @@
+{
+  "GUID": "b29705",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.893,
+    "posY": 0.978,
+    "posZ": 0.331,
+    "rotX": 0.784,
+    "rotY": 0.227,
+    "rotZ": 0.247,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Jyn Erso's Blaster",
+  "Description": "AtG 87",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 49317,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

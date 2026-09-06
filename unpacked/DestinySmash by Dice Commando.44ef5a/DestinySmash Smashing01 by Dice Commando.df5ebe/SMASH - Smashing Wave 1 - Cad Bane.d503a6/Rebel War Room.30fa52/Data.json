@@ -1,0 +1,55 @@
+{
+  "GUID": "30fa52",
+  "Name": "Card",
+  "Transform": {
+    "posX": 3.12363863,
+    "posY": 3.05997443,
+    "posZ": -1.6128813,
+    "rotX": 0.001508778,
+    "rotY": -0.00000380919846,
+    "rotZ": 0.0428073,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Rebel War Room",
+  "Description": "AW 171",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 48806,
+  "SidewaysCard": true,
+  "CustomDeck": {
+    "488": {
+      "FaceURL": "https://drive.google.com/uc?export=download&id=1lwuJdEZGWRN0Ejfm4p1_Q-xGQsgtuZSs",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

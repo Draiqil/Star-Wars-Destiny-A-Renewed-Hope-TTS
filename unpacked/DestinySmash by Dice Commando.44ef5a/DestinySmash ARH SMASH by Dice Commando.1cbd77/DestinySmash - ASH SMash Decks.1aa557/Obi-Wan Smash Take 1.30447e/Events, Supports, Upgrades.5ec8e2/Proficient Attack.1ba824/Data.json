@@ -1,0 +1,43 @@
+{
+  "GUID": "1ba824",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.727,
+    "posY": 0.684,
+    "posZ": 0.888,
+    "rotX": 0.821,
+    "rotY": 0.386,
+    "rotZ": 0.84,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Proficient Attack",
+  "Description": "SA 51",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 58450,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

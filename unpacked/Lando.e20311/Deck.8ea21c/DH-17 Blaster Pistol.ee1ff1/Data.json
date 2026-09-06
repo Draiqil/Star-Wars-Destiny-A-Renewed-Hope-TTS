@@ -1,0 +1,55 @@
+{
+  "GUID": "ee1ff1",
+  "Name": "Card",
+  "Transform": {
+    "posX": -32.9709473,
+    "posY": 1.30633664,
+    "posZ": -12.0138245,
+    "rotX": -0.00186148856,
+    "rotY": -0.0005456869,
+    "rotZ": 182.2169,
+    "scaleX": 1.53204679,
+    "scaleY": 1,
+    "scaleZ": 1.53204679
+  },
+  "Nickname": "DH-17 Blaster Pistol",
+  "Description": "GS 25",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 58124,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "581": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11307560061075361601/7E65B3FD27957EEBC942895E0EB0556608F8ED4C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1738926104371934193/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "GUID": "4f8ca2",
+  "Name": "Infinite_Bag",
+  "Transform": {
+    "posX": 45.646347,
+    "posY": 0.9442174,
+    "posZ": -6.1576705,
+    "rotX": -3.08131746e-7,
+    "rotY": -0.000022101518,
+    "rotZ": 5.03783951e-7,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Charm",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.46484375,
+    "g": 0.343744844,
+    "b": 0.140620112
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1
+}

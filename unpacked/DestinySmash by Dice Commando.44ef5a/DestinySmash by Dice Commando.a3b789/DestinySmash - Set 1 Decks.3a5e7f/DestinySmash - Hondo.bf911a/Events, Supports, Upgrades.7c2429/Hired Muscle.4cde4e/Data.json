@@ -1,0 +1,43 @@
+{
+  "GUID": "4cde4e",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.83,
+    "posY": 0.219,
+    "posZ": 0.416,
+    "rotX": 0.362,
+    "rotY": 0.523,
+    "rotZ": 0.063,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Hired Muscle",
+  "Description": "AoN 12",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 50211,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}

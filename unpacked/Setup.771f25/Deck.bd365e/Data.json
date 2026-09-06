@@ -1,0 +1,76 @@
+{
+  "GUID": "bd365e",
+  "Name": "Deck",
+  "Transform": {
+    "posX": 27.831192,
+    "posY": 3.219023,
+    "posZ": -23.6530781,
+    "rotX": 359.9661,
+    "rotY": -0.0006839371,
+    "rotZ": 0.138077155,
+    "scaleX": 1.42,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": false,
+  "SidewaysCard": false,
+  "DeckIDs": [
+    50219,
+    50218,
+    50217,
+    50216,
+    50215,
+    50214,
+    50213,
+    50212,
+    50211,
+    50210,
+    50209,
+    50208,
+    50207,
+    50206,
+    50205,
+    50204,
+    50203,
+    50202,
+    50201,
+    50200
+  ],
+  "CustomDeck": {
+    "502": {
+      "FaceURL": "http://drive.google.com/uc?id=1cFN82Fp_lzneul60dKj0D98sDkPj6qEl",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 5,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

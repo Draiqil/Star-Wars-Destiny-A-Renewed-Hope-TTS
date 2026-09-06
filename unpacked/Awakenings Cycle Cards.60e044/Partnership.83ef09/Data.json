@@ -1,0 +1,54 @@
+{
+  "GUID": "83ef09",
+  "Name": "Card",
+  "Transform": {
+    "posX": -17.3543377,
+    "posY": 1.1916399,
+    "posZ": -2.10743618,
+    "rotX": 6.570515e-8,
+    "rotY": 0.0313523151,
+    "rotZ": 7.617004e-7,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Partnership",
+  "Description": "EaW 148",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "Hands": true,
+  "CardID": 46707,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "467": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/869614883116985366/B76F8D906AC5AD7D6EC45811FC0F88535894BCAA/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/102850418890247821/C495C2DA41D081A5CD513AC62BE8F69775DC5ADB/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

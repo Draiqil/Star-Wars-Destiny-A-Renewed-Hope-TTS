@@ -1,0 +1,55 @@
+{
+  "GUID": "1923e7",
+  "Name": "Card",
+  "Transform": {
+    "posX": -4.363079,
+    "posY": 1.14551556,
+    "posZ": -0.3674914,
+    "rotX": -0.00006331214,
+    "rotY": 0.000009557297,
+    "rotZ": -0.000314059929,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "Demand Tribute",
+  "Description": "FA 78",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 55107,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "551": {
+      "FaceURL": "https://drive.google.com/uc?id=1B6REcTd3L2S7ewXsJLroRnU6MEswrrtj",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 5,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

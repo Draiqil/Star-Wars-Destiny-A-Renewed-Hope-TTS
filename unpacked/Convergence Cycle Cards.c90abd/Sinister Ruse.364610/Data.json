@@ -1,0 +1,55 @@
+{
+  "GUID": "364610",
+  "Name": "Card",
+  "Transform": {
+    "posX": -19.8187065,
+    "posY": 2.58615279,
+    "posZ": 27.5499077,
+    "rotX": -0.0000102101694,
+    "rotY": 359.993774,
+    "rotZ": -0.00000801206,
+    "scaleX": 1.45,
+    "scaleY": 1,
+    "scaleZ": 1.42
+  },
+  "Nickname": "Sinister Ruse",
+  "Description": "SoH 12",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 52811,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "528": {
+      "FaceURL": "http://drive.google.com/uc?id=1o6O0boYzQBsNDjyHDpO3vGDkz1ZrBXTR",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 7,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

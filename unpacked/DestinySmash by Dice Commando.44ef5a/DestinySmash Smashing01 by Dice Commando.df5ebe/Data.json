@@ -1,0 +1,67 @@
+{
+  "GUID": "df5ebe",
+  "Name": "Custom_Model_Bag",
+  "Transform": {
+    "posX": -52.87655,
+    "posY": 4.18108225,
+    "posZ": -13.31959,
+    "rotX": -0.00466120057,
+    "rotY": 90.01547,
+    "rotZ": -0.001295098,
+    "scaleX": 2.84999919,
+    "scaleY": 2.84999919,
+    "scaleZ": 2.84999919
+  },
+  "Nickname": "DestinySmash Smashing01 by Dice Commando",
+  "Description": "SMASHING Wave 1 Box",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.9999998,
+    "g": 0.9921681,
+    "b": 0.9999998
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "MaterialIndex": -1,
+  "MeshIndex": -1,
+  "CustomMesh": {
+    "MeshURL": "https://www.dropbox.com/s/6d23flr27c39nnd/tuckbox.obj?dl=1",
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1816649539792448166/91B2864A752D0A7DE23B4648CC08BACD2B9F61F8/",
+    "NormalURL": "https://www.dropbox.com/s/73ngjdw1zywnibm/Bump3.jpg?dl=1",
+    "ColliderURL": "",
+    "Convex": true,
+    "MaterialIndex": 3,
+    "TypeIndex": 6,
+    "CustomShader": {
+      "SpecularColor": {
+        "r": 1,
+        "g": 1,
+        "b": 1
+      },
+      "SpecularIntensity": 0,
+      "SpecularSharpness": 2,
+      "FresnelStrength": 0
+    },
+    "CastShadows": true
+  },
+  "Bag": {
+    "Order": 0
+  }
+}

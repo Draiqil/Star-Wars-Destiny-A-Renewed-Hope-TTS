@@ -1,0 +1,55 @@
+{
+  "GUID": "89635b",
+  "Name": "CardCustom",
+  "Transform": {
+    "posX": -0.0597516075,
+    "posY": 3.05880785,
+    "posZ": 6.373562,
+    "rotX": 0.154627547,
+    "rotY": 0.0100090886,
+    "rotZ": 0.210315645,
+    "scaleX": 1.42000186,
+    "scaleY": 1,
+    "scaleZ": 1.42000186
+  },
+  "Nickname": "Smash Title Card - Smashing Cad",
+  "Description": "elite EaW 18",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 59700,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "597": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1816650048186574875/B5A704836C038646F44C7C9AF84B1C44AA4355AF/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1637580007700357224/12F57A0A9121FD26F23C106C0C0E778E6188BFE9/",
+      "NumWidth": 1,
+      "NumHeight": 1,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

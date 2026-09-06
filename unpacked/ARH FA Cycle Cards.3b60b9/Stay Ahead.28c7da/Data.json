@@ -1,0 +1,55 @@
+{
+  "GUID": "28c7da",
+  "Name": "Card",
+  "Transform": {
+    "posX": -40.6106262,
+    "posY": 3.0811553,
+    "posZ": 9.376611,
+    "rotX": -0.00000468233839,
+    "rotY": 359.992279,
+    "rotZ": -0.000008364611,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Stay Ahead",
+  "Description": "HS 74",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "Hands": true,
+  "CardID": 57603,
+  "SidewaysCard": false,
+  "CustomDeck": {
+    "576": {
+      "FaceURL": "https://drive.google.com/uc?id=1a-6fViFzgQDuyJBuC45s7zuklgooIcna",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/948453728009654003/BF04E9296F68BD38D6E2C83071F69234D10F5C8B/",
+      "NumWidth": 10,
+      "NumHeight": 4,
+      "BackIsHidden": true,
+      "UniqueBack": false,
+      "Type": 0
+    }
+  }
+}

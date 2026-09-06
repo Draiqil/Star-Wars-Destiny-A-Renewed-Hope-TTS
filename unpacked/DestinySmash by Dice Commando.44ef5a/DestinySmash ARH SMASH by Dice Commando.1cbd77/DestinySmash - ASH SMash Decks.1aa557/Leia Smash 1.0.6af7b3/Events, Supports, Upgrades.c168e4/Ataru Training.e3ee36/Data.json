@@ -1,0 +1,43 @@
+{
+  "GUID": "e3ee36",
+  "Name": "Card",
+  "Transform": {
+    "posX": 0.309,
+    "posY": 0.195,
+    "posZ": 0.846,
+    "rotX": 0.927,
+    "rotY": 0.63,
+    "rotZ": 0.739,
+    "scaleX": 1.42055011,
+    "scaleY": 1,
+    "scaleZ": 1.42055011
+  },
+  "Nickname": "Ataru Training",
+  "Description": "UH 94",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 0.713235259,
+    "g": 0.713235259,
+    "b": 0.713235259
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": false,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "CardID": 58023,
+  "SidewaysCard": false,
+  "CustomDeck": {}
+}
